@@ -1,6 +1,6 @@
 # SmileText
 
-![SmileText](SmileText.png)
+![SmileText](SmileText_Preview.png)
 
 ## Описание
 

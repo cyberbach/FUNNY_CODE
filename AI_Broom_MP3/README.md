@@ -1,6 +1,6 @@
 # AI Broom MP3
 
-![AI Broom MP3](AI_Broom_MP3/BroomMP3.png)
+![AI Broom MP3](BroomMP3_Preview.png)
 
 ## Описание
 

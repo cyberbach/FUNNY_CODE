@@ -1,6 +1,6 @@
 # Системный Монитор
 
-![SystemMonitor](SystemMonitor.png)
+![SystemMonitor](SystemMonitor_Preview.png)
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-blue)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-UI-green)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
