@@ -1,5 +1,7 @@
 # Системный Монитор
 
+![SystemMonitor](SystemMonitor.png)
+
 [![.NET](https://img.shields.io/badge/.NET-10.0-blue)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-UI-green)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
