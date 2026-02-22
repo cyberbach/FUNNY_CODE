@@ -1,0 +1,60 @@
+# Visual Studio / .NET
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.nupkg
+*.snk
+
+# Build results
+[Dd]esktop.ini
+*.pidb
+*.userprefs
+*.cache
+*.log
+
+# Publish folder (keep it clean)
+publish/
+
+# Dependencies downloaded at runtime
+vosk-model-small-ru-0.22/
+ffmpeg.exe
+yt-dlp.exe
+vosk.dll
+libvosk.dll
+libvosk.lib
+libgcc_s_seh-1.dll
+libstdc++-6.dll
+libwinpthread-1.dll
+vosk_api.h
+
+# Output files
+*_text.txt
+*_subtitles.txt
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+packages/
+*.nuget/
+nuget.config
