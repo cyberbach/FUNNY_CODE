@@ -1,5 +1,7 @@
 # YTVtoText - YouTube Video to Text
 
+![YTVtoText Preview](YTVtoText_Preview.png)
+
 Приложение для скачивания видео с YouTube и распознавания текста из аудио дорожки.
 
 ## Возможности
