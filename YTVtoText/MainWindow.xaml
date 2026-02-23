@@ -40,10 +40,20 @@
         </Grid>
 
         <!-- Options -->
-        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,20">
-            <CheckBox x:Name="SaveVideoCheckBox" Content="Сохранить видео" Margin="0,0,20,0"/>
-            <CheckBox x:Name="DownloadSubtitlesCheckBox" Content="Скачать субтитры" Margin="0,0,20,0" IsChecked="True"/>
-            <CheckBox x:Name="RecognizeTextCheckBox" Content="Распознать текст" Margin="0,0,0,0" IsChecked="True"/>
+        <StackPanel Grid.Row="1" Margin="0,0,0,10">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <CheckBox x:Name="SaveVideoCheckBox" Content="Сохранить видео" Margin="0,0,20,0"/>
+                <CheckBox x:Name="DownloadSubtitlesCheckBox" Content="Скачать субтитры" Margin="0,0,20,0" IsChecked="True"/>
+                <CheckBox x:Name="RecognizeTextCheckBox" Content="Распознать текст" Margin="0,0,0,0" IsChecked="True"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Модель Vosk:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                <ComboBox x:Name="VoskModelComboBox" Width="250" SelectedIndex="0">
+                    <ComboBoxItem Content="Small Russian (ru)" Tag="vosk-model-small-ru-0.22"/>
+                    <ComboBoxItem Content="Small English (en)" Tag="vosk-model-small-en-us-0.15"/>
+                    <ComboBoxItem Content="Medium Russian (ru)" Tag="vosk-model-ru-0.42"/>
+                </ComboBox>
+            </StackPanel>
         </StackPanel>
 
         <!-- Log Output -->

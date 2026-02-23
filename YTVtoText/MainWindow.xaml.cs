@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
@@ -8,6 +9,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
 using YTVtoText.VoskWrapper;
 
 namespace YTVtoText;
@@ -15,7 +17,13 @@ namespace YTVtoText;
 public partial class MainWindow : Window
 {
     private readonly string _appDirectory = AppDomain.CurrentDomain.BaseDirectory;
-    private readonly string _voskModelUrl = "https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip";
+    private readonly Dictionary<string, string> _voskModels = new()
+    {
+        { "vosk-model-small-ru-0.22", "https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip" },
+        { "vosk-model-small-en-us-0.15", "https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip" },
+        { "vosk-model-ru-0.42", "https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip" }
+    };
+    private string _voskModelUrl = "";
     private readonly string _voskDllUrl = "https://github.com/alphacep/vosk-api/releases/download/v0.3.45/vosk-win64-0.3.45.zip";
     private readonly string _ffmpegUrl = "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip";
     private readonly string _ytDlpUrl = "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe";
@@ -42,7 +50,17 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         
-        // Запускаем таймер для анимации активности
+        var selectedItem = VoskModelComboBox.SelectedItem as ComboBoxItem;
+        string modelFolder = selectedItem?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
+        _voskModelUrl = _voskModels.GetValueOrDefault(modelFolder, _voskModels["vosk-model-small-ru-0.22"]);
+        
+        VoskModelComboBox.SelectionChanged += (s, e) =>
+        {
+            var item = VoskModelComboBox.SelectedItem as ComboBoxItem;
+            string modelName = item?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
+            _voskModelUrl = _voskModels.GetValueOrDefault(modelName, _voskModels["vosk-model-small-ru-0.22"]);
+        };
+        
         _activityTimer = new System.Threading.Timer(UpdateActivityIndicator, null, 1000, 1000);
     }
 
@@ -117,11 +135,14 @@ public partial class MainWindow : Window
     {
         Log("Проверка зависимостей...");
 
+        var selectedItem = VoskModelComboBox.SelectedItem as ComboBoxItem;
+        string modelFolder = selectedItem?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
+        
         // Проверка и загрузка модели Vosk (только если нужно распознавание)
-        string modelPath = Path.Combine(_appDirectory, "vosk-model-small-ru-0.22");
+        string modelPath = Path.Combine(_appDirectory, modelFolder);
         if (RecognizeTextCheckBox.IsChecked == true && !Directory.Exists(modelPath))
         {
-            var logId = Log("Загрузка модели Vosk для русского языка...", showProgress: true);
+            var logId = Log($"Загрузка модели {modelFolder}...", showProgress: true);
             await DownloadAndExtractVoskModelAsync(modelPath, logId);
             UpdateLogStatus(logId, true);
         }
