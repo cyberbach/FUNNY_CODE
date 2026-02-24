@@ -13,6 +13,8 @@
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>true</SelfContained>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <!-- Application icon: using RandomRenamer.ico in project root -->
+    <ApplicationIcon>RandomRenamer.ico</ApplicationIcon>
 
     <!-- Enable compression -->
     <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
@@ -20,6 +22,10 @@
 
   <ItemGroup>
     <PackageReference Include="TagLibSharp" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="RandomRenamer.ico" />
   </ItemGroup>
 
 </Project>
