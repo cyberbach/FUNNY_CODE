@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -131,6 +132,35 @@ public partial class MainWindow : Window
         }
     }
 
+    private async void DownloadHQButton_Click(object sender, RoutedEventArgs e)
+    {
+        string url = UrlTextBox.Text.Trim();
+        if (string.IsNullOrEmpty(url))
+        {
+            Log("Ошибка: Введите ссылку на YouTube видео");
+            return;
+        }
+
+        DownloadHQButton.IsEnabled = false;
+        UrlTextBox.IsEnabled = false;
+        DownloadButton.IsEnabled = false;
+
+        try
+        {
+            await DownloadVideoInHQAsync(url);
+        }
+        catch (Exception ex)
+        {
+            Log($"Ошибка: {ex.Message}");
+        }
+        finally
+        {
+            DownloadHQButton.IsEnabled = true;
+            UrlTextBox.IsEnabled = true;
+            DownloadButton.IsEnabled = true;
+        }
+    }
+
     private async Task ProcessVideoAsync(string url)
     {
         Log("Проверка зависимостей...");
@@ -205,7 +235,7 @@ public partial class MainWindow : Window
         if (DownloadSubtitlesCheckBox.IsChecked == true)
         {
             Log("Скачивание субтитров...", skipDuplicate: true);
-            string subtitlePath = await DownloadSubtitlesAsync(url, safeTitle);
+            string? subtitlePath = await DownloadSubtitlesAsync(url, safeTitle);
             if (!string.IsNullOrEmpty(subtitlePath))
             {
                 Log($"Субтитры сохранены: {subtitlePath}", skipDuplicate: true);
@@ -256,7 +286,119 @@ public partial class MainWindow : Window
         Log("Завершение работы");
     }
 
-    private async Task<string> DownloadSubtitlesAsync(string url, string safeTitle)
+    private async Task DownloadVideoInHQAsync(string url)
+    {
+        Log("Начало скачивания HQ видео...");
+
+        // Проверка yt-dlp
+        string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
+        if (!File.Exists(ytDlpPath))
+        {
+            var logId = Log("Загрузка yt-dlp...", showProgress: true);
+            await DownloadYtDlpAsync(ytDlpPath, logId);
+            UpdateLogStatus(logId, true);
+        }
+        else
+        {
+            Log("yt-dlp найден... ОК");
+        }
+
+        // Получаем название видео
+        Log("Получение информации о видео...");
+        string videoTitle = await GetVideoTitleAsync(url);
+        string safeTitle = SanitizeFileName(videoTitle);
+        Log($"Название: {safeTitle}");
+
+        // Скачивание видео в максимальном качестве
+        var downloadLogId = Log("Скачивание видео в HQ (это может занять время)...", showProgress: true);
+        string videoPath = await DownloadVideoInMaxQualityAsync(url, downloadLogId, safeTitle);
+        UpdateLogStatus(downloadLogId, true);
+
+        Log($"Готово! Видео сохранено: {videoPath}");
+        Log("Завершение работы");
+    }
+
+    private async Task<string> DownloadVideoInMaxQualityAsync(string url, int logId, string safeTitle)
+    {
+        string outputPath = Path.Combine(_appDirectory, $"{safeTitle}_HQ.%(ext)s");
+        string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
+
+        // Используем 'bestvideo+bestaudio' для получения максимального качества видео и аудио, затем объединяем их
+        // Если это не работает, fallback на 'best'
+        // Добавляем --no-warnings чтобы не показывать предупреждения о JS runtime
+        var startInfo = new ProcessStartInfo
+        {
+            FileName = ytDlpPath,
+            Arguments = $"-f \"bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio/best\" --merge-output-format mp4 --progress --newline --no-warnings -o \"{outputPath}\" \"{url}\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true,
+            StandardOutputEncoding = Encoding.UTF8,
+            StandardErrorEncoding = Encoding.UTF8
+        };
+
+        using var process = new Process { StartInfo = startInfo };
+        var outputBuilder = new StringBuilder();
+        var errorBuilder = new StringBuilder();
+
+        process.OutputDataReceived += (s, e) => 
+        { 
+            if (e.Data != null) 
+            {
+                outputBuilder.AppendLine(e.Data);
+                // Парсим прогресс из вывода yt-dlp
+                if (e.Data.Contains("[download]") && e.Data.Contains("%"))
+                {
+                    try
+                    {
+                        // Ищем процент в строке типа "[download]   45.3% of ..."
+                        var percentMatch = Regex.Match(e.Data, @"(\d+\.?\d*)%");
+                        if (percentMatch.Success && double.TryParse(percentMatch.Groups[1].Value, System.Globalization.NumberStyles.Float, System.Globalization.CultureInfo.InvariantCulture, out var percent))
+                        {
+                            UpdateLogProgress(logId, (int)percent);
+                        }
+                    }
+                    catch { }
+                }
+            } 
+        };
+        process.ErrorDataReceived += (s, e) => 
+        { 
+            if (e.Data != null) 
+            {
+                errorBuilder.AppendLine(e.Data);
+                // Не логируем предупреждения, только ошибки
+                if (e.Data.Contains("ERROR"))
+                {
+                    Log($"yt-dlp ошибка: {e.Data}");
+                }
+            }
+        };
+
+        process.Start();
+        process.BeginOutputReadLine();
+        process.BeginErrorReadLine();
+
+        await Task.Run(() => process.WaitForExit());
+
+        if (process.ExitCode != 0)
+        {
+            throw new Exception($"yt-dlp ошибка: {errorBuilder.ToString()}");
+        }
+
+        // Найти скачанный файл
+        var videoFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}_HQ.*");
+        if (videoFiles.Length == 0)
+        {
+            throw new Exception("Видео не было скачано");
+        }
+
+        UpdateLogProgress(logId, 100);
+        return videoFiles[0];
+    }
+
+    private async Task<string?> DownloadSubtitlesAsync(string url, string safeTitle)
     {
         string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
         string outputPath = Path.Combine(_appDirectory, $"{safeTitle}_subtitles");
@@ -309,7 +451,7 @@ public partial class MainWindow : Window
         var startInfo = new ProcessStartInfo
         {
             FileName = ytDlpPath,
-            Arguments = $"--dump-json --no-download \"{url}\"",
+            Arguments = $"--dump-json --no-download --no-warnings \"{url}\"",
             RedirectStandardOutput = true,
             RedirectStandardError = true,
             UseShellExecute = false,
@@ -333,7 +475,10 @@ public partial class MainWindow : Window
 
         if (process.ExitCode != 0)
         {
-            throw new Exception($"yt-dlp ошибка: {errorBuilder.ToString()}");
+            Log($"Предупреждение: не удалось получить название видео, используем ID");
+            // Пробуем извлечь ID из URL как fallback
+            var videoId = ExtractVideoIdFromUrl(url);
+            return !string.IsNullOrEmpty(videoId) ? videoId : "video";
         }
 
         var json = outputBuilder.ToString().Trim();
@@ -343,15 +488,54 @@ public partial class MainWindow : Window
             var jsonDoc = JsonSerializer.Deserialize<JsonElement>(json);
             if (jsonDoc.TryGetProperty("title", out var titleProperty))
             {
-                return titleProperty.GetString() ?? "video";
+                var title = titleProperty.GetString();
+                if (!string.IsNullOrEmpty(title))
+                {
+                    return title;
+                }
+            }
+            
+            // Если title не найден, пробуем ID
+            if (jsonDoc.TryGetProperty("id", out var idProperty))
+            {
+                var id = idProperty.GetString();
+                if (!string.IsNullOrEmpty(id))
+                {
+                    return id;
+                }
             }
         }
-        catch
+        catch (Exception ex)
         {
-            // Fallback к простому методу
+            Log($"Ошибка парсинга JSON: {ex.Message}");
         }
         
-        return "video";
+        // Последняя попытка - извлечь ID из URL
+        var fallbackId = ExtractVideoIdFromUrl(url);
+        return !string.IsNullOrEmpty(fallbackId) ? fallbackId : "video";
+    }
+
+    private string ExtractVideoIdFromUrl(string url)
+    {
+        try
+        {
+            // Извлекаем ID из различных форматов YouTube URL
+            // Формат: youtube.com/watch?v=VIDEO_ID
+            var match = Regex.Match(url, @"[?&]v=([^&]+)");
+            if (match.Success)
+            {
+                return match.Groups[1].Value;
+            }
+            
+            // Формат: youtu.be/VIDEO_ID
+            match = Regex.Match(url, @"youtu\.be/([^?&/]+)");
+            if (match.Success)
+            {
+                return match.Groups[1].Value;
+            }
+        }
+        catch { }
+        return "";
     }
 
     private string SanitizeFileName(string fileName)
