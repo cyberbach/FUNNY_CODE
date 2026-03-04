@@ -4,6 +4,9 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
+[![Vosk](https://img.shields.io/badge/Vosk-Apache%202.0-green)](https://alphacephei.com/vosk/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-GPL-red)](https://ffmpeg.org/)
+[![yt-dlp](https://img.shields.io/badge/yt--dlp-Unlicense-blue)](https://github.com/yt-dlp/yt-dlp)
 
 Приложение для скачивания видео с YouTube и распознавания текста из аудио дорожки с помощью нейросети Vosk.
 
@@ -110,9 +113,3 @@ build.bat
 ## Лицензия
 
 MIT License. Приложение сгенерировано нейросетями.
-
-### Зависимости
-
-[![Vosk](https://img.shields.io/badge/Vosk-Apache%202.0-green)](https://alphacephei.com/vosk/)
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-GPL-red)](https://ffmpeg.org/)
-[![yt-dlp](https://img.shields.io/badge/yt--dlp-Unlicense-blue)](https://github.com/yt-dlp/yt-dlp)
