@@ -1,8 +1,18 @@
-# MinimalDotNetApp
+# GenQRLite
 
-![Preview](MinimalDotNetApp_Preview.png)
+![GenQRLite](MinimalDotNetApp_Preview.png)
 
-Минимальное Windows-приложение на .NET 8 с использованием Native AOT.
+![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
+
+Генератор QR-кодов с минимальным интерфейсом на .NET 8 с использованием Native AOT.
+
+## Возможности
+
+- Генерация QR-кодов из текста
+- Сохранение QR-кодов в файл
+- Изменение размера окна
+- Перетаскивание за тело окна
 
 ## Сборка
 
@@ -16,13 +26,8 @@ dotnet publish -c Release -r win-x64
 __Build_Shipping.bat
 ```
 
-## Результат
+Результат: один исполняемый файл размером ~970 КБ.
 
-Один исполняемый файл размером ~970 КБ.
+## Лицензия
 
-## Возможности
-
-- Изменение размера окна
-- Кнопка закрытия
-- Перетаскивание за тело окна
-- Текст "минимальное приложение" по центру
+MIT License. Приложение сгенерировано нейросетями.

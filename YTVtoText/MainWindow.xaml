@@ -5,81 +5,293 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:YTVtoText"
         mc:Ignorable="d"
-        Title="YouTube to Text" Height="550" Width="700"
+        Title="YouTube to Text" Height="620" Width="750"
         WindowStartupLocation="CenterScreen"
-        ResizeMode="CanMinimize">
+        ResizeMode="CanResizeWithGrip"
+        Background="#E8EEF4"
+        MinWidth="600">
+
+    <Window.Resources>
+        <Color x:Key="AccentColor">#3D8BC1</Color>
+        <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentColor}"/>
+        <SolidColorBrush x:Key="AccentHoverBrush" Color="#2D6BA1"/>
+
+        <!-- Базовый стиль TextBox с закруглёнными углами и вертикальным центрированием -->
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="12,0"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Background" Value="#F5F7FA"/>
+            <Setter Property="BorderBrush" Value="#D1D9E6"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="8">
+                            <ScrollViewer x:Name="PART_ContentHost" 
+                                          Margin="2,0"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для кнопок с закруглёнными углами -->
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="{StaticResource AccentBrush}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource AccentHoverBrush}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для ComboBox с закруглёнными углами и выравниванием -->
+        <Style x:Key="RoundedComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Background" Value="#F5F7FA"/>
+            <Setter Property="BorderBrush" Value="#D1D9E6"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <Border x:Name="border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="8">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <ContentPresenter x:Name="contentPresenter"
+                                                      Grid.Column="0"
+                                                      Content="{TemplateBinding SelectionBoxItem}"
+                                                      ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                                      ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}"
+                                                      Margin="{TemplateBinding Padding}"
+                                                      HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                      VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    <ToggleButton x:Name="toggleButton"
+                                                  Grid.Column="1"
+                                                  Background="Transparent"
+                                                  BorderThickness="0"
+                                                  IsChecked="{Binding IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}"
+                                                  Width="20"
+                                                  Margin="0,0,8,0">
+                                        <Path Data="M0,0 L4,4 L8,0" Fill="#666" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </ToggleButton>
+                                </Grid>
+                            </Border>
+                            <Popup x:Name="PART_Popup"
+                                   Placement="Bottom"
+                                   IsOpen="{TemplateBinding IsDropDownOpen}"
+                                   AllowsTransparency="True"
+                                   Focusable="False"
+                                   PopupAnimation="Slide">
+                                <Border Background="#FFFFFF"
+                                        BorderBrush="#D1D9E6"
+                                        BorderThickness="1"
+                                        CornerRadius="8"
+                                        Margin="0,2,0,0"
+                                        MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <ScrollViewer>
+                                        <ItemsPresenter x:Name="itemsPresenter"/>
+                                    </ScrollViewer>
+                                </Border>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Единый стиль для чекбоксов -->
+        <Style TargetType="CheckBox">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="#1A1A2E"/>
+        </Style>
+    </Window.Resources>
+
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- URL Input -->
-        <Grid Grid.Row="0">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="Auto"/>
-            </Grid.ColumnDefinitions>
-            <TextBox x:Name="UrlTextBox" 
-                     Grid.Column="0"
-                     Height="30" 
-                     FontSize="14"
-                     VerticalContentAlignment="Center"
-                     Margin="0,0,10,20"
-                     TextWrapping="NoWrap"/>
-            <Button x:Name="DownloadButton" 
-                    Grid.Column="1"
-                    Content="Скачать" 
-                    Width="100" 
-                    Height="30" 
-                    FontSize="14"
-                    Margin="0,0,0,20"
-                    Click="DownloadButton_Click"/>
-        </Grid>
-
-        <!-- Options -->
-        <StackPanel Grid.Row="1" Margin="0,0,0,10">
-            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
-                <CheckBox x:Name="SaveVideoCheckBox" Content="Сохранить видео" Margin="0,0,20,0"/>
-                <CheckBox x:Name="DownloadSubtitlesCheckBox" Content="Скачать субтитры" Margin="0,0,20,0" IsChecked="True"/>
-                <CheckBox x:Name="RecognizeTextCheckBox" Content="Распознать текст" Margin="0,0,0,0" IsChecked="True"/>
+        <!-- Блок Видео -->
+        <Border Grid.Row="0"
+                Background="#FFFFFF"
+                CornerRadius="12"
+                Padding="20"
+                Margin="0,0,0,15">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="15" ShadowDepth="2" Opacity="0.08" Direction="270"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Видео" FontSize="18" FontWeight="SemiBold" FontFamily="Segoe UI" Foreground="#1A1A2E" Margin="0,0,0,15"/>
+                <TextBox x:Name="UrlTextBox" 
+                         Height="40"
+                         ToolTip="Ссылка на YouTube видео"/>
+                <Grid Margin="0,12,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="SavePathTextBox" 
+                             Grid.Column="0"
+                             Height="40"
+                             ToolTip="Папка для сохранения файлов"/>
+                    <Button x:Name="BrowseFolderButton" 
+                            Grid.Column="1"
+                            Content="..."
+                            Width="50"
+                            Height="40"
+                            Margin="10,0,0,0"
+                            Style="{StaticResource RoundedButtonStyle}"
+                            ToolTip="Выбрать папку"
+                            Click="BrowseFolderButton_Click"/>
+                </Grid>
             </StackPanel>
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Модель Vosk:" VerticalAlignment="Center" Margin="0,0,10,0"/>
-                <ComboBox x:Name="VoskModelComboBox" Width="250" SelectedIndex="0">
-                    <ComboBoxItem Content="Small Russian (ru)" Tag="vosk-model-small-ru-0.22"/>
-                    <ComboBoxItem Content="Small English (en)" Tag="vosk-model-small-en-us-0.15"/>
-                    <ComboBoxItem Content="Medium Russian (ru)" Tag="vosk-model-ru-0.42"/>
-                </ComboBox>
-            </StackPanel>
-        </StackPanel>
+        </Border>
 
-        <!-- Log Output -->
-        <Grid Grid.Row="2">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="Auto"/>
-            </Grid.RowDefinitions>
-            
-            <TextBox x:Name="LogTextBox" 
-                     Grid.Row="0"
-                     Height="300"
-                     FontSize="13"
-                     FontFamily="Consolas"
-                     IsReadOnly="True"
-                     VerticalScrollBarVisibility="Auto"
-                     TextWrapping="Wrap"
-                     AcceptsReturn="True"
-                     Margin="0,0,0,10"/>
-            
-            <Button x:Name="DownloadHQButton" 
-                    Grid.Row="1"
-                    Content="Скачать видео в HQ" 
-                    Height="35" 
-                    FontSize="14"
-                    Click="DownloadHQButton_Click"/>
-        </Grid>
+        <!-- Блок Настройки -->
+        <Border Grid.Row="1"
+                Background="#FFFFFF"
+                CornerRadius="12"
+                Padding="20"
+                Margin="0,0,0,15">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="15" ShadowDepth="2" Opacity="0.08" Direction="270"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Настройки" FontSize="18" FontWeight="SemiBold" FontFamily="Segoe UI" Foreground="#1A1A2E" Margin="0,0,0,15"/>
+                <WrapPanel Margin="0,0,0,15">
+                    <CheckBox x:Name="SaveVideoCheckBox" 
+                              Content="Сохранить видео"
+                              Margin="0,0,20,5"
+                              ToolTip="Сохранить видеофайл на диск"/>
+                    <CheckBox x:Name="DownloadSubtitlesCheckBox" 
+                              Content="Скачать субтитры"
+                              Margin="0,0,20,5"
+                              IsChecked="True"
+                              ToolTip="Загрузить субтитры, если доступны"/>
+                    <CheckBox x:Name="RecognizeTextCheckBox" 
+                              Content="Распознать текст"
+                              Margin="0,0,20,5"
+                              IsChecked="True"
+                              ToolTip="Распознать речь из видео (Vosk)"/>
+                    <CheckBox x:Name="HQVideoCheckBox" 
+                              Content="High-Quality Video"
+                              Margin="0,0,0,5"
+                              ToolTip="Загружать видео в максимальном качестве"
+                              Checked="HQVideoCheckBox_Changed"
+                              Unchecked="HQVideoCheckBox_Changed"/>
+                </WrapPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                    <TextBlock Text="Модель Vosk:" 
+                               VerticalAlignment="Center" 
+                               FontSize="14"
+                               FontFamily="Segoe UI"
+                               Foreground="#1A1A2E"
+                               Margin="0,0,12,0"/>
+                    <ComboBox x:Name="VoskModelComboBox" 
+                              Style="{StaticResource RoundedComboBoxStyle}"
+                              SelectedIndex="0"
+                              HorizontalAlignment="Stretch">
+                        <ComboBoxItem Content="Small Russian (ru)" Tag="vosk-model-small-ru-0.22"/>
+                        <ComboBoxItem Content="Small English (en)" Tag="vosk-model-small-en-us-0.15"/>
+                        <ComboBoxItem Content="Medium Russian (ru)" Tag="vosk-model-ru-0.42"/>
+                    </ComboBox>
+                </StackPanel>
+                <Button x:Name="DownloadHQButton" 
+                        Content="Скачать"
+                        Height="48"
+                        FontSize="15"
+                        Style="{StaticResource RoundedButtonStyle}"
+                        Click="DownloadHQButton_Click"
+                        HorizontalAlignment="Stretch"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Блок Лог выполнения -->
+        <Border Grid.Row="2"
+                Background="#FFFFFF"
+                CornerRadius="12"
+                Padding="20"
+                Margin="0,0,0,10">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="15" ShadowDepth="2" Opacity="0.08" Direction="270"/>
+            </Border.Effect>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" 
+                           Text="Лог выполнения" 
+                           FontSize="18" 
+                           FontWeight="SemiBold" 
+                           FontFamily="Segoe UI" 
+                           Foreground="#1A1A2E" 
+                           Margin="0,0,0,15"/>
+                <TextBox x:Name="LogTextBox" 
+                         Grid.Row="1"
+                         MinHeight="120"
+                         FontSize="15"
+                         FontFamily="Cascadia Code, Consolas, monospace"
+                         IsReadOnly="True"
+                         VerticalScrollBarVisibility="Auto"
+                         HorizontalScrollBarVisibility="Auto"
+                         TextWrapping="Wrap"
+                         AcceptsReturn="True"
+                         Padding="12"
+                         Background="#F5F7FA"
+                         BorderBrush="#D1D9E6"
+                         BorderThickness="1"
+                         VerticalContentAlignment="Top"/>
+            </Grid>
+        </Border>
+
+        <!-- Прогресс-бар -->
+        <ProgressBar x:Name="ProgressBar"
+                     Grid.Row="3"
+                     Height="10"
+                     Background="#D1D9E6"
+                     Foreground="{StaticResource AccentBrush}"
+                     BorderThickness="0"
+                     IsIndeterminate="False"
+                     Minimum="0"
+                     Maximum="100"
+                     Visibility="Collapsed"/>
     </Grid>
 </Window>

@@ -11,6 +11,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using Microsoft.Win32;
 using YTVtoText.VoskWrapper;
 
 namespace YTVtoText;
@@ -18,6 +19,7 @@ namespace YTVtoText;
 public partial class MainWindow : Window
 {
     private readonly string _appDirectory = AppDomain.CurrentDomain.BaseDirectory;
+    private string SaveDirectory => string.IsNullOrWhiteSpace(SavePathTextBox.Text) ? _appDirectory : SavePathTextBox.Text;
     private readonly Dictionary<string, string> _voskModels = new()
     {
         { "vosk-model-small-ru-0.22", "https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip" },
@@ -50,6 +52,8 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
+        
+        SavePathTextBox.Text = @"d:\youtube_download";
         
         var selectedItem = VoskModelComboBox.SelectedItem as ComboBoxItem;
         string modelFolder = selectedItem?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
@@ -105,30 +109,29 @@ public partial class MainWindow : Window
         LogTextBox.ScrollToEnd();
     }
 
-    private async void DownloadButton_Click(object sender, RoutedEventArgs e)
+    private void BrowseFolderButton_Click(object sender, RoutedEventArgs e)
     {
-        string url = UrlTextBox.Text.Trim();
-        if (string.IsNullOrEmpty(url))
+        var dialog = new OpenFolderDialog
         {
-            Log("Ошибка: Введите ссылку на YouTube видео");
-            return;
-        }
+            Title = "Выберите папку для сохранения",
+            InitialDirectory = Directory.Exists(SavePathTextBox.Text) ? SavePathTextBox.Text : @"d:\"
+        };
 
-        DownloadButton.IsEnabled = false;
-        UrlTextBox.IsEnabled = false;
+        if (dialog.ShowDialog() == true)
+        {
+            SavePathTextBox.Text = dialog.FolderName;
+        }
+    }
 
-        try
+    private void HQVideoCheckBox_Changed(object sender, RoutedEventArgs e)
+    {
+        if (HQVideoCheckBox.IsChecked == true)
         {
-            await ProcessVideoAsync(url);
+            DownloadHQButton.Content = "Скачать в HQ";
         }
-        catch (Exception ex)
+        else
         {
-            Log($"Ошибка: {ex.Message}");
-        }
-        finally
-        {
-            DownloadButton.IsEnabled = true;
-            UrlTextBox.IsEnabled = true;
+            DownloadHQButton.Content = "Скачать";
         }
     }
 
@@ -141,13 +144,24 @@ public partial class MainWindow : Window
             return;
         }
 
+        if (!Directory.Exists(SaveDirectory))
+        {
+            Directory.CreateDirectory(SaveDirectory);
+        }
+
         DownloadHQButton.IsEnabled = false;
         UrlTextBox.IsEnabled = false;
-        DownloadButton.IsEnabled = false;
 
         try
         {
-            await DownloadVideoInHQAsync(url);
+            if (HQVideoCheckBox.IsChecked == true)
+            {
+                await DownloadVideoInHQAsync(url);
+            }
+            else
+            {
+                await ProcessVideoAsync(url);
+            }
         }
         catch (Exception ex)
         {
@@ -157,13 +171,19 @@ public partial class MainWindow : Window
         {
             DownloadHQButton.IsEnabled = true;
             UrlTextBox.IsEnabled = true;
-            DownloadButton.IsEnabled = true;
         }
     }
 
     private async Task ProcessVideoAsync(string url)
     {
         Log("Проверка зависимостей...");
+
+        if (!Directory.Exists(SaveDirectory))
+        {
+            Directory.CreateDirectory(SaveDirectory);
+        }
+
+        Log($"Папка сохранения: {SaveDirectory}");
 
         var selectedItem = VoskModelComboBox.SelectedItem as ComboBoxItem;
         string modelFolder = selectedItem?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
@@ -259,7 +279,7 @@ public partial class MainWindow : Window
 
             // Сохранение текста
             Log("Сохранение текстового файла...", skipDuplicate: true);
-            string textFilePath = SaveTextFile(recognizedText, safeTitle);
+            string textFilePath = await SaveTextFileAsync(recognizedText, safeTitle);
 
             Log($"Готово! Текст сохранён в: {textFilePath}");
         }
@@ -271,7 +291,7 @@ public partial class MainWindow : Window
                 // Удаляем видео
                 try
                 {
-                    var videoFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}.*");
+                    var videoFiles = Directory.GetFiles(SaveDirectory, $"{safeTitle}.*");
                     foreach (var file in videoFiles)
                     {
                         if (file.EndsWith("_subtitles.txt")) continue;
@@ -303,6 +323,8 @@ public partial class MainWindow : Window
             Log("yt-dlp найден... ОК");
         }
 
+        Log($"Папка сохранения: {SaveDirectory}");
+
         // Получаем название видео
         Log("Получение информации о видео...");
         string videoTitle = await GetVideoTitleAsync(url);
@@ -320,7 +342,7 @@ public partial class MainWindow : Window
 
     private async Task<string> DownloadVideoInMaxQualityAsync(string url, int logId, string safeTitle)
     {
-        string outputPath = Path.Combine(_appDirectory, $"{safeTitle}_HQ.%(ext)s");
+        string outputPath = Path.Combine(SaveDirectory, $"{safeTitle}_HQ.%(ext)s");
         string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
 
         // Используем 'bestvideo+bestaudio' для получения максимального качества видео и аудио, затем объединяем их
@@ -388,7 +410,7 @@ public partial class MainWindow : Window
         }
 
         // Найти скачанный файл
-        var videoFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}_HQ.*");
+        var videoFiles = Directory.GetFiles(SaveDirectory, $"{safeTitle}_HQ.*");
         if (videoFiles.Length == 0)
         {
             throw new Exception("Видео не было скачано");
@@ -401,7 +423,7 @@ public partial class MainWindow : Window
     private async Task<string?> DownloadSubtitlesAsync(string url, string safeTitle)
     {
         string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
-        string outputPath = Path.Combine(_appDirectory, $"{safeTitle}_subtitles");
+            string outputPath = Path.Combine(SaveDirectory, $"{safeTitle}_subtitles");
         
         var startInfo = new ProcessStartInfo
         {
@@ -429,12 +451,12 @@ public partial class MainWindow : Window
         await Task.Run(() => process.WaitForExit());
 
         // Ищем файл с субтитрами (может быть .vtt или .srv3)
-        var subtitleFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}_subtitles.*");
+        var subtitleFiles = Directory.GetFiles(SaveDirectory, $"{safeTitle}_subtitles.*");
         
         // Переименовываем в .txt
         if (subtitleFiles.Length > 0)
         {
-            string txtPath = Path.Combine(_appDirectory, $"{safeTitle}_subtitles.txt");
+            string txtPath = Path.Combine(SaveDirectory, $"{safeTitle}_subtitles.txt");
             File.Copy(subtitleFiles[0], txtPath, true);
             File.Delete(subtitleFiles[0]);
             return txtPath;
@@ -699,7 +721,7 @@ public partial class MainWindow : Window
 
     private async Task<string> DownloadVideoAsync(string url, int logId, string safeTitle)
     {
-        string outputPath = Path.Combine(_appDirectory, $"{safeTitle}.%(ext)s");
+        string outputPath = Path.Combine(SaveDirectory, $"{safeTitle}.%(ext)s");
         string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
 
         var startInfo = new ProcessStartInfo
@@ -752,7 +774,7 @@ public partial class MainWindow : Window
         }
 
         // Найти скачанный файл
-        var videoFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}.*");
+        var videoFiles = Directory.GetFiles(SaveDirectory, $"{safeTitle}.*");
         if (videoFiles.Length == 0)
         {
             throw new Exception("Видео не было скачано");
@@ -860,13 +882,13 @@ public partial class MainWindow : Window
     private async Task<List<string>> ConvertToWavChunksAsync(string videoPath, int logId, string safeTitle)
     {
         var chunkFiles = new List<string>();
-        string tempDir = Path.Combine(_appDirectory, "temp_chunks");
+        string tempDir = Path.Combine(SaveDirectory, "temp_chunks");
 
         if (Directory.Exists(tempDir))
             Directory.Delete(tempDir, true);
         Directory.CreateDirectory(tempDir);
 
-        Dispatcher.Invoke(() => Log("Получение длительности видео...", skipDuplicate: true));
+        Log("Получение длительности видео...", skipDuplicate: true);
 
         // Получаем длительность видео
         TimeSpan? totalDuration = null;
@@ -906,21 +928,21 @@ public partial class MainWindow : Window
             throw new Exception("Не удалось получить длительность видео");
         }
 
-        Dispatcher.Invoke(() => Log($"Длительность: {totalDuration.Value:hh\\:mm\\:ss}", skipDuplicate: true));
+        Log($"Длительность: {totalDuration.Value:hh\\:mm\\:ss}", skipDuplicate: true);
 
         // Разбиваем на чанки по 29 секунд
         int chunkDuration = 29; // секунд
         int totalChunks = (int)Math.Ceiling(totalDuration.Value.TotalSeconds / chunkDuration);
         int processedChunks = 0;
 
-        Dispatcher.Invoke(() => Log($"Всего чанков: {totalChunks}", skipDuplicate: true));
+        Log($"Всего чанков: {totalChunks}", skipDuplicate: true);
 
         for (int i = 0; i < totalChunks; i++)
         {
             string chunkPath = Path.Combine(tempDir, $"{safeTitle}_chunk_{i:D4}.wav");
             int startTime = i * chunkDuration;
             
-            Dispatcher.Invoke(() => Log($"Создание чанка {i + 1}/{totalChunks}...", skipDuplicate: true));
+            Log($"Создание чанка {i + 1}/{totalChunks}...", skipDuplicate: true);
 
             var startInfo = new ProcessStartInfo
             {
@@ -945,11 +967,11 @@ public partial class MainWindow : Window
             if (process.ExitCode == 0 && File.Exists(chunkPath))
             {
                 chunkFiles.Add(chunkPath);
-                Dispatcher.Invoke(() => Log($"Чанк {i + 1} создан", skipDuplicate: true));
+                Log($"Чанк {i + 1} создан", skipDuplicate: true);
             }
             else
             {
-                Dispatcher.Invoke(() => Log($"Ошибка создания чанка {i + 1}: {ffmpegError}", skipDuplicate: true));
+                Log($"Ошибка создания чанка {i + 1}: {ffmpegError}", skipDuplicate: true);
             }
 
             processedChunks++;
@@ -958,7 +980,7 @@ public partial class MainWindow : Window
         }
 
         UpdateLogProgress(logId, 100);
-        Dispatcher.Invoke(() => Log($"Создано чанков: {chunkFiles.Count}", skipDuplicate: true));
+        Log($"Создано чанков: {chunkFiles.Count}", skipDuplicate: true);
         return chunkFiles;
     }
 
@@ -1007,18 +1029,28 @@ public partial class MainWindow : Window
 
                     // Обновляем прогресс
                     int progress = ((i + 1) * 100) / totalChunks;
-                    UpdateLogProgress(logId, progress);
+                    Dispatcher.Invoke(() => UpdateLogProgress(logId, progress));
                 }
 
-                // Очищаем временные файлы
+                // Очищаем временные файлы в основном потоке через Dispatcher
                 Dispatcher.Invoke(() => Log("Очистка временных файлов...", skipDuplicate: true));
-                string tempDir = Path.Combine(_appDirectory, "temp_chunks");
+                
+                string saveDir = null!;
+                Dispatcher.Invoke(() => saveDir = SaveDirectory);
+                string tempDir = Path.Combine(saveDir, "temp_chunks");
                 if (Directory.Exists(tempDir))
                 {
-                    Directory.Delete(tempDir, true);
+                    try
+                    {
+                        Directory.Delete(tempDir, true);
+                    }
+                    catch (Exception cleanupEx)
+                    {
+                        Dispatcher.Invoke(() => Log($"Ошибка очистки временных файлов: {cleanupEx.Message}", skipDuplicate: true));
+                    }
                 }
 
-                UpdateLogProgress(logId, 100);
+                Dispatcher.Invoke(() => UpdateLogProgress(logId, 100));
                 return result.ToString().Trim();
             }
             catch (Exception ex)
@@ -1088,7 +1120,7 @@ public partial class MainWindow : Window
         {
             try
             {
-                Dispatcher.Invoke(() => Log($"Загрузка модели из: {modelPath}"));
+                Log($"Загрузка модели из: {modelPath}");
                 
                 if (!Directory.Exists(modelPath))
                 {
@@ -1096,20 +1128,20 @@ public partial class MainWindow : Window
                 }
 
                 using var model = new VoskModel(modelPath);
-                Dispatcher.Invoke(() => Log("Модель загружена"));
+                Log("Модель загружена");
                 
                 using var recognizer = new VoskRecognizer(model, 16000f);
-                Dispatcher.Invoke(() => Log("Распознаватель создан"));
+                Log("Распознаватель создан");
 
                 var fileInfo = new FileInfo(wavPath);
                 if (!fileInfo.Exists)
                 {
                     throw new Exception($"WAV файл не найден: {wavPath}");
                 }
-                Dispatcher.Invoke(() => Log($"Размер WAV файла: {fileInfo.Length} байт"));
+                Log($"Размер WAV файла: {fileInfo.Length} байт");
 
                 using var waveStream = new VoskWaveStream(wavPath);
-                Dispatcher.Invoke(() => Log($"Длина аудио: {waveStream.Length} байт"));
+                Log($"Длина аудио: {waveStream.Length} байт");
                 
                 var buffer = new byte[4096];
                 var result = new StringBuilder();
@@ -1131,7 +1163,7 @@ public partial class MainWindow : Window
                     if (recognizer.AcceptWaveform(buffer, bytesRead))
                     {
                         var text = recognizer.Result();
-                        Dispatcher.Invoke(() => Log($"Распознано: {text}"));
+                        Log($"Распознано: {text}");
                         if (!string.IsNullOrEmpty(text))
                         {
                             // Парсим JSON результат Vosk
@@ -1148,11 +1180,11 @@ public partial class MainWindow : Window
                     }
                 }
 
-                Dispatcher.Invoke(() => Log($"Всего обработано чанков: {chunkCount}"));
+                Log($"Всего обработано чанков: {chunkCount}");
 
                 // Получить финальный результат
                 var finalResult = recognizer.FinalResult();
-                Dispatcher.Invoke(() => Log($"Финальный результат: {finalResult}"));
+                Log($"Финальный результат: {finalResult}");
                 
                 var finalJson = JsonSerializer.Deserialize<JsonElement>(finalResult);
                 if (finalJson.TryGetProperty("text", out var finalTextProperty))
@@ -1169,70 +1201,85 @@ public partial class MainWindow : Window
             }
             catch (Exception ex)
             {
-                Dispatcher.Invoke(() => Log($"Ошибка распознавания: {ex.Message}"));
-                Dispatcher.Invoke(() => Log($"Stack trace: {ex.StackTrace}"));
+                Log($"Ошибка распознавания: {ex.Message}");
+                Log($"Stack trace: {ex.StackTrace}");
                 throw;
             }
         });
     }
 
-    private string SaveTextFile(string text, string safeTitle)
+    private async Task<string> SaveTextFileAsync(string text, string safeTitle)
     {
-        string textFilePath = Path.Combine(_appDirectory, $"{safeTitle}_text.txt");
-
-        // Инструкция для нейронки
-        string instruction = """
-            Этот текст получен при декодировании видео с ютуба через распознавание речи Vosk.
-            ---
-            """;
-
-        // Сохраняем в Windows-1251 для корректного отображения кириллицы
-        var windows1251 = Encoding.GetEncoding(1251);
-        File.WriteAllText(textFilePath, instruction + text, windows1251);
-
-        // Очистка временных файлов
-        try
+        return await Task.Run(() =>
         {
-            // Удаляем видео и чанки
-            var videoFiles = Directory.GetFiles(_appDirectory, $"{safeTitle}.*");
-            foreach (var file in videoFiles)
-            {
-                if (file.EndsWith("_text.txt")) continue;
-                if (file.EndsWith("_subtitles.txt")) continue; // Сохраняем субтитры
-                File.Delete(file);
-            }
+            string saveDir = null!;
+            Dispatcher.Invoke(() => saveDir = SaveDirectory);
             
-            string tempDir = Path.Combine(_appDirectory, "temp_chunks");
-            if (Directory.Exists(tempDir))
-            {
-                Directory.Delete(tempDir, true);
-            }
-        }
-        catch { }
+            string textFilePath = Path.Combine(saveDir, $"{safeTitle}_text.txt");
 
-        return textFilePath;
+            // Инструкция для нейронки
+            string instruction = """
+                Этот текст получен при декодировании видео с ютуба через распознавание речи Vosk.
+                ---
+                """;
+
+            // Сохраняем в Windows-1251 для корректного отображения кириллицы
+            var windows1251 = Encoding.GetEncoding(1251);
+            File.WriteAllText(textFilePath, instruction + text, windows1251);
+
+            // Очистка временных файлов
+            try
+            {
+                // Удаляем видео и чанки
+                var videoFiles = Directory.GetFiles(saveDir, $"{safeTitle}.*");
+                foreach (var file in videoFiles)
+                {
+                    if (file.EndsWith("_text.txt")) continue;
+                    if (file.EndsWith("_subtitles.txt")) continue; // Сохраняем субтитры
+                    File.Delete(file);
+                }
+                
+                string tempDir = Path.Combine(saveDir, "temp_chunks");
+                if (Directory.Exists(tempDir))
+                {
+                    Directory.Delete(tempDir, true);
+                }
+            }
+            catch { }
+
+            return textFilePath;
+        });
     }
 
     private int Log(string message, bool showProgress = false, bool showActivity = false, bool skipDuplicate = false)
     {
-        var result = Dispatcher.Invoke(() =>
+        if (Dispatcher.CheckAccess())
+        {
+            return LogInternal(message, showProgress, showActivity, skipDuplicate);
+        }
+        else
+        {
+            Dispatcher.BeginInvoke(new Action(() => LogInternal(message, showProgress, showActivity, skipDuplicate)));
+            return -1;
+        }
+    }
+
+    private int LogInternal(string message, bool showProgress = false, bool showActivity = false, bool skipDuplicate = false)
+    {
+        try
         {
             if (skipDuplicate)
             {
-                // Проверяем, есть ли уже такая строка в конце лога
                 var text = LogTextBox.Text;
                 var lines = text.Split('\n');
-                // Проверяем последние 10 строк
                 for (int i = Math.Max(0, lines.Length - 11); i < lines.Length - 1; i++)
                 {
-                    // Сравниваем без временной метки
                     var lineWithoutTime = lines[i].Length > 12 ? lines[i].Substring(12) : lines[i];
                     var messageWithoutTime = message;
                     if (lineWithoutTime.Trim() == messageWithoutTime.Trim())
                     {
-                        // Удаляем дубликат
                         var lineStart = LogTextBox.GetCharacterIndexFromLineIndex(i);
-                        var lineLength = lines[i].Length + 1; // +1 для \n
+                        var lineLength = lines[i].Length + 1;
                         LogTextBox.Select(lineStart, lineLength);
                         LogTextBox.SelectedText = "";
                         break;
@@ -1244,25 +1291,44 @@ public partial class MainWindow : Window
             var fullMessage = $"[{timestamp}] {message}";
             LogTextBox.AppendText(fullMessage + Environment.NewLine);
             LogTextBox.ScrollToEnd();
-            return LogTextBox.LineCount - 1;
-        });
+            
+            if (showProgress || showActivity)
+            {
+                var logId = _logIdCounter++;
+                _logEntries[logId] = new LogEntry { BaseMessage = message, LineIndex = LogTextBox.LineCount - 1, ShowActivity = showActivity };
+                return logId;
+            }
 
-        if (showProgress || showActivity)
-        {
-            var logId = _logIdCounter++;
-            _logEntries[logId] = new LogEntry { BaseMessage = message, LineIndex = result, ShowActivity = showActivity };
-            return logId;
+            return -1;
         }
-
-        return -1;
+        catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"LogInternal error: {ex}");
+            return -1;
+        }
     }
 
     private void UpdateLogProgress(int logId, int progress)
     {
-        Dispatcher.Invoke(() =>
+        if (Dispatcher.CheckAccess())
+        {
+            UpdateLogProgressInternal(logId, progress);
+        }
+        else
+        {
+            Dispatcher.BeginInvoke(new Action(() => UpdateLogProgressInternal(logId, progress)));
+        }
+    }
+
+    private void UpdateLogProgressInternal(int logId, int progress)
+    {
+        try
         {
             if (!_logEntries.TryGetValue(logId, out var entry))
                 return;
+
+            ProgressBar.Visibility = Visibility.Visible;
+            ProgressBar.Value = progress;
 
             var textLines = LogTextBox.Text.Split('\n');
             if (entry.LineIndex < 0 || entry.LineIndex >= textLines.Length)
@@ -1271,32 +1337,44 @@ public partial class MainWindow : Window
             var timestamp = DateTime.Now.ToString("HH:mm:ss");
             var newMessage = $"[{timestamp}] {entry.BaseMessage} {progress}%";
 
-            // Сохраняем позицию курсора
             var caretIndex = LogTextBox.CaretIndex;
             var selectionStart = LogTextBox.SelectionStart;
             var selectionLength = LogTextBox.SelectionLength;
 
-            // Заменяем строку
             var lineStart = LogTextBox.GetCharacterIndexFromLineIndex(entry.LineIndex);
             var lineEnd = lineStart + textLines[entry.LineIndex].Length;
             LogTextBox.Select(lineStart, lineEnd - lineStart);
             LogTextBox.Text = LogTextBox.Text.Remove(lineStart, lineEnd - lineStart).Insert(lineStart, newMessage);
 
-            // Восстанавливаем позицию курсора
             LogTextBox.Select(selectionStart, selectionLength);
             LogTextBox.CaretIndex = caretIndex;
             LogTextBox.ScrollToEnd();
-        });
+        }
+        catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"UpdateLogProgressInternal error: {ex}");
+        }
     }
 
     private void UpdateLogStatus(int logId, bool success)
     {
-        Dispatcher.Invoke(() =>
+        if (Dispatcher.CheckAccess())
+        {
+            UpdateLogStatusInternal(logId, success);
+        }
+        else
+        {
+            Dispatcher.BeginInvoke(new Action(() => UpdateLogStatusInternal(logId, success)));
+        }
+    }
+
+    private void UpdateLogStatusInternal(int logId, bool success)
+    {
+        try
         {
             if (!_logEntries.TryGetValue(logId, out var entry))
                 return;
 
-            // Отключаем анимацию активности
             entry.ShowActivity = false;
 
             var textLines = LogTextBox.Text.Split('\n');
@@ -1307,24 +1385,31 @@ public partial class MainWindow : Window
             var status = success ? "ОК" : "Ошибка";
             var newMessage = $"[{timestamp}] {entry.BaseMessage} {status}";
 
-            // Сохраняем позицию курсора
             var caretIndex = LogTextBox.CaretIndex;
             var selectionStart = LogTextBox.SelectionStart;
             var selectionLength = LogTextBox.SelectionLength;
 
-            // Заменяем строку и добавляем перенос
             var lineStart = LogTextBox.GetCharacterIndexFromLineIndex(entry.LineIndex);
             var lineEnd = lineStart + textLines[entry.LineIndex].Length;
             LogTextBox.Select(lineStart, lineEnd - lineStart);
             LogTextBox.Text = LogTextBox.Text.Remove(lineStart, lineEnd - lineStart).Insert(lineStart, newMessage + "\n");
 
-            // Восстанавливаем позицию курсора
             LogTextBox.Select(selectionStart, selectionLength);
             LogTextBox.CaretIndex = caretIndex;
             LogTextBox.ScrollToEnd();
 
             _logEntries.Remove(logId);
-        });
+            
+            if (_logEntries.Count == 0)
+            {
+                ProgressBar.Value = 0;
+                ProgressBar.Visibility = Visibility.Collapsed;
+            }
+        }
+        catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"UpdateLogStatusInternal error: {ex}");
+        }
     }
 }
 

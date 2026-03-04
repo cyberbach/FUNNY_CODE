@@ -1,6 +1,9 @@
-![Preview](TGHistoryRipper_Preview.png)
-
 # TG History Ripper
+
+![TGHistoryRipper](TGHistoryRipper_Preview.png)
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows)
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)
 
 WPF-приложение для извлечения и категоризации ссылок из экспорта истории чатов Telegram.
 
@@ -46,10 +49,7 @@ Unity, Blender, ZBrush, Cinema4D, 3dsMax, Houdini, SketchUp, Maya, Marvelous, э
 3. При необходимости измените список хештегов для экспорта
 4. Нажмите "Сохранить"
 
-Программа:
-- Удаляет указанные поля из основного файла
-- Создаёт `.old` бэкап оригинального файла
-- Для каждого хештега создаёт Markdown-файл с категориями (например, `result_Unreal.md`)
+Программа создаёт `.old` бэкап и для каждого хештега создаёт Markdown-файл с категориями.
 
 ## Пример вывода
 
@@ -64,14 +64,12 @@ Unity, Blender, ZBrush, Cinema4D, 3dsMax, Houdini, SketchUp, Maya, Marvelous, э
 - [Low Poly Tree Pack](https://t.me/345)
 ```
 
-## Требования
-
-- .NET 10.0 (или новее)
-- Windows
-
 ## Сборка
 
 ```bash
 dotnet build
-dotnet run
 ```
+
+## Лицензия
+
+MIT License. Приложение сгенерировано нейросетями.

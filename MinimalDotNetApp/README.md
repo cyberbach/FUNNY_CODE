@@ -1,8 +1,18 @@
 # MinimalDotNetApp
 
-![Preview](MinimalDotNetApp_Preview.png)
+![MinimalDotNetApp](MinimalDotNetApp_Preview.png)
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 
 Минимальное Windows-приложение на .NET 8 с использованием Native AOT.
+
+## Возможности
+
+- Изменение размера окна
+- Кнопка закрытия
+- Перетаскивание за тело окна
+- Текст "минимальное приложение" по центру
 
 ## Сборка
 
@@ -16,13 +26,8 @@ dotnet publish -c Release -r win-x64
 __Build_Shipping.bat
 ```
 
-## Результат
+Результат: один исполняемый файл размером ~970 КБ.
 
-Один исполняемый файл размером ~970 КБ.
+## Лицензия
 
-## Возможности
-
-- Изменение размера окна
-- Кнопка закрытия
-- Перетаскивание за тело окна
-- Текст "минимальное приложение" по центру
+MIT License. Приложение сгенерировано нейросетями.
