@@ -1,0 +1,530 @@
+<Window x:Class="MP3RandomRenamer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MP3 Random Renamer"
+        Height="720" Width="900"
+        MinHeight="600" MinWidth="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#E8EEF4"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="CanResizeWithGrip">
+
+    <Window.Resources>
+        <!-- Основные цвета из YTVtoText -->
+        <Color x:Key="AccentColor">#3D8BC1</Color>
+        <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentColor}"/>
+        <SolidColorBrush x:Key="AccentHoverBrush" Color="#2D6BA1"/>
+        <Color x:Key="TextDarkColor">#1A1A2E</Color>
+        <SolidColorBrush x:Key="TextDarkBrush" Color="{StaticResource TextDarkColor}"/>
+        <SolidColorBrush x:Key="TextLightBrush" Color="#F8FAFC"/>
+        <SolidColorBrush x:Key="PanelBackgroundBrush" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="InputBackgroundBrush" Color="#F5F7FA"/>
+        <SolidColorBrush x:Key="BorderLightBrush" Color="#D1D9E6"/>
+        <SolidColorBrush x:Key="WindowBackgroundBrush" Color="#E8EEF4"/>
+
+        <!-- Единый стиль для кнопок (синий, скруглённые) -->
+        <Style x:Key="PrimaryButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource AccentBrush}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="20,12"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" 
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="8"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource AccentHoverBrush}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для второстепенных кнопок (например, "Обзор", "...") -->
+        <Style x:Key="SecondaryButton" TargetType="Button" BasedOn="{StaticResource PrimaryButton}">
+            <Setter Property="Padding" Value="16,10"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <!-- Кнопка закрытия (как в YTVtoText, но адаптированная под светлую тему) -->
+        <Style x:Key="CloseButton" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Width" Value="35"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" CornerRadius="4">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EF4444"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для текстовых полей (как в YTVtoText) -->
+        <Style x:Key="ModernTextBox" TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Background" Value="{StaticResource InputBackgroundBrush}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderLightBrush}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="CaretBrush" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="8">
+                            <ScrollViewer x:Name="PART_ContentHost" Margin="2,0"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для многострочного лога (с вертикальным выравниванием сверху) -->
+        <Style x:Key="LogTextBox" TargetType="TextBox" BasedOn="{StaticResource ModernTextBox}">
+            <Setter Property="VerticalContentAlignment" Value="Top"/>
+            <Setter Property="FontFamily" Value="Cascadia Code, Consolas, monospace"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="AcceptsReturn" Value="True"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
+            <Setter Property="MinHeight" Value="120"/>
+        </Style>
+
+        <!-- Стиль для чекбоксов (светлая тема) -->
+        <Style TargetType="CheckBox">
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,0,20,5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="CheckBox">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Border x:Name="CheckMarkBorder"
+                                    Width="18" Height="18"
+                                    Background="{StaticResource InputBackgroundBrush}"
+                                    BorderBrush="{StaticResource BorderLightBrush}"
+                                    BorderThickness="1"
+                                    CornerRadius="4"
+                                    VerticalAlignment="Center">
+                                <Path x:Name="CheckMark"
+                                      Data="M0,5 L4,9 L9,0"
+                                      Stroke="{StaticResource TextDarkBrush}"
+                                      StrokeThickness="2"
+                                      Visibility="Collapsed"/>
+                            </Border>
+                            <ContentPresenter Grid.Column="1"
+                                              Margin="8,0,0,0"
+                                              VerticalAlignment="Center"
+                                              RecognizesAccessKey="True"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="CheckMark" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="CheckMarkBorder" Property="BorderBrush" Value="{StaticResource AccentBrush}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для ComboBox (как в YTVtoText) -->
+        <Style x:Key="ModernComboBox" TargetType="ComboBox">
+            <Setter Property="Background" Value="{StaticResource InputBackgroundBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderLightBrush}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <Border x:Name="border"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="8">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <ContentPresenter x:Name="contentPresenter"
+                                                      Grid.Column="0"
+                                                      Content="{TemplateBinding SelectionBoxItem}"
+                                                      ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                                      Margin="{TemplateBinding Padding}"
+                                                      HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                      VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    <ToggleButton x:Name="toggleButton"
+                                                  Grid.Column="1"
+                                                  Background="Transparent"
+                                                  BorderThickness="0"
+                                                  IsChecked="{Binding IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}"
+                                                  Width="20"
+                                                  Margin="0,0,8,0">
+                                        <Path Data="M0,0 L4,4 L8,0" Fill="{StaticResource TextDarkBrush}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </ToggleButton>
+                                </Grid>
+                            </Border>
+                            <Popup x:Name="PART_Popup"
+                                   Placement="Bottom"
+                                   IsOpen="{TemplateBinding IsDropDownOpen}"
+                                   AllowsTransparency="True"
+                                   Focusable="False"
+                                   PopupAnimation="Slide">
+                                <Border Background="{StaticResource PanelBackgroundBrush}"
+                                        BorderBrush="{StaticResource BorderLightBrush}"
+                                        BorderThickness="1"
+                                        CornerRadius="8"
+                                        Margin="0,2,0,0"
+                                        MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <ScrollViewer>
+                                        <ItemsPresenter x:Name="itemsPresenter"/>
+                                    </ScrollViewer>
+                                </Border>
+                            </Popup>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="BorderBrush" Value="{StaticResource AccentBrush}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для элементов ComboBoxItem (светлая тема) -->
+        <Style TargetType="ComboBoxItem">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBoxItem">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="4"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#E0E7FF"/>
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource AccentBrush}"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для ListBox (светлая тема) -->
+        <Style x:Key="ModernListBox" TargetType="ListBox">
+            <Setter Property="Background" Value="{StaticResource PanelBackgroundBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderLightBrush}"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <!-- Стиль для элементов ListBoxItem (светлая тема) -->
+        <Style x:Key="ModernListBoxItem" TargetType="ListBoxItem">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="{StaticResource TextDarkBrush}"/>
+            <Setter Property="Padding" Value="8,6"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListBoxItem">
+                        <Border x:Name="border" 
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="4"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F0F4F8"/>
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource AccentBrush}"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для ProgressBar -->
+        <Style TargetType="ProgressBar">
+            <Setter Property="Height" Value="10"/>
+            <Setter Property="Background" Value="{StaticResource BorderLightBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource AccentBrush}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ProgressBar">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <Border x:Name="PART_Track" CornerRadius="5">
+                                <Border x:Name="PART_Indicator"
+                                        Background="{TemplateBinding Foreground}"
+                                        HorizontalAlignment="Left"
+                                        CornerRadius="5"/>
+                            </Border>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Тень для карточек (как в YTVtoText) -->
+        <DropShadowEffect x:Key="CardShadow" BlurRadius="15" ShadowDepth="2" Opacity="0.08" Direction="270"/>
+    </Window.Resources>
+
+    <!-- Основной контейнер с закруглёнными краями -->
+    <Border CornerRadius="12" BorderBrush="{StaticResource BorderLightBrush}" BorderThickness="1" Background="{StaticResource PanelBackgroundBrush}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Title Bar (светлая) -->
+            <Border Grid.Row="0" 
+                    Background="{StaticResource PanelBackgroundBrush}" 
+                    CornerRadius="12,12,0,0" 
+                    BorderBrush="{StaticResource BorderLightBrush}" 
+                    BorderThickness="0,0,0,1"
+                    MouseLeftButtonDown="TitleBar_MouseLeftButtonDown">
+                <Grid>
+                    <TextBlock Text="MP3 Random Renamer"
+                               Foreground="{StaticResource TextDarkBrush}"
+                               FontSize="14"
+                               FontWeight="SemiBold"
+                               VerticalAlignment="Center"
+                               Margin="20,0,0,0"/>
+                    <Button Content="X"
+                            Style="{StaticResource CloseButton}"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Center"
+                            Margin="0,0,10,0"
+                            Click="CloseButton_Click"/>
+                </Grid>
+            </Border>
+
+            <!-- Main Content -->
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Background="{StaticResource WindowBackgroundBrush}">
+                <StackPanel Margin="20">
+                    
+                    <!-- Drag & Drop Area (белая карточка с тенью) -->
+                    <Border x:Name="DragDropBorder"
+                            Background="{StaticResource PanelBackgroundBrush}"
+                            BorderBrush="{StaticResource AccentBrush}"
+                            BorderThickness="2"
+                            CornerRadius="12"
+                            Height="140"
+                            AllowDrop="True"
+                            Drop="DragDropPanel_Drop"
+                            DragEnter="DragDropPanel_DragEnter"
+                            DragLeave="DragDropPanel_DragLeave"
+                            MouseLeftButtonDown="DragDropBorder_MouseLeftButtonDown"
+                            Effect="{StaticResource CardShadow}">
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Setter Property="BorderBrush" Value="{StaticResource AccentBrush}"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding IsMouseOver, RelativeSource={RelativeSource Self}}" Value="True">
+                                        <Setter Property="BorderBrush" Value="{StaticResource AccentHoverBrush}"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <TextBlock x:Name="DragIcon" Text="📁" FontSize="36" HorizontalAlignment="Center" Foreground="{StaticResource TextDarkBrush}"/>
+                            <TextBlock x:Name="DragLabel"
+                                       Text="Перетащите папку или файлы сюда"
+                                       Foreground="{StaticResource TextDarkBrush}"
+                                       Opacity="0.7"
+                                       FontSize="13"
+                                       HorizontalAlignment="Center"
+                                       Margin="0,10,0,0"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Input Panel (белая карточка с тенью) -->
+                    <Border Background="{StaticResource PanelBackgroundBrush}" 
+                            CornerRadius="12" 
+                            Margin="0,15,0,0" 
+                            Padding="20"
+                            Effect="{StaticResource CardShadow}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="250"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Автор:"
+                                       Foreground="{StaticResource TextDarkBrush}"
+                                       Opacity="0.7"
+                                       FontSize="14"
+                                       VerticalAlignment="Center"
+                                       Margin="0,0,15,0"/>
+                            <TextBox x:Name="TxtAuthor"
+                                     Grid.Column="1"
+                                     Style="{StaticResource ModernTextBox}"
+                                     Text="NGB"/>
+
+                            <TextBlock Grid.Column="2"
+                                       Text="Название:"
+                                       Foreground="{StaticResource TextDarkBrush}"
+                                       Opacity="0.7"
+                                       FontSize="14"
+                                       VerticalAlignment="Center"
+                                       Margin="20,0,15,0"/>
+                            <TextBox x:Name="TxtTitle"
+                                     Grid.Column="3"
+                                     Style="{StaticResource ModernTextBox}"/>
+                        </Grid>
+                    </Border>
+
+                    <!-- Rename Button (синяя, во всю ширину) -->
+                    <Button x:Name="BtnRename"
+                            Content="ПЕРЕИМЕНОВАТЬ"
+                            Style="{StaticResource PrimaryButton}"
+                            HorizontalAlignment="Stretch"
+                            Margin="0,15,0,0"
+                            Height="48"
+                            Click="BtnRename_Click"/>
+
+                    <!-- Names Panel (белая карточка с тенью) -->
+                    <Border Background="{StaticResource PanelBackgroundBrush}" 
+                            CornerRadius="12" 
+                            Margin="0,15,0,0" 
+                            Padding="20"
+                            Effect="{StaticResource CardShadow}">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Библиотека случайных слов"
+                                       Foreground="{StaticResource TextDarkBrush}"
+                                       FontSize="16"
+                                       FontWeight="SemiBold"
+                                       Margin="0,0,0,15"/>
+
+                            <ListBox x:Name="LstNames"
+                                     Grid.Row="1"
+                                     Style="{StaticResource ModernListBox}"
+                                     ItemContainerStyle="{StaticResource ModernListBoxItem}"
+                                     Height="200"
+                                     SelectionMode="Single">
+                            </ListBox>
+
+                            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+                                <Button Content="Добавить"
+                                        Style="{StaticResource PrimaryButton}"
+                                        Click="BtnAddName_Click"
+                                        Margin="0,0,10,0"
+                                        Padding="20,10"/>
+                                <Button Content="Удалить"
+                                        Style="{StaticResource PrimaryButton}"
+                                        Click="BtnRemoveName_Click"
+                                        Margin="0,0,10,0"
+                                        Padding="20,10"/>
+                                <Button Content="Редактировать"
+                                        Style="{StaticResource PrimaryButton}"
+                                        Click="BtnEditTable_Click"
+                                        Padding="20,10"/>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+
+                    <!-- Log Panel (белая карточка с тенью) -->
+                    <Border x:Name="LogPanel"
+                            Background="{StaticResource PanelBackgroundBrush}"
+                            CornerRadius="12"
+                            Margin="0,15,0,0"
+                            Padding="20"
+                            Effect="{StaticResource CardShadow}"
+                            Visibility="Collapsed">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Журнал операций"
+                                       Foreground="{StaticResource TextDarkBrush}"
+                                       FontSize="16"
+                                       FontWeight="SemiBold"
+                                       Margin="0,0,0,15"/>
+
+                            <TextBox x:Name="TxtLog"
+                                     Grid.Row="1"
+                                     Style="{StaticResource LogTextBox}"
+                                     IsReadOnly="True"/>
+                        </Grid>
+                    </Border>
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Border>
+</Window>
