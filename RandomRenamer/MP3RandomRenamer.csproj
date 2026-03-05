@@ -26,6 +26,9 @@
 
   <ItemGroup>
     <None Include="RandomRenamer.ico" />
+    <None Include="names.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
