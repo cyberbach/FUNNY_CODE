@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:YTVtoText"
         mc:Ignorable="d"
-        Title="YouTube to Text" Height="620" Width="750"
+        Title="YouTube to Text" Height="720" Width="850"
         WindowStartupLocation="CenterScreen"
         ResizeMode="CanResizeWithGrip"
         Background="#E8EEF4"
@@ -159,20 +159,42 @@
             </Border.Effect>
             <StackPanel>
                 <TextBlock Text="Видео" FontSize="18" FontWeight="SemiBold" FontFamily="Segoe UI" Foreground="#1A1A2E" Margin="0,0,0,15"/>
-                <TextBox x:Name="UrlTextBox" 
-                         Height="40"
-                         ToolTip="Ссылка на YouTube видео"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0"
+                               Text="Ссылка на ютуб:"
+                               VerticalAlignment="Center"
+                               FontSize="14"
+                               FontFamily="Segoe UI"
+                               Foreground="#1A1A2E"
+                               Margin="0,0,12,0"/>
+                    <TextBox x:Name="UrlTextBox" 
+                             Grid.Column="1"
+                             Height="40"
+                             ToolTip="Ссылка на YouTube видео"/>
+                </Grid>
                 <Grid Margin="0,12,0,0">
                     <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
                         <ColumnDefinition Width="*"/>
                         <ColumnDefinition Width="Auto"/>
                     </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0"
+                               Text="Путь сохранения:"
+                               VerticalAlignment="Center"
+                               FontSize="14"
+                               FontFamily="Segoe UI"
+                               Foreground="#1A1A2E"
+                               Margin="0,0,12,0"/>
                     <TextBox x:Name="SavePathTextBox" 
-                             Grid.Column="0"
+                             Grid.Column="1"
                              Height="40"
                              ToolTip="Папка для сохранения файлов"/>
                     <Button x:Name="BrowseFolderButton" 
-                            Grid.Column="1"
+                            Grid.Column="2"
                             Content="..."
                             Width="50"
                             Height="40"
@@ -197,9 +219,15 @@
                 <TextBlock Text="Настройки" FontSize="18" FontWeight="SemiBold" FontFamily="Segoe UI" Foreground="#1A1A2E" Margin="0,0,0,15"/>
                 <WrapPanel Margin="0,0,0,15">
                     <CheckBox x:Name="SaveVideoCheckBox" 
-                              Content="Сохранить видео"
+                              Content="Сохранить Low-Quality видео"
                               Margin="0,0,20,5"
                               ToolTip="Сохранить видеофайл на диск"/>
+                    <CheckBox x:Name="HQVideoCheckBox" 
+                              Content="High-Quality видео"
+                              Margin="0,0,20,5"
+                              ToolTip="Загружать видео в максимальном качестве"
+                              Checked="HQVideoCheckBox_Changed"
+                              Unchecked="HQVideoCheckBox_Changed"/>
                     <CheckBox x:Name="DownloadSubtitlesCheckBox" 
                               Content="Скачать субтитры"
                               Margin="0,0,20,5"
@@ -207,15 +235,9 @@
                               ToolTip="Загрузить субтитры, если доступны"/>
                     <CheckBox x:Name="RecognizeTextCheckBox" 
                               Content="Распознать текст"
-                              Margin="0,0,20,5"
+                              Margin="0,0,0,5"
                               IsChecked="True"
                               ToolTip="Распознать речь из видео (Vosk)"/>
-                    <CheckBox x:Name="HQVideoCheckBox" 
-                              Content="High-Quality Video"
-                              Margin="0,0,0,5"
-                              ToolTip="Загружать видео в максимальном качестве"
-                              Checked="HQVideoCheckBox_Changed"
-                              Unchecked="HQVideoCheckBox_Changed"/>
                 </WrapPanel>
                 <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
                     <TextBlock Text="Модель Vosk:" 

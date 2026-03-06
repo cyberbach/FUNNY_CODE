@@ -65,6 +65,15 @@ public partial class MainWindow : Window
             string modelName = item?.Tag?.ToString() ?? "vosk-model-small-ru-0.22";
             _voskModelUrl = _voskModels.GetValueOrDefault(modelName, _voskModels["vosk-model-small-ru-0.22"]);
         };
+
+        // Текст кнопки "Скачать" зависит от выбранных флажков
+        SaveVideoCheckBox.Checked += (_, _) => UpdateDownloadButtonText();
+        SaveVideoCheckBox.Unchecked += (_, _) => UpdateDownloadButtonText();
+        DownloadSubtitlesCheckBox.Checked += (_, _) => UpdateDownloadButtonText();
+        DownloadSubtitlesCheckBox.Unchecked += (_, _) => UpdateDownloadButtonText();
+        RecognizeTextCheckBox.Checked += (_, _) => UpdateDownloadButtonText();
+        RecognizeTextCheckBox.Unchecked += (_, _) => UpdateDownloadButtonText();
+        UpdateDownloadButtonText();
         
         _activityTimer = new System.Threading.Timer(UpdateActivityIndicator, null, 1000, 1000);
     }
@@ -109,6 +118,111 @@ public partial class MainWindow : Window
         LogTextBox.ScrollToEnd();
     }
 
+    private void UpdateDownloadButtonText()
+    {
+        bool saveVideo = SaveVideoCheckBox.IsChecked == true;
+        bool subtitles = DownloadSubtitlesCheckBox.IsChecked == true;
+        bool recognize = RecognizeTextCheckBox.IsChecked == true;
+        bool hqVideo = HQVideoCheckBox.IsChecked == true;
+
+        bool any = saveVideo || subtitles || recognize || hqVideo;
+        DownloadHQButton.IsEnabled = any;
+        if (!any)
+        {
+            // По требованиям: кнопка заблокирована, текст остаётся "Скачать"
+            DownloadHQButton.Content = "Скачать";
+            return;
+        }
+
+        // Точное соответствие комбинациям из ТЗ
+        if (saveVideo && subtitles && recognize && hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать всё";
+            return;
+        }
+
+        // 1 флаг
+        if (saveVideo && !subtitles && !recognize && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать только Low-Quality видео";
+            return;
+        }
+        if (!saveVideo && subtitles && !recognize && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать только субтитры";
+            return;
+        }
+        if (!saveVideo && !subtitles && recognize && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality видео и распознать";
+            return;
+        }
+        if (!saveVideo && !subtitles && !recognize && hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать только High-Quality видео";
+            return;
+        }
+
+        // 2 флага (из ТЗ)
+        if (saveVideo && subtitles && !recognize && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality видео и субтитры";
+            return;
+        }
+        if (saveVideo && recognize && !subtitles && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality видео и распознать";
+            return;
+        }
+        if (saveVideo && hqVideo && !subtitles && !recognize)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality и High-Quality видео";
+            return;
+        }
+        if (subtitles && hqVideo && !saveVideo && !recognize)
+        {
+            DownloadHQButton.Content = "Скачать High-Quality видео и субтитры";
+            return;
+        }
+        if (subtitles && recognize && !saveVideo && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать субтитры и распознать";
+            return;
+        }
+        if (recognize && hqVideo && !saveVideo && !subtitles)
+        {
+            DownloadHQButton.Content = "Скачать High-Quality видео и распознать";
+            return;
+        }
+
+        // 3 флага (из ТЗ)
+        if (saveVideo && subtitles && recognize && !hqVideo)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality видео, субтитры и распознать";
+            return;
+        }
+
+        // Остальные комбинации (не перечислены явно) — формируем понятные подписи
+        if (saveVideo && subtitles && hqVideo && !recognize)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality, High-Quality видео и субтитры";
+            return;
+        }
+        if (saveVideo && recognize && hqVideo && !subtitles)
+        {
+            DownloadHQButton.Content = "Скачать Low-Quality, High-Quality видео и распознать";
+            return;
+        }
+        if (subtitles && recognize && hqVideo && !saveVideo)
+        {
+            DownloadHQButton.Content = "Скачать High-Quality видео, субтитры и распознать";
+            return;
+        }
+
+        // Фолбэк (на всякий случай)
+        DownloadHQButton.Content = "Скачать";
+    }
+
     private void BrowseFolderButton_Click(object sender, RoutedEventArgs e)
     {
         var dialog = new OpenFolderDialog
@@ -125,14 +239,7 @@ public partial class MainWindow : Window
 
     private void HQVideoCheckBox_Changed(object sender, RoutedEventArgs e)
     {
-        if (HQVideoCheckBox.IsChecked == true)
-        {
-            DownloadHQButton.Content = "Скачать в HQ";
-        }
-        else
-        {
-            DownloadHQButton.Content = "Скачать";
-        }
+        UpdateDownloadButtonText();
     }
 
     private async void DownloadHQButton_Click(object sender, RoutedEventArgs e)
@@ -169,7 +276,8 @@ public partial class MainWindow : Window
         }
         finally
         {
-            DownloadHQButton.IsEnabled = true;
+            // Восстанавливаем доступность по текущим флажкам (если все сняты — оставляем заблокированной)
+            UpdateDownloadButtonText();
             UrlTextBox.IsEnabled = true;
         }
     }
