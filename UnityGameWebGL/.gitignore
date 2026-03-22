@@ -1,0 +1,5 @@
+node_modules/
+logs/
+MyTestMatch3/
+SimpleMatch3/
+*.log

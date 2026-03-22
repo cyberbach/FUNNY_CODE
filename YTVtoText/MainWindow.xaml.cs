@@ -84,6 +84,36 @@ public partial class MainWindow : Window
         base.OnClosed(e);
     }
 
+    private void DisableAllControls()
+    {
+        UrlTextBox.IsEnabled = false;
+        UrlTextBox.Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(232, 232, 232));
+        SavePathTextBox.IsEnabled = false;
+        SavePathTextBox.Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(232, 232, 232));
+        BrowseFolderButton.IsEnabled = false;
+        SaveVideoCheckBox.IsEnabled = false;
+        DownloadSubtitlesCheckBox.IsEnabled = false;
+        RecognizeTextCheckBox.IsEnabled = false;
+        HQVideoCheckBox.IsEnabled = false;
+        VoskModelComboBox.IsEnabled = false;
+        DownloadHQButton.IsEnabled = false;
+    }
+
+    private void EnableAllControls()
+    {
+        UrlTextBox.IsEnabled = true;
+        UrlTextBox.Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(245, 247, 250));
+        SavePathTextBox.IsEnabled = true;
+        SavePathTextBox.Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(245, 247, 250));
+        BrowseFolderButton.IsEnabled = true;
+        SaveVideoCheckBox.IsEnabled = true;
+        DownloadSubtitlesCheckBox.IsEnabled = true;
+        RecognizeTextCheckBox.IsEnabled = true;
+        HQVideoCheckBox.IsEnabled = true;
+        VoskModelComboBox.IsEnabled = true;
+        DownloadHQButton.IsEnabled = true;
+    }
+
     private void UpdateActivityIndicator(object? state)
     {
         Dispatcher.Invoke(() =>
@@ -256,18 +286,53 @@ public partial class MainWindow : Window
             Directory.CreateDirectory(SaveDirectory);
         }
 
-        DownloadHQButton.IsEnabled = false;
-        UrlTextBox.IsEnabled = false;
+        DisableAllControls();
 
         try
         {
-            if (HQVideoCheckBox.IsChecked == true)
+            // Проверяем, плейлист ли это
+            var videoUrls = await GetPlaylistVideosAsync(url);
+            
+            if (videoUrls.Count > 1)
             {
-                await DownloadVideoInHQAsync(url);
+                Log($"=== Найден плейлист: {videoUrls.Count} видео ===");
+                int counter = 1;
+                foreach (var videoUrl in videoUrls)
+                {
+                    Log($"--- Видео {counter}/{videoUrls.Count} ---");
+                    try
+                    {
+                        if (HQVideoCheckBox.IsChecked == true)
+                        {
+                            await DownloadVideoInHQAsync(videoUrl);
+                        }
+                        else
+                        {
+                            await ProcessVideoAsync(videoUrl);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Log($"Ошибка обработки видео: {ex.Message}");
+                    }
+                    counter++;
+                }
+                Log("=== Плейлист обработан ===");
+            }
+            else if (videoUrls.Count == 1)
+            {
+                if (HQVideoCheckBox.IsChecked == true)
+                {
+                    await DownloadVideoInHQAsync(videoUrls[0]);
+                }
+                else
+                {
+                    await ProcessVideoAsync(videoUrls[0]);
+                }
             }
             else
             {
-                await ProcessVideoAsync(url);
+                Log("Ошибка: не удалось найти видео для скачивания");
             }
         }
         catch (Exception ex)
@@ -276,10 +341,58 @@ public partial class MainWindow : Window
         }
         finally
         {
-            // Восстанавливаем доступность по текущим флажкам (если все сняты — оставляем заблокированной)
+            EnableAllControls();
             UpdateDownloadButtonText();
-            UrlTextBox.IsEnabled = true;
         }
+    }
+
+    private async Task<List<string>> GetPlaylistVideosAsync(string url)
+    {
+        var videoUrls = new List<string>();
+        string ytDlpPath = Path.Combine(_appDirectory, "yt-dlp.exe");
+
+        var startInfo = new ProcessStartInfo
+        {
+            FileName = ytDlpPath,
+            Arguments = $"--flat-playlist --print \"%(url)s\" --no-warnings \"{url}\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true,
+            StandardOutputEncoding = Encoding.UTF8,
+            StandardErrorEncoding = Encoding.UTF8
+        };
+
+        using var process = new Process { StartInfo = startInfo };
+        var outputBuilder = new StringBuilder();
+
+        process.OutputDataReceived += (s, e) => { if (e.Data != null) outputBuilder.AppendLine(e.Data); };
+
+        process.Start();
+        process.BeginOutputReadLine();
+
+        await Task.Run(() => process.WaitForExit());
+
+        if (process.ExitCode == 0)
+        {
+            var lines = outputBuilder.ToString().Split('\n', StringSplitOptions.RemoveEmptyEntries);
+            foreach (var line in lines)
+            {
+                var trimmedLine = line.Trim();
+                if (!string.IsNullOrEmpty(trimmedLine) && trimmedLine.StartsWith("http"))
+                {
+                    videoUrls.Add(trimmedLine);
+                }
+            }
+        }
+
+        // Если плейлист не определён, возвращаем исходный URL как одно видео
+        if (videoUrls.Count == 0)
+        {
+            videoUrls.Add(url);
+        }
+
+        return videoUrls;
     }
 
     private async Task ProcessVideoAsync(string url)
@@ -411,7 +524,24 @@ public partial class MainWindow : Window
             Log("Готово!");
         }
 
-        Log("Завершение работы");
+        HideProgressBar();
+    }
+
+    private void HideProgressBar()
+    {
+        if (Dispatcher.CheckAccess())
+        {
+            ProgressBar.Value = 0;
+            ProgressBar.Visibility = Visibility.Collapsed;
+        }
+        else
+        {
+            Dispatcher.BeginInvoke(new Action(() =>
+            {
+                ProgressBar.Value = 0;
+                ProgressBar.Visibility = Visibility.Collapsed;
+            }));
+        }
     }
 
     private async Task DownloadVideoInHQAsync(string url)
@@ -444,8 +574,325 @@ public partial class MainWindow : Window
         string videoPath = await DownloadVideoInMaxQualityAsync(url, downloadLogId, safeTitle);
         UpdateLogStatus(downloadLogId, true);
 
-        Log($"Готово! Видео сохранено: {videoPath}");
-        Log("Завершение работы");
+        // Проверка и склейка отдельных видео/аудио файлов
+        await CheckAndMergeVideoAudioAsync(safeTitle);
+
+        Log("Готово!");
+        HideProgressBar();
+    }
+
+    private async Task CheckAndMergeVideoAudioAsync(string safeTitle)
+    {
+        // Проверка ffmpeg
+        string ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
+        if (!File.Exists(ffmpegPath))
+        {
+            var logId = Log("Загрузка ffmpeg...", showProgress: true);
+            await DownloadFfmpegAsync(ffmpegPath, logId);
+            UpdateLogStatus(logId, true);
+        }
+        else
+        {
+            Log("ffmpeg найден... ОК");
+        }
+
+        var videoFiles = Directory.GetFiles(SaveDirectory, $"{safeTitle}_HQ.*");
+        
+        string? videoFile = null;
+        string? audioFile = null;
+        
+        foreach (var file in videoFiles)
+        {
+            var ext = Path.GetExtension(file).ToLowerInvariant();
+            if (ext == ".mp4" || ext == ".mkv" || ext == ".webm" || ext == ".avi")
+            {
+                videoFile = file;
+            }
+            else if (ext == ".m4a" || ext == ".aac" || ext == ".mp3" || ext == ".ogg" || ext == ".wav")
+            {
+                audioFile = file;
+            }
+        }
+        
+        if (videoFile != null && audioFile != null)
+        {
+            // Есть видео и аудио - проверяем формат и конвертируем
+            var videoCodec = GetVideoCodec(videoFile);
+            var audioCodec = GetAudioCodec(audioFile);
+            Log($"Видео: {Path.GetFileName(videoFile)} ({videoCodec}) + Аудио: {Path.GetFileName(audioFile)} ({audioCodec})");
+            Log("Конвертация и склейка...");
+            var logId = Log("Конвертация и склейка видео...", showProgress: true);
+            var convertedPath = await ConvertAndMergeAsync(videoFile, audioFile, safeTitle, logId);
+            UpdateLogStatus(logId, true);
+            Log($"Готово! Видео сохранено: {convertedPath}");
+        }
+        else if (videoFile != null)
+        {
+            // Только видео - проверяем формат
+            var videoCodec = GetVideoCodec(videoFile);
+            Log($"Видео: {Path.GetFileName(videoFile)} ({videoCodec})");
+            
+            if (videoCodec != null && (videoCodec.ToLower().Contains("h264") || videoCodec.ToLower().Contains("avc")))
+            {
+                // Уже в H.264 - просто переименовываем
+                string outputPath = Path.Combine(SaveDirectory, $"{safeTitle}_HQ_converted.avi");
+                try
+                {
+                    File.Copy(videoFile, outputPath, true);
+                    File.Delete(videoFile);
+                    Log($"Готово! Видео сохранено: {outputPath}");
+                }
+                catch (Exception ex)
+                {
+                    Log($"Ошибка копирования: {ex.Message}");
+                }
+            }
+            else
+            {
+                // Нужна конвертация
+                Log($"Конвертация {videoCodec ?? "неизвестный"} → H.264...");
+                var logId = Log("Конвертация видео...", showProgress: true);
+                var convertedPath = await ConvertVideoAsync(videoFile, safeTitle, logId);
+                UpdateLogStatus(logId, true);
+                Log($"Готово! Видео сохранено: {convertedPath}");
+            }
+        }
+    }
+
+    private string? GetVideoCodec(string videoPath)
+    {
+        try
+        {
+            var ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
+            var startInfo = new ProcessStartInfo
+            {
+                FileName = ffmpegPath,
+                Arguments = $"-i \"{videoPath}\" -f null -",
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            using var process = Process.Start(startInfo);
+            if (process == null) return null;
+            
+            var errorOutput = process.StandardError.ReadToEnd();
+            process.WaitForExit();
+            
+            // Ищем кодек видео: Video: h264, Video: av1, Video: vp9, etc.
+            var match = Regex.Match(errorOutput, @"Video:\s*(\w+)");
+            if (match.Success)
+            {
+                return match.Groups[1].Value;
+            }
+        }
+        catch { }
+        return null;
+    }
+
+    private string? GetAudioCodec(string audioPath)
+    {
+        try
+        {
+            var ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
+            var startInfo = new ProcessStartInfo
+            {
+                FileName = ffmpegPath,
+                Arguments = $"-i \"{audioPath}\" -f null -",
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            using var process = Process.Start(startInfo);
+            if (process == null) return null;
+            
+            var errorOutput = process.StandardError.ReadToEnd();
+            process.WaitForExit();
+            
+            // Ищем кодек аудио: Audio: aac, Audio: mp3, Audio: opus, etc.
+            var match = Regex.Match(errorOutput, @"Audio:\s*(\w+)");
+            if (match.Success)
+            {
+                return match.Groups[1].Value;
+            }
+        }
+        catch { }
+        return null;
+    }
+
+    private async Task<string> ConvertVideoAsync(string videoFile, string safeTitle, int logId)
+    {
+        string outputPath = Path.Combine(SaveDirectory, $"{safeTitle}_HQ_converted.avi");
+        string ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
+
+        var duration = GetVideoDuration(videoFile);
+        var totalSeconds = duration.HasValue ? duration.Value.TotalSeconds : 100.0;
+
+        var startInfo = new ProcessStartInfo
+        {
+            FileName = ffmpegPath,
+            Arguments = $"-i \"{videoFile}\" -c:v mpeg4 -q:v 3 -c:a ac3 -b:a 192k -y \"{outputPath}\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true,
+            StandardOutputEncoding = Encoding.UTF8,
+            StandardErrorEncoding = Encoding.UTF8
+        };
+
+        using var process = new Process { StartInfo = startInfo };
+        var errorBuilder = new StringBuilder();
+        var lastProgressUpdate = DateTime.MinValue;
+
+        process.ErrorDataReceived += (s, e) =>
+        {
+            if (e.Data != null)
+            {
+                errorBuilder.AppendLine(e.Data);
+                
+                if (e.Data.Contains("time="))
+                {
+                    var match = Regex.Match(e.Data, @"time=(\d{2}):(\d{2}):(\d{2})\.(\d{2})");
+                    if (match.Success)
+                    {
+                        var hours = int.Parse(match.Groups[1].Value);
+                        var minutes = int.Parse(match.Groups[2].Value);
+                        var seconds = int.Parse(match.Groups[3].Value);
+                        var currentSeconds = hours * 3600 + minutes * 60 + seconds;
+                        
+                        var now = DateTime.Now;
+                        if ((now - lastProgressUpdate).TotalMilliseconds > 500)
+                        {
+                            lastProgressUpdate = now;
+                            var progress = Math.Min(99, (int)((currentSeconds / totalSeconds) * 100));
+                            UpdateLogProgress(logId, progress);
+                        }
+                    }
+                }
+            }
+        };
+
+        process.Start();
+        process.BeginErrorReadLine();
+
+        await process.WaitForExitAsync();
+
+        if (process.ExitCode != 0)
+        {
+            throw new Exception($"Ошибка конвертации видео: {errorBuilder}");
+        }
+
+        // Удаляем оригинальное видео
+        try { File.Delete(videoFile); } catch { }
+
+        return outputPath;
+    }
+
+    private async Task<string> ConvertAndMergeAsync(string videoFile, string audioFile, string safeTitle, int logId)
+    {
+        string mergedPath = Path.Combine(SaveDirectory, $"{safeTitle}_HQ_converted.avi");
+        string ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
+
+        // Получаем длительность видео
+        var duration = GetVideoDuration(videoFile);
+        var totalSeconds = duration.HasValue ? duration.Value.TotalSeconds : 100.0;
+
+        var startInfo = new ProcessStartInfo
+        {
+            FileName = ffmpegPath,
+            Arguments = $"-i \"{videoFile}\" -i \"{audioFile}\" -c:v mpeg4 -q:v 3 -c:a ac3 -b:a 192k -y \"{mergedPath}\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true,
+            StandardOutputEncoding = Encoding.UTF8,
+            StandardErrorEncoding = Encoding.UTF8
+        };
+
+        using var process = new Process { StartInfo = startInfo };
+        var errorBuilder = new StringBuilder();
+        var lastProgressUpdate = DateTime.MinValue;
+
+        process.ErrorDataReceived += (s, e) =>
+        {
+            if (e.Data != null)
+            {
+                errorBuilder.AppendLine(e.Data);
+                
+                if (e.Data.Contains("time="))
+                {
+                    var match = Regex.Match(e.Data, @"time=(\d{2}):(\d{2}):(\d{2})\.(\d{2})");
+                    if (match.Success)
+                    {
+                        var hours = int.Parse(match.Groups[1].Value);
+                        var minutes = int.Parse(match.Groups[2].Value);
+                        var seconds = int.Parse(match.Groups[3].Value);
+                        var currentSeconds = hours * 3600 + minutes * 60 + seconds;
+                        
+                        var now = DateTime.Now;
+                        if ((now - lastProgressUpdate).TotalMilliseconds > 500)
+                        {
+                            lastProgressUpdate = now;
+                            var progress = Math.Min(99, (int)((currentSeconds / totalSeconds) * 100));
+                            UpdateLogProgress(logId, progress);
+                        }
+                    }
+                }
+            }
+        };
+
+        process.Start();
+        process.BeginErrorReadLine();
+
+        await process.WaitForExitAsync();
+
+        if (process.ExitCode != 0)
+        {
+            throw new Exception($"Ошибка конвертации и склейки видео: {errorBuilder}");
+        }
+
+        // Удаляем оригинальные файлы
+        try { File.Delete(videoFile); } catch { }
+        try { File.Delete(audioFile); } catch { }
+
+        return mergedPath;
+    }
+
+    private TimeSpan? GetVideoDuration(string videoPath)
+    {
+        try
+        {
+            var startInfo = new ProcessStartInfo
+            {
+                FileName = Path.Combine(_appDirectory, "ffmpeg.exe"),
+                Arguments = $"-i \"{videoPath}\" -f null -",
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            using var process = Process.Start(startInfo);
+            if (process == null) return null;
+            
+            var errorOutput = process.StandardError.ReadToEnd();
+            process.WaitForExit();
+            
+            // Ищем строку "Duration: 00:01:23.45"
+            var match = Regex.Match(errorOutput, @"Duration:\s*(\d{2}):(\d{2}):(\d{2})\.(\d{2})");
+            if (match.Success)
+            {
+                var hours = int.Parse(match.Groups[1].Value);
+                var minutes = int.Parse(match.Groups[2].Value);
+                var seconds = int.Parse(match.Groups[3].Value);
+                return new TimeSpan(0, hours, minutes, seconds);
+            }
+        }
+        catch { }
+        return null;
     }
 
     private async Task<string> DownloadVideoInMaxQualityAsync(string url, int logId, string safeTitle)

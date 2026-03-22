@@ -1,0 +1,9 @@
+{
+  "name": "unity-game-server",
+  "version": "1.0.0",
+  "description": "Simple server for Unity WebGL game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
