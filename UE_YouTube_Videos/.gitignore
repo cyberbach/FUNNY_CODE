@@ -1,0 +1,8 @@
+# Python scripts
+*.py
+
+# Batch files
+*.bat
+
+# Source data (txt files - these are converted to md)
+*.txt
