@@ -2345,6 +2345,55 @@ https://www.patreon.com/codelikeme
  
 --- 
  
+# Kibibyte
+
+Do you want more such content? Click subscribe!
+
+**Страна:** Германия
+**Дата регистрации:** 12 сент. 2021 г.
+**Подписчиков:** 10500
+**Видео:** 30
+**Всего просмотров:** 725347
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Replicated & Optimized Minimap in Unreal Engine | 9:15 | 2,3 тыс. | ноябрь 2025 |
+| 2 | Massive Update to the Blueprint Generator Plugin! Unreal Engine - AI News | 8:39 | 5,2 тыс. | сентябрь 2025 |
+| 3 | Blueprint Generation Ai is now AVAILABLE! Unreal Engine | 11:10 | 12 тыс. | июнь 2025 |
+| 4 | This Ai can Generate Blueprints in Unreal Engine (LINK IN DESCRIPTION) | 21:47 | 82 тыс. | 2025 |
+| 5 | How To Do Proximity Voice Chat in Unreal Engine (in 7 Minutes) | 45:47 | 23 тыс. | 2025 |
+| 6 | Minecraft Crafting in Unreal Engine Tutorial | 7:00 | 2,1 тыс. | 2025 |
+| 7 | FINALLY a proper Unreal Engine LAUNCHER | 8:18 | 4,2 тыс. | 2025 |
+| 8 | How to replicate Doors in Unreal Engine | 0:40 | 1,8 тыс. | 2025 |
+| 9 | How to Replicate Physics Objects in Unreal Engine | 2:47 | 5,3 тыс. | 2025 |
+| 10 | Achieve True Color in Unreal Engine: Disabling Tonemapper (+ Color Grading) | 2:12 | 9,5 тыс. | 2025 |
+| 11 | FIX - "Unable to instantiate UnrealEd module for non-editor targets" \| Unreal Engine | 28:40 | 1,9 тыс. | 2025 |
+| 12 | 100 Hidden Unreal Engine Tricks That Will Blow Your Mind! | 28:27 | 53 тыс. | 2025 |
+| 13 | I went through ALL Unreal Engine Blueprint Packs, here is what I found | 36:35 | 111 тыс. | 2024 |
+| 14 | I went through ALL Unreal Engine Plugins, here is what I found | 1:14 | 202 тыс. | 2024 |
+| 15 | UE5 - FIX (Emissive) Light Delay | 1:00 | 9,4 тыс. | 2024 |
+| 16 | UE5 - Change Audio Listener Location | 1:19 | 5,9 тыс. | 2024 |
+| 17 | UE5 - Replicate Camera Pitch Rotation | 5:51 | 15 тыс. | 2024 |
+| 18 | Make Troops Attack Towers \| Let's Create Clash Royale [2] | 5:25 | 4,1 тыс. | 2024 |
+| 19 | UE5 - Peer to Peer Sessions (Advanced Sessions Part 2) | 2:44 | 13 тыс. | 2024 |
+| 20 | UE5 - Implement Advanced Sessions (Steam) | 4:47 | 10 тыс. | 2024 |
+| 21 | How to Package Your UE5 Plugin for the Marketplace | 20:32 | 5,4 тыс. | 2023 |
+| 22 | Drag & Drop Spawning \| Let's Create Clash Royale [1] | 10:00 | 3,3 тыс. | 2023 |
+| 23 | UE5 C++ "UFUNCTION" Specifiers + Basics, Tips & Tricks \| Part 2 | 11:04 | 2,8 тыс. | 2023 |
+| 24 | Create and Sell your own Unreal Engine Plugins \| Part 1 | 6:07 | 26 тыс. | 2023 |
+| 25 | How to Cut a Hole into Anything (Unreal Engine 5) | 21:51 | 56 тыс. | 2023 |
+| 26 | UE4/UE5 - How to Create a Ping System | 13:39 | 4,6 тыс. | 2023 |
+| 27 | UE4/UE5 Proximity Voice Chat (+ Walkie Talkie Effect) | 1:58 | 37 тыс. | 2022 |
+| 28 | FIX - Steam Not Working After Packaging (Unreal Engine) | 5:16 | 3,8 тыс. | 2022 |
+| 29 | UE4 - Check Internet Connection |  | 6,9 тыс. | 2022 |
+ 
+ 
+--- 
+ 
 # Dusty Pixels
 
 Helping make better film creators using the Unreal 5 Engine. We do this by being dedicated to creating high-quality cinematic films using the Unreal 5 Engine. Unreal Engine Developers | Unreal Developer | Ue4 Developer | Unreal Developers
@@ -8960,6 +9009,85 @@ Visit my blog and more game development tutorials over at https://www.tomlooman.
  
 --- 
  
+# Qworco - Unreal Engine
+
+**Страна:** Финляндия
+**Дата регистрации:** 2 июн. 2010 г.
+**Подписчиков:** 2110
+**Видео:** 64
+**Всего просмотров:** 150020
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Unreal Engine - FNAF tutorial part 3 - Camera system | 19:48 | 789 | декабрь 2025 |
+| 2 | Unreal Engine - FNAF tutorial Part 2 - Lights/Doors | 21:58 | 613 | декабрь 2025 |
+| 3 | Unreal Engine - FNAF tutorial Part 1 - Basic Setup | 15:21 | 2 тыс. | декабрь 2025 |
+| 4 | Unreal Engine - Aura 0.6.0 - Blueprint Creation! | 5:25 | 656 | декабрь 2025 |
+| 5 | FAB - Redeem all free assets with one click! | 4:38 | 510 | август 2025 |
+| 6 | Plugin Showcase - Blueprint Assist - The best way to use unreal | 36:58 | 1,2 тыс. | август 2025 |
+| 7 | Unreal Engine - Aura 0.4.0 - Huge improvements | 32:42 | 591 | август 2025 |
+| 8 | Aura - 0.3.0 - Big changes | 18:06 | 400 | август 2025 |
+| 9 | Unreal Engine Retro Horror - Part 2 - Follow Camera | 11:25 | 345 | июль 2025 |
+| 10 | Unreal Engine - AURA - New blockout features | 22:31 | 468 | июль 2025 |
+| 11 | Retro Horror - Part 1 - Tank controls + Fixed camera system. | 29:45 | 433 | июль 2025 |
+| 12 | Unreal Engine - AURA - The unreal ai assistant | 8:31 | 5,9 тыс. | июнь 2025 |
+| 13 | Unreal Engine - Retro Carousel inventory - Saving and loading | 14:26 | 495 | май 2025 |
+| 14 | Unreal Engine - Retro Carousel inventory - Keys and doors |  | 607 | май 2025 |
+| 15 | Unreal Engine - Retro Carousel inventory system | 17:19 | 1,5 тыс. | май 2025 |
+| 16 | Unreal Engine - Retro Horror object inspection. | 27:54 | 509 | май 2025 |
+| 17 | Unreal Engine - Use Cursor Ai with Unreal | 48:11 | 17 тыс. | май 2025 |
+| 18 | Unreal Engine - Classic Horror Note System | 2:43 | 887 | май 2025 |
+| 19 | Unreal Engine - Damage Over Time | 29:53 | 364 | 2025 |
+| 20 | Unreal Engine 5 - Use C# with Unreal using the Free UnrealSharp Plugin! | 11:54 | 3,7 тыс. | 2025 |
+| 21 | Unreal Engine - Editor toolbox | 2:25 | 286 | 2025 |
+| 22 | Request for help - Game survey |  | 232 | 2025 |
+| 23 | Unreal Engine - Replicated Lethal Company Inventory tutorial | 17:25 | 6,6 тыс. | 2025 |
+| 24 | Unreal Engine - Simple Slender Ai | 8:48 | 1,7 тыс. | 2025 |
+| 25 | Unreal Engine - Project Borealis Input Actions | 19:04 | 583 | 2025 |
+| 26 | Unreal Engine - Project Borealis Movement plugin tutorial | 10:21 | 2,4 тыс. | 2025 |
+| 27 | Unreal Engine - First Person Sliding tutorial | 44:20 | 6,8 тыс. | 2025 |
+| 28 | Unreal Engine - Lethal Company inspired inventory Not Replicated | 27:16 | 3,6 тыс. | 2025 |
+| 29 | Unreal Engine - Spatial Inventory (Project Files and Fps setup) | 13:18 | 2,1 тыс. | 2025 |
+| 30 | Unreal Engine - Speech Recognition - Free Plugin | 23:42 | 10 тыс. | 2025 |
+| 31 | Unreal Engine - Grab - Move - Throw and rotate objects tutorial | 13:43 | 18 тыс. | 2025 |
+| 32 | Unreal Engine - Microphone Detection - Dont Scream inspired. | 23:24 | 1,6 тыс. | 2025 |
+| 33 | Unreal Engine - Amnesia Inspired physics doors | 11:17 | 5,1 тыс. | 2025 |
+| 34 | Unreal Engine - Weeping Angel tutorial | 45:47 | 7,8 тыс. | 2025 |
+| 35 | Unreal Engine - First Person Horror - Part 9 - Jumpscares | 14:04 | 1 тыс. | 2025 |
+| 36 | Unreal Engine - First Person Horror - Part 8 - Modular Light System | 51:21 | 454 | 2025 |
+| 37 | Unreal Engine - First Person Horror - Part 7 - Sanity Component System | 12:39 | 1 тыс. | 2025 |
+| 38 | Unreal Engine - Realtime Time and date. | 24:32 | 473 | 2025 |
+| 39 | Unreal Engine - First Person Horror - Part 6 - Health Component System | 17:15 | 520 | 2025 |
+| 40 | Unreal Engine - First Person Horror - Part 5 - Footsteps with surface detection | 30:04 | 595 | 2025 |
+| 41 | Unreal Engine - First Person Horror - Part 4 - Advanced Door System | 16:30 | 751 | 2025 |
+| 42 | Unreal Engine - Modular Typewriter text | 30:22 | 2,1 тыс. | 2025 |
+| 43 | Unreal Engine - First Person Horror - Part 3 - Interaction System | 52:07 | 532 | 2025 |
+| 44 | Unreal Engine - First Person Horror - Part 2 - Advanced Flashlight | 41:19 | 844 | 2025 |
+| 45 | Unreal Engine - First Person Horror - Part 1 - The Basics | 43:42 | 968 | 2025 |
+| 46 | Unreal Engine - Retro Horror weapon system part 2 | 41:20 | 459 | 2025 |
+| 47 | Unreal Engine - Retro Horror weapon system part 1 | 28:09 | 438 | 2025 |
+| 48 | Unreal Engine - Grenades with location marker | 20:57 | 545 | 2025 |
+| 49 | Unreal Engine - Half life inspired weapon swap | 14:13 | 494 | 2025 |
+| 50 | Unreal Engine - Dead Seater movement | 7:30 | 408 | 2025 |
+| 51 | Unreal Engine - Object Hover Component | 7:08 | 974 | 2025 |
+| 52 | Unreal Engine - Quake inspired strafe tilt | 14:38 | 1,6 тыс. | 2025 |
+| 53 | Unreal Engine - Crouching with Height Detection | 11:28 | 797 | 2025 |
+| 54 | Unreal Engine - Circular Grid tutorial | 10:04 | 865 | 2024 |
+| 55 | Resident Evil style aiming - Unreal engine 5.3 | 1:57 | 1,7 тыс. | 2024 |
+| 56 | Unreal Engine 5.3 - Set viewport to vertical for mobile tutorial | 17:07 | 7,2 тыс. | 2024 |
+| 57 | Unreal Engine 5.3 - Twitch Integration - Free plugin tutorial | 15:59 | 4,3 тыс. | 2024 |
+| 58 | Unreal Engine 5.3 - Resident evil style static camera/tank controls | 16:17 | 5,3 тыс. | 2024 |
+| 59 | Unreal Engine 5.3 - Silent Hill style doors | 11:34 | 2,4 тыс. | 2024 |
+| 60 | Unreal Engine 5.3 - Silent Hill inspired head turn | 0:49 | 1,2 тыс. | 2024 |
+| 61 | Penny-Farthing-Folly by PiscataRosea Epic Mega Jam 2023 entry |  | 316 | 2024 |
+ 
+ 
+--- 
+ 
 # Ghislain Girardot
 
 Hi and welcome to my youtube channel where I showcase my various work in Unreal Engine.
@@ -10144,6 +10272,106 @@ Unreal Engine, CGI, Photography, Digital Art.
  
 --- 
  
+# KarltyDEV
+
+I make easy to follow videos on Unreal Engine. Click the Subscribe Button (its free!)
+
+**Страна:** Великобритания
+**Дата регистрации:** 15 сент. 2023 г.
+**Подписчиков:** 2800
+**Видео:** 89
+**Всего просмотров:** 203072
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | How to Make REALISTIC Rivers in Unreal Engine 5 | 13:42 | 477 | март 2026 |
+| 2 | How to Make Custom Vegetation in Unreal Engine 5 | 25:42 | 146 | март 2026 |
+| 3 | How to Create a Main Menu in Unreal Engine 5 | 15:12 | 118 | март 2026 |
+| 4 | How to Create Landscape Materials in Unreal Engine 5 | 9:31 | 240 | март 2026 |
+| 5 | How to create REAL Mountains In Unreal Engine 5.7 | 18:40 | 408 | март 2026 |
+| 6 | How to Make Realistic Grass in Unreal Engine | 20:25 | 510 | март 2026 |
+| 7 | How to use Blueprint Interfaces in Unreal Engine | 29:33 | 239 | январь 2026 |
+| 8 | Create a Beautiful Forest in UE5 (Easy Method) | 49:07 | 1,2 тыс. | январь 2026 |
+| 9 | Unreal Engine – Drone System (Full Guide) | 20:49 | 1,1 тыс. | январь 2026 |
+| 10 | How to make a Flashlight in Unreal Engine 5 | 29:20 | 409 | декабрь 2025 |
+| 11 | Unreal Engine Pressure Plate Door Tutorial (Easy Setup) | 16:49 | 242 | декабрь 2025 |
+| 12 | Turn Text into 3D Models in Seconds | 21:05 | 520 | сентябрь 2025 |
+| 13 | How to Make a Tactical Shooter in Unreal Engine – Episode 5 (Adding a weapon) | 7:51 | 5,1 тыс. | август 2025 |
+| 14 | Is Unreal Engine Hard To Learn? | 18:40 | 1,6 тыс. | август 2025 |
+| 15 | How to Make a Tactical Shooter in Unreal Engine – Episode 4 (8-Way Locomotion) | 20:50 | 2,6 тыс. | август 2025 |
+| 16 | How to Make a Tactical Shooter in Unreal Engine – Episode 3 (Camera and Movement Inputs) | 7:17 | 2,5 тыс. | август 2025 |
+| 17 | How to Make a Tactical Shooter in Unreal Engine – Episode 2 (Metahuman Setup) | 30:40 | 2,4 тыс. | август 2025 |
+| 18 | How to Make a Tactical Shooter in Unreal Engine – Episode 1 (Foundations) | 1:34 | 11 тыс. | август 2025 |
+| 19 | How to Make a Tactical Shooter Game in Unreal Engine (Tutorial Series) | 3:21 | 10 тыс. | август 2025 |
+| 20 | FREE SHOOTER TEMPLATE in UNREAL ENGINE 5.6! | 15:54 | 8,3 тыс. | август 2025 |
+| 21 | How to Make an Elevator with a Lever in Unreal Engine 5 (Easy) | 7:33 | 583 | август 2025 |
+| 22 | How to Make a Tropical Beach Environment in Unreal Engine | 24:12 | 438 | август 2025 |
+| 23 | How to Pick Up and Drop Objects (Physics-Based) – UE5.6 | 35:13 | 1,7 тыс. | август 2025 |
+| 24 | Learn Unreal Engine Materials FAST (Crash Course) | 17:16 | 126 | июль 2025 |
+| 25 | Squid Game Unreal Engine Tutorial (Episode 4) | 9:54 | 318 | июль 2025 |
+| 26 | How to change levels in Unreal Engine 5 (Easy Tutorial) | 29:01 | 2 тыс. | июль 2025 |
+| 27 | I Made The Superman Flight System in Unreal Engine 5, and You Can Too.. | 1:58 | 575 | июль 2025 |
+| 28 | How to Create Huge Open World Landscapes in Under 2 Minutes | 5:21 | 23 тыс. | июнь 2025 |
+| 29 | How to Add a Crosshair in Unreal Engine 5 (Beginner Tutorial) | 1:35 | 503 | июнь 2025 |
+| 30 | I Made Nuketown in Unreal Engine… But It’s Not What You’d Expect | 10:19 | 450 | июнь 2025 |
+| 31 | How to Switch Between First and Third Person in Unreal Engine 5 Smooth Camera + FOV + Lag | 20:35 | 1,2 тыс. | июнь 2025 |
+| 32 | Squid Game UE5 Tutorial – Sprinting & Stamina System (Episode 3) | 20:23 | 206 | июнь 2025 |
+| 33 | Throwing a Grenade in Unreal Engine 5 – Full FX, Animation & Sound Blueprint Tutorial | 8:36 | 1 тыс. | июнь 2025 |
+| 34 | Squid Game in Unreal Engine 5 – Episode 2: Changing Cameras & Slow Motion | 7:57 | 303 | июнь 2025 |
+| 35 | How to Switch Between First and Third Person Cameras – Unreal Engine 5 Tutorial | 17:48 | 4,3 тыс. | июнь 2025 |
+| 36 | Squid Game in Unreal Engine 5 – Episode 1: Building the Red Light Green Light Level | 8:52 | 494 | июнь 2025 |
+| 37 | How to Add a Weapon to a Character – Unreal Engine 5 Tutorial | 10:52 | 5,6 тыс. | июнь 2025 |
+| 38 | Creating The Lost City – Unreal Engine Environment Timelapse | 17:49 | 440 | июнь 2025 |
+| 39 | How to Create CUSTOM ANIMATIONS in Unreal Engine 5.4 (Easy Tutorial) | 9:46 | 1,9 тыс. | июнь 2025 |
+| 40 | How to Teleport with Particle Effects in Unreal Engine 5 (Blueprint Tutorial) | 9:43 | 1,2 тыс. | май 2025 |
+| 41 | How to Create a True First Person Camera in Unreal Engine 5 (Full Tutorial) | 34:13 | 3,1 тыс. | май 2025 |
+| 42 | How to Make Enviroments in Unreal Engine 2025 (Beginner Course) | 0:53 | 441 | май 2025 |
+| 43 | Unreal Engine Photorealistic Render "Nordic Coastline" #render #unrealengine5 #megascans | 27:10 | 86 | май 2025 |
+| 44 | How to create AI Zombies in Unreal Engine (Full Walkthrough) 🧟 | 39:28 | 3,9 тыс. | май 2025 |
+| 45 | How To Create PCG Enviroments In Unreal Engine 5 (Easy Method) 🛠️ | 44:31 | 880 | 2025 |
+| 46 | How to interact with ANYTHING in Unreal Engine (In Depth Tutorial) 🌍 | 18:58 | 1,2 тыс. | 2025 |
+| 47 | Unreal Engine: Squid Game Tutorial Series (Episode 1) 🔺⭕ ⏹️ | 0:49 | 530 | 2025 |
+| 48 | Unreal Engine: Squid Game Tutorial Series 🔺⭕ ⏹️ | 7:44 | 523 | 2025 |
+| 49 | How To Create a Timer in Unreal Engine 5 (Easy Method) ⏰ | 37:52 | 979 | 2025 |
+| 50 | How to Create an Animated Menu in Unreal Engine (Full Course) | 7:14 | 3 тыс. | 2025 |
+| 51 | How to Add Footstep Sounds to Your Game in Unreal Engine 5.5 🔊 | 16:13 | 1,3 тыс. | 2025 |
+| 52 | How to Create a Playable Metahuman in Unreal Engine 5.5 🩻 | 15:53 | 3,3 тыс. | 2025 |
+| 53 | How to Create am Animated Outline Material in Unreal Engine 🟢 | 24:57 | 1,2 тыс. | 2025 |
+| 54 | How To Add Controller Support To Your Game In Unreal Engine 🎮 | 1:03 | 7,2 тыс. | 2025 |
+| 55 | Rockstar won't, so we will.. | 6:28 | 307 | 2025 |
+| 56 | How to Create a 8-Way Strafing Locomotion System in Unreal Engine 🎯 | 7:59 | 504 | 2025 |
+| 57 | How to Create a Third-Person Shooter Game in Unreal Engine 🎮 #3 | 14:49 | 1,2 тыс. | 2025 |
+| 58 | How To Create Levels In Unreal Engine 5 (Easy Method) 🛠️ | 6:44 | 27 тыс. | 2025 |
+| 59 | How to fix Texture Tiling in Unreal Engine 5+ (Easy Fix) 🧱 | 18:10 | 14 тыс. | 2025 |
+| 60 | How to Create a Third-Person Shooter Game in Unreal Engine 🎮 #2 | 8:33 | 912 | 2025 |
+| 61 | Unreal Engine Animation Tutorial: Play Any Animation In One Click! 🎮 | 14:49 | 1,6 тыс. | 2025 |
+| 62 | How to Create a Third-Person Shooter Game in Unreal Engine 🎮 #1 | 6:38 | 1,9 тыс. | 2025 |
+| 63 | Parkour with Custom Characters in Unreal Engine (Easy) 🕺 | 17:33 | 395 | 2025 |
+| 64 | How to Create Aimbot in Unreal Engine (Aim Assist) ⭕ | 9:04 | 2,6 тыс. | 2025 |
+| 65 | How to add a playable Metahuman in Unreal engine 5.4 (The Correct Way) | 14:52 | 3,5 тыс. | 2025 |
+| 66 | How to Create a CCTV System in Unreal Engine #3 📸 | 12:36 | 577 | 2025 |
+| 67 | How to Create a Light Switch In Unreal Engine (Easy) 💡 | 9:32 | 464 | 2025 |
+| 68 | How to Create Interactable Doors in Unreal Engine (The Correct way) ✔️ | 8:56 | 520 | 2025 |
+| 69 | How to Create a Custom Animation Blueprint In Unreal Engine (For Beginners) ✅ | 14:19 | 1,2 тыс. | 2025 |
+| 70 | How to Create a Interaction System in Unreal Engine (With Animations) | 4:15 | 641 | 2025 |
+| 71 | How to Create a Game Timer In Unreal Engine (Easy) ⌛ | 13:56 | 1,1 тыс. | 2025 |
+| 72 | How to add Sprinting in Unreal Engine (With Stamina) 🏃‍♀️ | 9:39 | 413 | 2025 |
+| 73 | How I made the Unrecord Bodycam In Unreal Engine 📷 | 8:27 | 4,9 тыс. | 2025 |
+| 74 | How to Create a Health System in Unreal Engine #2 ❤️‍🩹 | 11:39 | 458 | 2025 |
+| 75 | How Games Handle Health Systems in Unreal Engine | 7:58 | 329 | 2025 |
+| 76 | How to Create a Radar in Unreal Engine (WZ Style) 🗺️ | 5:27 | 669 | 2025 |
+| 77 | How to Fix Pivot Points in Unreal Engine (Easy) ✅ | 16:15 | 1,3 тыс. | 2025 |
+| 78 | How to Create a CCTV System in Unreal Engine #2 📸 | 37:25 | 393 | 2025 |
+| 79 | How to Create a Pause Menu in Unreal Engine (Animated) 📃 | 5:04 | 854 | 2025 |
+| 80 | How to Create a CCTV System in Unreal Engine #1 📸 |  | 694 | 2025 |
+ 
+ 
+--- 
+ 
 # Unreal Engine - это просто
 
 Авторский канал по изучению Unreal Engine (UE4, UE5). Разбираем инструменты и редакторы игрового движка. Визуальную систему программирования узлов Blueprints (события, функции, макросы). C++ Анрила и многое другое. И все это на русском языке
@@ -10235,6 +10463,51 @@ Video tutorial series by Oskar Świerad. https://techartaid.com/
 | 47 | UE4: Stealth Invisibility Effect (With Distortion) | 12:03 | 58 тыс. | 2017 |
 | 48 | UE4: Stylized colors using gradient mapping | 5:29 | 22 тыс. | 2017 |
 | 49 | UE4: How to fix translucent materials (dithered opacity) |  | 123 тыс. | 2017 |
+ 
+ 
+--- 
+ 
+# Tank Control Games
+
+Welcome to Tank Control Games!
+If you’re looking to learn game development in Unreal Engine, you’ve come to the right place.
+I’m a professional animator and game dev with 9+ years of AAA industry experience, and I created this channel to teach Unreal Engine, programming, animation, and real-world production workflows — whether you’re just getting started or looking to level up your skills.
+In these videos, I cover a wide range of systems and techniques. While I have a strong interest in survival horror games, the tutorials here are designed to be useful across all types of projects.
+Join our Discord to ask questions, share your work, and be part of a growing game dev community focused on learning and helping each other improve.
+
+**Страна:** Соединенные Штаты
+**Дата регистрации:** 2 сент. 2025 г.
+**Подписчиков:** 3040
+**Видео:** 44
+**Всего просмотров:** 90711
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | EASY Procedural Spider Animation in UE5 \| Locomotor + Control Rig Tutorial | 16:57 | 8,8 тыс. | март 2026 |
+| 2 | UE5 Chargeable Laser Rifle Tutorial \| Beam Firing + Impact FX (Part 2) | 37:50 | 430 | март 2026 |
+| 3 | UE5 Chargeable Laser Rifle Tutorial \| Using Epic’s FREE Niagara VFX (Part 1) | 28:11 | 602 | март 2026 |
+| 4 | UE5 Surface Deformation Tutorial \| Real-Time Snow & Ground Depth (Render Target, RVT, VHM) | 3:29 | 2,2 тыс. | март 2026 |
+| 5 | Tank Control Games и Elvis Morelli (Digital Visual Art) | 16:38 | 17 тыс. | январь 2026 |
+| 6 | Unreal Engine 5 Decal Optimization: Efficient Bullet Holes with Sprite Sheets (Texture Atlas) | 38:43 | 660 | январь 2026 |
+| 7 | Resident Evil Weapon Firing in Unreal Engine 5 \| Projectiles, Bullet Decals & Chaos (Part 8) | 32:39 | 1,2 тыс. | январь 2026 |
+| 8 | Surface-Based Footprint Decals in Unreal Engine 5 (Dynamic & Fading) | 32:07 | 4,6 тыс. | январь 2026 |
+| 9 | Resident Evil Weapon Firing in Unreal Engine 5 (UE5) \| Fixed Cameras & Recoil (Part 7) | 17:57 | 1,8 тыс. | январь 2026 |
+| 10 | Footstep VFX by Surface Type in Unreal Engine 5 (Niagara) | 28:03 | 3,1 тыс. | январь 2026 |
+| 11 | Footstep Sounds by Surface Type in Unreal Engine 5 (MetaSounds) | 9:42 | 1,6 тыс. | январь 2026 |
+| 12 | Physics Constraints in Unreal Engine 5 – Realistic Googly Eyes | 40:53 | 525 | январь 2026 |
+| 13 | Resident Evil Camera System in Unreal Engine (UE5) — Part 6: Weapon Aiming & Aim Offsets | 18:02 | 2,9 тыс. | январь 2026 |
+| 14 | Animate Character Mouths with Your Microphone in Unreal Engine (R.E.P.O.-Style) | 28:08 | 800 | январь 2026 |
+| 15 | Detect Surface Types in Unreal Engine 5 — Slippery Ice, Snow, Grass & More! (Movement System) | 31:53 | 3,3 тыс. | январь 2026 |
+| 16 | Resident Evil Camera System in Unreal Engine (UE5) — Part 5: Bug Fixes & Improvements | 14:38 | 657 | январь 2026 |
+| 17 | Resident Evil Camera System in Unreal Engine (UE5) — Part 4: Tank Controls | 26:35 | 776 | декабрь 2025 |
+| 18 | Resident Evil Camera System (UE5) — Part 3: Modern Controls for Fixed Cameras (Input Fix) | 40:06 | 1 тыс. | декабрь 2025 |
+| 19 | Resident Evil Camera System in Unreal Engine (UE5) — Part 2: Tracking & On-Rail Cameras | 11:59 | 1,8 тыс. | декабрь 2025 |
+| 20 | Resident Evil Camera System in Unreal Engine (UE5) — Part 1: Fixed Cameras | 7:40 | 3,5 тыс. | ноябрь 2025 |
+| 21 | How I Made Disney’s Haunted Mansion in Unreal 5! |  | 420 | ноябрь 2025 |
  
  
 --- 
@@ -12827,6 +13100,127 @@ Get inspired by real-world workflows, clear tutorials, and game-ready content. J
 | 351 | UE4 Создаем дождь | 15:17 | 6,1 тыс. | 2021 |
 | 352 | UE4 Создаем снег/снегопад | 5:13 | 4,5 тыс. | 2021 |
 | 353 | Письмо в игре с помощью таблицы данных (Data Table) / UE4-001A |  | 1,4 тыс. | 2021 |
+ 
+ 
+--- 
+ 
+# Brian Michael Fuller
+
+Composer - Sound Designer - Fun Guy
+
+**Страна:** Соединенные Штаты
+**Дата регистрации:** 11 июн. 2013 г.
+**Подписчиков:** 5510
+**Видео:** 107
+**Всего просмотров:** 256351
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Add Audio to ANY Actor in Unreal Engine (Explain It To Me Like I'm 9) | 29:09 | 611 | январь 2026 |
+| 2 | UE5 Metasounds: The Footstep Edition! - SFX That React To Different Surface Types in 6 Easy Steps | 26:27 | 2,2 тыс. | октябрь 2025 |
+| 3 | Think Like a Pro: Blueprint Interfaces + MetaSounds in UE5 Explained | 0:44 | 2,9 тыс. | июль 2025 |
+| 4 | Where Are My Metasounds? Pro Debug Tip - "3dVisualize" | 34:25 | 438 | май 2025 |
+| 5 | One Blueprint to Rule Them All! Creating a Global Music Manager in Unreal Engine 5 - Thank Me Later! | 45:42 | 7 тыс. | 2025 |
+| 6 | Let’s Make a Lo-Fi Vinyl Effect! \| Advanced MetaSounds in Unreal Engine 5.5 | 1:07 | 709 | 2025 |
+| 7 | METASOUNDS: Dynamic Vintage Vinyl Simulator - SHOWCASE | 11:56 | 316 | 2025 |
+| 8 | UE5 Metasounds: Let's Make a Multitrack Audio Player with Dynamic Layer Control | 28:59 | 2,4 тыс. | 2025 |
+| 9 | 10 Powerful Metasound Nodes Every Audio Designer Should Know! | 31:31 | 3,1 тыс. | 2025 |
+| 10 | Unreal Engine Audio Modulation Demystified - Explain It Like A Mixing Engineer | 28:21 | 2,2 тыс. | 2025 |
+| 11 | Unreal Engine 5.5 - Audio Gameplay Volumes - How to add Reverb and Other Cool Audio Effects! | 26:37 | 6,4 тыс. | 2025 |
+| 12 | UE5: Metasound Output Watcher - A Must Know Feature for Awesome Music Visualization | 1:01 | 2,4 тыс. | 2025 |
+| 13 | UE5.4: Metasound Output Watcher - DEMO [NO TALKING] | 46:33 | 546 | 2025 |
+| 14 | Unreal Engine 5 Audio Crash Course - Your First 30 Minutes Using Sound | 20:18 | 21 тыс. | 2025 |
+| 15 | UE5.4 HARMONIX - Part 4: Drum Step Sequencer: Deep Dive | 1:07 | 1,1 тыс. | 2025 |
+| 16 | UE5.4 DRUM MACHINE BUILD - "PATCHWORKS STYLE" INTERACTIVE STEP SEQUENCER - DEMO | 23:16 | 640 | 2025 |
+| 17 | UE5.4 HARMONIX - Part 3: STEP SEQUENCER DEEP DIVE - Make Your Own Custom Midi | 14:58 | 1 тыс. | 2025 |
+| 18 | UE5.4 HARMONIX - Part 2: FUSION SAMPLER DEEP DIVE - Let’s Sample A Tongue Drum | 14:09 | 1,1 тыс. | 2025 |
+| 19 | UE5.4 HARMONIX - Part 1: MIDI Deep Dive Part 1 | 25:00 | 2,6 тыс. | 2025 |
+| 20 | Metasounds: 15 MUST KNOW Power Tips for Unreal Engine Audio | 2:13 | 2,5 тыс. | 2025 |
+| 21 | UE5.4 METASOUNDS - HARMONIX PLUGIN - MIDI IS HERE! Game Changer!!! | 21:05 | 1,3 тыс. | 2025 |
+| 22 | METASOUNDS: HOW TO SYNC MUSICAL WEAPON SFX's WITH A BEAT! UNREAL 5 - QUARTZ CLOCK - DEEP DIVE | 0:45 | 2,5 тыс. | 2025 |
+| 23 | METASOUNDS: A MUSICAL FLAMETHROWER THAT SYNCS WITH THE BEAT! UNREAL ENGINE 5 - QUARTZ CLOCK | 9:37 | 1,6 тыс. | 2025 |
+| 24 | UE5: How To Connect Metasounds to Widget Buttons - Make Simple and Quick User Interfaces | 11:10 | 1,3 тыс. | 2024 |
+| 25 | UNREAL ENGINE 5: Your First QUARTZ Clock! Perfect Audio Syncing Every Time. | 16:32 | 4,7 тыс. | 2024 |
+| 26 | METASOUNDS: Control Bus Mixes - Use a Widget Knob to Modulate a Control Bus. Low Pass Filter Example | 25:29 | 2 тыс. | 2024 |
+| 27 | UE5 METASOUNDS - MORPHING AUDIO: “Interp To” & “Crossfade” nodes EXPLAINED! | 19:38 | 2,8 тыс. | 2024 |
+| 28 | UE5 METASOUNDS - THREE NUANCED BLUEPRINT NODES EXPLAINED : Play, Create and Spawn Sound 2D | 7:07 | 3,8 тыс. | 2024 |
+| 29 | UE5 Metasounds: Dynamic Music System and FREE Asset Pack - featuring The Sound FX Guy | 7:07 | 1,1 тыс. | 2024 |
+| 30 | 1000 SUBSCRIBERS & FREE INTERACTIVE TENSION MUSIC ASSET PACK | 30:41 | 752 | 2024 |
+| 31 | Eleven Awesome Ways To Mix Audio in the UNREAL ENGINE 5.3: From Easiest To Most Complex | 25:24 | 5,9 тыс. | 2024 |
+| 32 | Metasounds Advanced Song Arranger Tips! How to Make an Interactive Score With Only One Audio Track | 25:20 | 1,7 тыс. | 2024 |
+| 33 | Metasound Design: Create a Sci-Fi Laser Gun From Scratch Using Sine Waves and FM Synthesis | 36:13 | 1,6 тыс. | 2024 |
+| 34 | UE5 METASOUNDS : Audio Bus Ducking and Side-Chain Compression | 13:35 | 3,8 тыс. | 2024 |
+| 35 | Metasounds: AUDIO BUS & SOURCE BUS - Grasp This Concept in 10 Minutes! | 1:06 | 2,6 тыс. | 2024 |
+| 36 | Metasound Source Bus - 3D FM Radio Simulation DEMO! Pretty amazing Stuff! UE5.3 | 23:55 | 370 | 2024 |
+| 37 | Metasounds - Creating Aux Sends - Reverb & Delay w/ 3D Knobs & Visualizer - Unreal Engine 5.3 | 0:49 | 1,5 тыс. | 2024 |
+| 38 | DEMO SHOWCASE: Reverb And Delay Aux Sends Using Submixes with Metasounds - UE5.3 | 23:25 | 423 | 2024 |
+| 39 | Unreal Engine 5.3 - Audio Modulation; Explain it To Me Like I’m 9 | 18:44 | 4,3 тыс. | 2024 |
+| 40 | Metasounds Halloween Edition: Part 3 - Interactive Theremin Deep Dive | 16:00 | 482 | 2024 |
+| 41 | Metasounds Halloween Edition: Danny Elfman Style Musical Underscore - Theremin Deep Dive - Part 2 | 16:26 | 326 | 2024 |
+| 42 | Metasounds Halloween Edition: “Interactive Spooky Theremin”: Deep Dive Breakdown - Part 1 | 12:30 | 587 | 2024 |
+| 43 | WWISE 2022.1.8 with UNREAL ENGINE 5.2 - Let's Make Them Work... I Show You How! | 15:45 | 4,5 тыс. | 2024 |
+| 44 | UE5 Metasounds: The Music Arranging Node - It Will Have You Triggered! | 0:33 | 3,4 тыс. | 2024 |
+| 45 | 2023 Epic Megajam Game Jam Entry: "Astro Bump-O-Rama" Gameplay Clip | 20:07 | 148 | 2024 |
+| 46 | Unreal Engine Metasounds: 14 Simple Things I Wish I Knew When I Started | 19:43 | 20 тыс. | 2024 |
+| 47 | Metasounds 5.2: Distance Based Dynamic Music Interaction: Deep-Dive | 0:53 | 2,2 тыс. | 2024 |
+| 48 | Metasounds 5.2: Playable Theremin Synthesizer Interaction: HALLOWEEN SHOWCASE | 1:04 | 596 | 2024 |
+| 49 | Metasounds 5.2: Distance Based Dynamic Music Interaction: SHOWCASE | 5:49 | 698 | 2024 |
+| 50 | Audio Attenuation & Spatialization - Unreal 5.1 - Part 3: "FOCUS" - VALUABLE SKILL!!! | 4:40 | 2,3 тыс. | 2024 |
+| 51 | Audio Attenuation & Spatialization - Unreal 5.1 - Part 2: "OCCLUSION" - VALUABLE SKILL!!! | 8:29 | 1,8 тыс. | 2024 |
+| 52 | Audio Attenuation & Spatialization - Unreal 5.1 - Part 1: VOLUME ATTENUATION - VALUABLE SKILL!! | 14:48 | 3,8 тыс. | 2024 |
+| 53 | Sci-Fi Weapons and VFX Audio Design with Metasounds: Part 2 - Musical System // Unreal Engine 5 | 18:08 | 1 тыс. | 2024 |
+| 54 | Sci-Fi Weapons and VFX Audio Design with Metasounds: Part 1 - Spawn In SFX | 2:30 | 756 | 2024 |
+| 55 | First Person Shooter - But It Writes Music: Unreal Engine 5.2 Metasounds | 10:48 | 555 | 2024 |
+| 56 | UE5.2 Metasounds: Time Stretching Audio Files by BPM but NOT altering Pitch! AWESOME TRICK! | 0:58 | 2,6 тыс. | 2024 |
+| 57 | Steam Punk 303 Acid Synth - Prototype Preview - Built Inside Unreal Engine 5.2 with Metasounds | 2:56 | 285 | 2024 |
+| 58 | Unreal Engine 5.2 - Metasounds - FM Synth Machine - DEMO | 26:31 | 749 | 2024 |
+| 59 | UE5 Metasounds: How To Make A Functional Swing Knob - Math that grooves! | 24:46 | 347 | 2024 |
+| 60 | Building on Metasounds: Musical Ball Drop - Full Walkthrough: FREE GAME DOWNLOAD - REDUCE STRESS! | 1:20 | 333 | 2024 |
+| 61 | Metasounds: Musical Ball Drop in Unreal Engine 5.1 - DEMO - NO TALKING | 18:00 | 775 | 2024 |
+| 62 | Metasound Patch vs. Metasound Source: When, Why and How to Use Them in Unreal Engine 5.1 | 48:57 | 2,5 тыс. | 2024 |
+| 63 | Building On Metasounds - Drum Synth Step Sequencer - Full Walk-Through: Unreal Engine 5.1 | 11:47 | 1,4 тыс. | 2024 |
+| 64 | UE5: Metasounds and Event Dispatchers - Demystified | 0:24 | 1,1 тыс. | 2024 |
+| 65 | Unreal Engine 5: Metasounds - Complex 3D Fader System - DEMO | 9:13 | 366 | 2024 |
+| 66 | UNREAL ENGINE 5 - QUARTZ CLOCK: Part 2 - Quantized Emitters! | 1:54 | 1,1 тыс. | 2024 |
+| 67 | Stylized Drum Synth Sequencer: Unreal Engine 5.1 Quartz and Metasounds Showcase (No Talking) | 24:11 | 540 | 2024 |
+| 68 | UNREAL ENGINE 5 - QUARTZ CLOCK SYSTEM: Part 1 | 18:06 | 3,9 тыс. | 2024 |
+| 69 | WWISE 2022 & UNREAL ENGINE 5 Integration : Easier Than You Think! | 12:44 | 14 тыс. | 2024 |
+| 70 | UE5 Metasounds: 3D Fader Control and Interactivity - Blueprints | 2:06 | 733 | 2024 |
+| 71 | Music Made By Only Using A Glass - Less Options Is A Good Thing | 26:44 | 120 | 2024 |
+| 72 | Unreal Engine 5 Metasounds - Let's Build a Monosynth | 13:42 | 1,4 тыс. | 2024 |
+| 73 | LET'S BUILD AN FM SYNTH: METASOUNDS SYNTHESIS PART 5 | 30:44 | 1,4 тыс. | 2024 |
+| 74 | LET'S BUILD A POLYSYNTH: UE5 METASOUNDS SYNTHESIS PART 4 | 0:41 | 1,6 тыс. | 2024 |
+| 75 | UNREAL ENGINE 5 METASOUNDS: CHROMATIC POLYSYNTH PREVIEW | 13:28 | 376 | 2024 |
+| 76 | SQUARE WAVES, VARIABLES AND MORE: UE5 METASOUNDS SYNTHESIS PART 3 | 7:23 | 1,9 тыс. | 2024 |
+| 77 | Let's Make A Custom Reverb IR for UE5 Metasounds - So Easy!!! | 5:42 | 4,6 тыс. | 2024 |
+| 78 | QUERTY KEYBOARD MUSIC INPUT: UE5 METASOUNDS SYNTHESIS PART 2 | 0:11 | 1,9 тыс. | 2024 |
+| 79 | Blipsounds - Jedi Fallen Order - Reimagined SFX | 12:40 | 141 | 2024 |
+| 80 | TURN UNREAL ENGINE INTO A SYNTHESIZER: UE5 METASOUNDS SYNTHESIS PART 1 | 0:23 | 7,5 тыс. | 2024 |
+| 81 | UE5 METASOUNDS: 80's CLASSIC SYNTH RIFF with QWERTY | 36:37 | 595 | 2024 |
+| 82 | Generative A.I. Game Score: Ambient Horror Deep Dive with UE5 Metasounds and Blueprints | 10:39 | 2,7 тыс. | 2024 |
+| 83 | Metasound Basics: Part 5 - A Guide to Next Generation Audio in the Unreal Engine 5 | 13:30 | 2,8 тыс. | 2024 |
+| 84 | Metasound Basics: Part 4 - A Guide to Next Generation Audio in the Unreal Engine 5 | 11:30 | 3,4 тыс. | 2024 |
+| 85 | Metasound Basics: Part 3 - A Guide to Next Generation Audio in the Unreal Engine 5 | 17:36 | 4,3 тыс. | 2024 |
+| 86 | Metasound Basics: Part 2 - A Guide to Next Generation Audio in the Unreal Engine 5 | 7:40 | 6,1 тыс. | 2024 |
+| 87 | Metasound Basics: Part 1 - A Guide to Next Generation Audio in the Unreal Engine 5 | 2:49 | 12 тыс. | 2024 |
+| 88 | Generative "Ambient Horror" Underscore - A.I. in the Unreal Engine (DEMO) | 11:44 | 685 | 2024 |
+| 89 | Unreal Engine 5 MetaSounds: Don't Sleep on the DEBUG! | 17:48 | 1 тыс. | 2024 |
+| 90 | UE5 Meta Sounds & Blueprints: My New A.I. Co-writer | 4:36 | 938 | 2024 |
+| 91 | GAME AUDIO HACK: Seamless Audio Loops, EVERYTIME! | 9:59 | 1,7 тыс. | 2024 |
+| 92 | Meta Sounds in UE5- Accessing "Cue Points" as INPUTS! (work around) | 7:38 | 2,5 тыс. | 2024 |
+| 93 | Unreal Engine 5 - How to add "Cue Points" to audio with Logic Pro X! | 1:42 | 2,2 тыс. | 2023 |
+| 94 | NASHVILLE NUMBER SYSTEM MAKES IT EASY TO RECORD! | 0:25 | 283 | 2022 |
+| 95 | SUPERBOWL 55 UNDERSCORE - Two of my Rock Tracks | 0:41 | 105 | 2021 |
+| 96 | Nickelodeon Sponge Bob Halloween Promo Spot | 1:23 | 457 | 2021 |
+| 97 | 16BIT - Video Game Track - "JumpingFences" | 0:14 | 86 | 2021 |
+| 98 | POWER RANGERS NICK PROMO | 1:19 | 281 | 2021 |
+| 99 | "Spitting Fire" Brian Michael Fuller | 1:19 | 322 | 2018 |
+| 100 | "Found" - Restaurant Scene with Original Score by Brian Michael Fuller | 1:11 | 185 | 2018 |
+| 101 | "Found". Opening Scene with Original Score by Brian Michael Fuller |  | 179 | 2018 |
  
  
 --- 
@@ -15925,6 +16319,49 @@ Ben Cloward has been a game dev for over 20 years and has been creating shaders 
  
 --- 
  
+# Risensy
+
+Hello, I'm doing tutorials on Unreal Engine 4/5. Subscribe, there is a lot of useful!
+
+**Страна:** Дата регистрации: 5 мая 2021 г.
+**Подписчиков:** 841
+**Видео:** 25
+**Всего просмотров:** 102459
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Steam Voice Chat \| Steam Multiplayer - Unreal Engine Tutorial | 6:20 | 9,7 тыс. | 2025 |
+| 2 | Setup Steam Sockets For OSS Steam \| Steam Multiplayer | 13:41 | 3,3 тыс. | 2025 |
+| 3 | Ownership in Unreal Engine | 8:24 | 3 тыс. | 2025 |
+| 4 | Server Travel \| Unreal Engine 5 Tutorial | 9:12 | 9,8 тыс. | 2025 |
+| 5 | Steam Multiplayer: Player List \| Unreal Engine 5 Tutorial | 3:37 | 1,5 тыс. | 2024 |
+| 6 | How To Setup Visual Studio For Unreal Engine 5 | 4:04 | 5,3 тыс. | 2024 |
+| 7 | How To Package Game \| Unreal Engine Tutorial | 4:32 | 660 | 2024 |
+| 8 | Camera Replication \| Unreal Engine Tutorial | 10:18 | 1,5 тыс. | 2024 |
+| 9 | Steam Multiplayer #2 \| Friend List & Invite \| Unreal Engine 4 & 5 Tutorial | 4:02 | 3,9 тыс. | 2024 |
+| 10 | Steam Shipping Build - Steam \| Unreal Engine 4 & 5 Tutorial | 8:43 | 4,9 тыс. | 2023 |
+| 11 | Discord Rich Presence \| Unreal Engine 4 & 5 Tutorial | 1:58 | 8,9 тыс. | 2023 |
+| 12 | How To Replicate Physics \| Unreal Engine 5 Tutorial | 18:51 | 8,1 тыс. | 2023 |
+| 13 | Steam Multiplayer \| Advanced Steam Session \| Unreal Engine 4 & 5 Tutorial #1 | 6:09 | 21 тыс. | 2023 |
+| 14 | How To Replicate Health \| Unreal Engine 4 Tutorial | 9:46 | 536 | 2023 |
+| 15 | Advanced Session Plugin #1 \| Server Name \| Multiplayer Blueprint | 4:46 | 4,7 тыс. | 2023 |
+| 16 | How To Interact \| Unreal Engine 4 Tutorial | 6:07 | 224 | 2023 |
+| 17 | Server List \| Unreal Engine 4 Multiplayer Tutorial | 2:39 | 3,4 тыс. | 2023 |
+| 18 | Replication \| Spawn Actor Unreal Engine 4 Tutorial | 2:42 | 1,8 тыс. | 2022 |
+| 19 | Unreal Engine 4 Линейная Трассировка Мультиплеер Туториал | 1:44 | 1,8 тыс. | 2022 |
+| 20 | [UE4] How To Import From Blender To Unreal Engine 4 | 1:15 | 71 | 2022 |
+| 21 | [UE4] How to enable complex collision | 2:16 | 3,8 тыс. | 2022 |
+| 22 | [UE4] How To replicate sprint | 5:03 | 469 | 2022 |
+| 23 | [UE4] Multiplayer Nickname | 3:58 | 1 тыс. | 2022 |
+| 24 | [UE4] How to create simple multiplayer \| Quick Tutorial! |  | 608 | 2022 |
+ 
+ 
+--- 
+ 
 # UNREAL: RUSSIA
 
 Уроки по Unreal Engine (UE4 / UE5) на русском языке. Туториалы для начинающих по созданию игр, блюпринтам, С++, анимациям, катсценам, оптимизации игр, а также обзоры новых фичей движка.
@@ -15967,6 +16404,620 @@ Ben Cloward has been a game dev for over 20 years and has been creating shaders 
 | 25 | Реюзабельный виджет для диалогов в Unreal Engine | 5:55 | 10 тыс. | 2021 |
 | 26 | Экономим память с помощью Soft References в Unreal Engine | 10:17 | 10 тыс. | 2021 |
 | 27 | Шатаем камеру (нюансы Camera Shake Class в Unreal Engine) |  | 7 тыс. | 2021 |
+ 
+ 
+--- 
+ 
+# Ethan
+
+making games. want to make SAO a reality. i want Dark and Darker in VR but with pain, scent, etc. doesn't exist yet. nobody's doing it. so i will.
+goals:
+[Done] 1. Wizards and Warlocks: multiplayer peer-to-peer pvpve voice spellcasting. mage arena but more spells, maps, and smarter, reasonably difficult enemies. i really like voice spellcasting. needs to be more common.
+2. c++-only game: probably Liar's Bar clone but in visual studio 22 only. starting after I ship W&W
+3. singleplayer Dark and Darker in VR: 2 maps, 10 unique enemy types per map, plus 1 unique boss on each map. enemies that make you want to come back. difficult. like dark and darker. no cheesing enemies. i.e., no projectile weapons, and smart enemies. persistent inventory and shops to buy/sell loot. resting irl (sit irl to rest ingame for trickle heal). shit to do while you're resting on the ground for a bit. immersive. gonna be tough to make. starting after I ship c++ game.
+
+**Страна:** Дата регистрации: 5 нояб. 2018 г.
+**Подписчиков:** 85
+**Видео:** 188
+**Всего просмотров:** 13604
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Wizards and Warlocks - Release Trailer | 39:03 | 16 | март 2026 |
+| 2 | Wizards and Warlocks, many improvements | 36:16 | 4 | март 2026 |
+| 3 | Wizards and Warlocks \| 2 new spells (Jumpscare and Euphear) and server browser improvements | 47:59 | 6 | март 2026 |
+| 4 | Wizards and Warlocks \| Boogie Woogie (Todo from JJK) and UnitedKingdom (British knife hello) spells | 23:57 | 32 | март 2026 |
+| 5 | Wizards and Warlocks \| Forest level revamp, UI, spell, and more improvements | 45:59 | 219 | март 2026 |
+| 6 | Wizards and Warlocks \| fixed multiplayer hitching and voice attenuation | 40:27 | 6 | март 2026 |
+| 7 | Wizards and Warlocks \| Objectives UI (and other improvements) | 33:04 | 21 | март 2026 |
+| 8 | Wizards and Warlocks, kill players to take their spells | 15:53 | 4 | март 2026 |
+| 9 | Wizards and Warlocks, Sound Announcement Queue/Buffer | 36:48 | 1 | март 2026 |
+| 10 | Wizards and Warlocks - Objective capture announcements, voice lines, bug fixes | 25:25 | 10 | март 2026 |
+| 11 | Wizards and Warlocks - Optimizing Character AnimBP | 41:21 | 5 | январь 2026 |
+| 12 | ue5 voip game, multiplayer spectate system and bug fixing | 19:56 | 21 | январь 2026 |
+| 13 | ue5 voip game, fixed NPC (Rogue Wizard) bugs | 29:13 | 6 | январь 2026 |
+| 14 | ue5 voip game, added persistent settings | 15:33 | 6 | январь 2026 |
+| 15 | ue5 voip game AutoStart, countdown, and improved visuals and UI | 16:11 | 4 | январь 2026 |
+| 16 | ue5 voip game, improved Team Selection menu | 5:28 | 7 | январь 2026 |
+| 17 | ue5 voip game, started adding team poses | 13:48 | 3 | январь 2026 |
+| 18 | ue5 voip game, wizard gangster animations, beginning | 10:08 | 12 | январь 2026 |
+| 19 | ue5 voip game, added toggle to microphone test and fixed VoiceOutput audio setting | 21:25 | 34 | январь 2026 |
+| 20 | ue5 voip game - bug fixed; servers must have room to be findable via FindAdvancedSessions | 16:28 | 13 | январь 2026 |
+| 21 | ue5 voip game, voice input visual and custom sliders for gamepad feedback | 4:13 | 9 | январь 2026 |
+| 22 | ue5 voip game, fixed slider gamepad navigation bug | 23:20 | 30 | январь 2026 |
+| 23 | ue5 voip game, added audio menu with voice input and output volume | 7:52 | 12 | январь 2026 |
+| 24 | ue5 voip game, simple button clicking that looks good on mouse and gamepad | 11:11 | 4 | январь 2026 |
+| 25 | ue5 voip game, added controller support to server widgets | 12:02 | 1 | январь 2026 |
+| 26 | ue5 voip game, controller support sliders and checkboxes | 5:55 | 8 | январь 2026 |
+| 27 | ue5 voip game, improved controller support widgets | 6:03 | 8 | январь 2026 |
+| 28 | ue5 voip game, fixed controller rebinding | 13:58 | 8 | январь 2026 |
+| 29 | ue5 voip game, added controller support - WIP | 5:19 | 2 | январь 2026 |
+| 30 | ue5 voip game, tiny input actions update | 42:31 | 1 | январь 2026 |
+| 31 | ue5 voip game, keybindings | 11:05 | 11 | январь 2026 |
+| 32 | ue5 voip game, fixed widget letting player look around when holding left click | 18:41 | 3 | январь 2026 |
+| 33 | ue5 voip game, added settings (graphics & controls) menu | 31:36 | 3 | январь 2026 |
+| 34 | ue5 voip game, NetCullDistance bug culls AudioFinished event | 8:40 | 12 | январь 2026 |
+| 35 | ue5 voip game, GameModes (TDM/Domination/CTF) spawn their own objectives | 30:03 | 7 | январь 2026 |
+| 36 | ue5 voip game, wizards are less accurate when blinded | 19:04 | 0 | январь 2026 |
+| 37 | ue5 voip game NPCWizard only attacks player if he sees him | 3:26 | 0 | январь 2026 |
+| 38 | ue5 voip game, NPCWizards don't attack invisible players | 28:42 | 7 | январь 2026 |
+| 39 | ue5 voip game, wizards cast "tactical" spells and hide behind shields | 20:08 | 12 | январь 2026 |
+| 40 | ue5 voip game, fighting my wizards | 8:42 | 4 | январь 2026 |
+| 41 | ue5 voip game, fixed NPCWizard trying to cast spells that are on cooldown | 9:35 | 8 | январь 2026 |
+| 42 | ue5 voip game, NPC wizard correctly casts projectile spells | 2:29 | 3 | январь 2026 |
+| 43 | ue5 voip game, rogue wizard casts hitscan spells with correct rotation | 32:18 | 2 | январь 2026 |
+| 44 | ue5 voip game, rogue wizard attacks player with correct rotation pitch | 16:08 | 2 | январь 2026 |
+| 45 | ue5 voip game, rogue wizard looks at and attacks player | 15:42 | 3 | январь 2026 |
+| 46 | ue5 voip game, rogue wizards randomly cast spells | 5:06 | 3 | январь 2026 |
+| 47 | fixing material and face normals after exporting wooden chest |  | 3 | декабрь 2025 |
+| 48 | making a wooden chest in Blender - ue5 voip game | 9:28 | 2 | декабрь 2025 |
+| 49 | ue5 voip game, breakable object spawns spell pages | 5:35 | 2 | декабрь 2025 |
+| 50 | ue5 voip game, drop extra spell pages, logic all on server | 16:58 | 9 | декабрь 2025 |
+| 51 | ue5 voip game, pick up extra spell pages with independent cooldowns | 3:22 | 3 | декабрь 2025 |
+| 52 | ue5 voip game, spellbook is complete | 25:48 | 1 | декабрь 2025 |
+| 53 | ue5 voip game, game engine bug. OnRep functions do not call on clients for Dynamic Material Instance | 7:20 | 1 | декабрь 2025 |
+| 54 | ue5 voip game added first person animations and attached spellbook to hand | 6:27 | 2 | декабрь 2025 |
+| 55 | ue5 voip game fixed dynamic material runtime pixelation | 21:13 | 0 | декабрь 2025 |
+| 56 | ue5 voip game, fixing dynamic material runtime pixelation, and array indexing | 8:34 | 2 | декабрь 2025 |
+| 57 | ue5 voip game - spellbook has visual cooldowns, and spells can't be casted when on cooldown | 22:46 | 3 | декабрь 2025 |
+| 58 | ue5 voip game visualized spell cooldown | 17:01 | 9 | декабрь 2025 |
+| 59 | ue5 voip game added more spellbook pages | 9:34 | 0 | декабрь 2025 |
+| 60 | ue5 voip game spellbook determines what spells you can cast | 14:39 | 1 | декабрь 2025 |
+| 61 | ue5 voip game, spellbook with turnable pages | 33:51 | 5 | декабрь 2025 |
+| 62 | ue5 voip game, adding spellbook | 1:31 | 4 | декабрь 2025 |
+| 63 | ue5 voip game level selection when creating game | 16:12 | 1 | декабрь 2025 |
+| 64 | ue5 voip game maze foundation complete | 3:19 | 4 | декабрь 2025 |
+| 65 | ue5 voip game - maze level in progress | 17:24 | 13 | декабрь 2025 |
+| 66 | ue5 voip game added Hall dungeon level | 11:15 | 4 | декабрь 2025 |
+| 67 | you're a wizard | 28:14 | 3 | декабрь 2025 |
+| 68 | voip wizard game, runtime gamemode selection and objective-contesting | 8:46 | 0 | ноябрь 2025 |
+| 69 | voip wizard game team deathmatch, domination, and capture the flag | 9:18 | 5 | ноябрь 2025 |
+| 70 | wizard game - added Team Deathmatch and GameOver UI | 8:12 | 3 | ноябрь 2025 |
+| 71 | wizard game players can't cast spells in the lobby, only after GameStart | 4:48 | 1 | ноябрь 2025 |
+| 72 | wizard game assign teams to team less players on game start | 32:40 | 4 | ноябрь 2025 |
+| 73 | wizard game fixed teams not updating when player leaves | 30:26 | 6 | ноябрь 2025 |
+| 74 | wizard game - teams and scoring - finally... | 17:14 | 5 | ноябрь 2025 |
+| 75 | voip wizard game - respawn and death system and sounds | 20:30 | 3 | ноябрь 2025 |
+| 76 | voip wizard game - added Allahu Akbar, improved Blink, Crunch, and Holy Light | 7:13 | 3 | ноябрь 2025 |
+| 77 | voip wizard game, testicular torsion, beam, holy light, blink, deafness, crunch |  | 11 | ноябрь 2025 |
+| 78 | voip wizard game, fixing/improving HolyLight and Deodorant spells, Shrink not fixed yet | 18:09 | 1 | ноябрь 2025 |
+| 79 | ue5 voice activated wizard game, procedural map, 2 new spells, and fireball improvement | 46:58 | 0 | ноябрь 2025 |
+| 80 | ue5 multiplayer wizard game lighting bolt and blindness spells | 41:58 | 3 | ноябрь 2025 |
+| 81 | ue5 voice wizard game light spell | 43:50 | 4 | ноябрь 2025 |
+| 82 | ue5 wizard game - magic missile | 19:42 | 23 | ноябрь 2025 |
+| 83 | ue5 wizard game - freeze spell | 18:09 | 13 | ноябрь 2025 |
+| 84 | ue5 wizard game shield spell and interaction with combat spells | 20:05 | 21 | ноябрь 2025 |
+| 85 | ue5 voice spellcasting multiplayer game replicated invisibility and heal spells | 9:32 | 22 | ноябрь 2025 |
+| 86 | ue5 wizard pvp speech game, invisibility spell | 17:10 | 4 | октябрь 2025 |
+| 87 | ue5 speech recognition pvp spellcasting game recover spell, health overlay, explosions | 11:58 | 8 | октябрь 2025 |
+| 88 | ue5 speech recognition pvp spellcasting game, damage/recover/explosion | 6:28 | 11 | октябрь 2025 |
+| 89 | ue5 short - multiplayer speech recognition voip spellcasting game test | 40:38 | 67 | октябрь 2025 |
+| 90 | ue5 long - spoken spellcasting voip multiplayer test game update, now works | 7:03 | 25 | октябрь 2025 |
+| 91 | test voip multiplayer spellcasting/wizard game update | 8:49 | 13 | сентябрь 2025 |
+| 92 | Game Idea - Spoken Spellcasting - Fireball testing | 8:49 | 23 | сентябрь 2025 |
+| 93 | Unreal Engine 5 game inspiration - proximity chat (VOIP) and speech recognition - not a tutorial |  | 383 | сентябрь 2025 |
+| 94 | whoops wrong channel - raw c++ learning, class copy constructors, constructor elision | 5:58 | 24 | август 2025 |
+| 95 | Update | 49:33 | 17 | июль 2025 |
+| 96 | unreal engine 5 gamedev: AI sense of distance. kinda done but needs debugging | 41:58 | 14 | 2025 |
+| 97 | unreal engine 5 gamedev: AI combat distance fixing perception |  | 20 | 2025 |
+| 98 | unreal engine 5 gamedev: trying to figure out backwards ai movement | 31:07 | 32 | 2025 |
+| 99 | unreal engine 5 gamedev: adding AI's sense of distance (intelligence) | 26:55 | 19 | 2025 |
+| 100 | unreal engine 5 gamedev - brainstorming gameplan for smarter AI | 39:09 | 35 | 2025 |
+| 101 | unreal engine 5 gamedev - fixing character rotation - massive improvement | 27:56 | 23 | 2025 |
+| 102 | unreal engine 5 gamedev - fixing lunge attack | 36:44 | 19 | 2025 |
+| 103 | unreal engine 5 gamedev - fixed lunge attack - adding new attack ranges | 28:35 | 13 | 2025 |
+| 104 | unreal engine 5 gamedev - implementing lunge attack | 22:52 | 37 | 2025 |
+| 105 | unreal engine 5 gamedev - more lunge animation with root motion | 9:39 | 42 | 2025 |
+| 106 | unreal engine 5 gamedev - root motion lunge attack - scrapped | 10:15 | 32 | 2025 |
+| 107 | unreal engine 5 game dev - identifying what to implement in combat |  | 8 | 2025 |
+| 108 | unreal engine 5 gamedev - implemented combo attack + inventory bugfixing | 24:08 | 65 | 2025 |
+| 109 | unreal engine 5 gamedev - even more enemy attack animation work | 37:35 | 8 | 2025 |
+| 110 | unreal engine 5 game dev - more enemy attacks w/ root motion | 49:44 | 22 | 2025 |
+| 111 | unreal engine 5 game dev - enemy root motion attacks | 39:25 | 48 | 2025 |
+| 112 | unreal engine 5 gamedev - blending random enemy attacks |  | 75 | 2025 |
+| 113 | unreal engine 5 game dev - conceptualizing enemy attacks - starting to blend enemy attacks - maybe? | 17:13 | 35 | 2025 |
+| 114 | unreal engine 5 game dev - fixed crouch attack not blending - plus yappathon | 36:51 | 24 | 2025 |
+| 115 | unreal engine 5 game dev - sitting/resting completed + extra bugfixing | 26:08 | 27 | 2025 |
+| 116 | unreal engine 5 game dev - sitting/resting - finishing the animation | 27:57 | 79 | 2025 |
+| 117 | unreal engine 5 game dev - sitting/resting - incorporating animation | 43:15 | 28 | 2025 |
+| 118 | unreal engine 5 game dev - blender action - sitting/resting | 37:27 | 25 | 2025 |
+| 119 | unreal engine 5 game dev - finished bandaging (mystery bug) - fixed dagger |  | 14 | 2025 |
+| 120 | unreal engine 5 game dev - bandage/consumable items - fixed bugs - works beautifully | 23:43 | 37 | 2025 |
+| 121 | unreal engine 5 game dev - bandaging/item consumption - done (pre-big-bug) | 37:57 | 11 | 2025 |
+| 122 | unreal engine 5 game dev - bandaging - almost done | 22:24 | 46 | 2025 |
+| 123 | unreal engine 5 game dev - bandage mechanic (finished/kinda) | 31:42 | 53 | 2025 |
+| 124 | unreal 5 game dev - bandage mechanic | 23:36 | 18 | 2025 |
+| 125 | unreal engine 5 game dev - dagger is an item, can be equipped and used as weapon! | 29:07 | 4 | 2025 |
+| 126 | unreal engine 5 game dev - equippable, useable dagger | 24:10 | 18 | 2025 |
+| 127 | unreal game dev - unreal updated I guess and bricked inventory - debugging | 58:04 | 24 | 2025 |
+| 128 | unreal game dev - fixed item equipping & debugged interact highlighting | 35:36 | 11 | 2025 |
+| 129 | unreal game dev - equipping and using items (DONE - kind of, with the basics at least) | 14:57 | 20 | 2025 |
+| 130 | unreal game dev - equipping items (even more) - figuring things out | 9:56 | 9 | 2025 |
+| 131 | unreal engine 5 game dev - inventory equipping items 4? | 25:21 | 23 | 2025 |
+| 132 | unreal engine 5 game dev - equipping items/weapons now works | 15:26 | 17 | 2025 |
+| 133 | unreal engine 5 gamedev - equipping items/weapons - beginning | 9:56 | 31 | 2025 |
+| 134 | unreal game dev - inventory - equip items/weapons - bug fixed - done | 10:20 | 3 | 2025 |
+| 135 | unreal game dev - inventory - equip items/weapons - almost done | 10:10 | 2 | 2025 |
+| 136 | unreal game dev - inventory - equip items/weapons wrapping inventory up | 10:20 | 0 | 2025 |
+| 137 | unreal game dev - inventory - equip items/weapons - even more | 8:58 | 0 | 2025 |
+| 138 | unreal game dev - inventory - equip items/weapons | 20:53 | 2 | 2025 |
+| 139 | unreal engine 5 gamedev - equipping weapons/items... | 12:20 | 1 | 2025 |
+| 140 | unreal engine 5 gamedev - more equipped items/weapons inventory work | 14:10 | 15 | 2025 |
+| 141 | unreal engine game dev - equipping/using weapons/items (in progress) | 45:47 | 43 | 2025 |
+| 142 | unreal engine game dev - equipping items/weapons | 38:03 | 1 | 2025 |
+| 143 | unreal engine game dev - more equipping items/weapons work | 37:27 | 2 | 2025 |
+| 144 | unreal engine game dev - adding an item hotbar to use items (and heal) | 57:23 | 18 | 2025 |
+| 145 | unreal engine 5 game dev - wrapping up health vignette + bugfix | 35:43 | 5 | 2025 |
+| 146 | unreal engine 5 game dev - health vignette progress/planning | 45:17 | 35 | 2025 |
+| 147 | unreal engine 5 game dev - hit/death vignette / bloodscreen |  | 33 | 2025 |
+| 148 | unreal engine 5 game dev - player death, deathscreen, input optimization |  | 25 | 2025 |
+| 149 | unreal engine 5 game dev - fixed every current issue |  | 23 | 2025 |
+| 150 | unreal engine 5 game dev - improving AI |  | 20 | 2025 |
+| 151 | unreal engine 5 game dev - fixing AI bug(s) |  | 6 | 2025 |
+| 152 | unreal engine 5 game dev - testing hitboxes and fixing AI | 17:06 | 25 | 2025 |
+| 153 | unreal engine 5 game dev - finishing newnew rigging, not quite done | 37:37 | 32 | 2025 |
+| 154 | unreal engine 5 game dev - new new new rigging | 29:15 | 19 | 2025 |
+| 155 | Rig character in Blender 4.1 and import to Unreal 5.4 with working ROOT MOTION + ROTATION (part 2) | 37:23 | 642 | 2025 |
+| 156 | unreal engine 5 game dev - trying EVEN HARDER | 21:20 | 9 | 2025 |
+| 157 | unreal engine 5 game dev - trying to fix root rotation |  | 30 | 2025 |
+| 158 | unreal engine 5 game dev - implementing new animations |  | 5 | 2025 |
+| 159 | unreal engine 5 game dev - movement/vision/cleanup | 20:27 | 41 | 2025 |
+| 160 | unreal engine 5 game dev - western collab project - make neck follow vision | 29:25 | 53 | 2025 |
+| 161 | unreal engine 5 game dev - blender falling, dodging, landing animations | 58:52 | 74 | 2025 |
+| 162 | unreal engine 5 game dev - finalizing test death animation - quit early bc spectating dnd | 27:48 | 82 | 2025 |
+| 163 | unreal engine 5 game dev - blender jump + hit animation progress | 23:32 | 114 | 2025 |
+| 164 | unreal engine 5 game dev - blender death/jump/stuff quick no time |  | 38 | 2025 |
+| 165 | unreal engine 5 game dev - crouch/hit animations | 32:13 | 27 | 2025 |
+| 166 | unreal engine 5 game dev - crouch idle and walking animation | 5:26 | 43 | 2025 |
+| 167 | unreal engine 5 game dev - more quick crouch walk animation |  | 69 | 2025 |
+| 168 | unreal engine 5 game dev - remaking animations w/ new blender-to-unreal workflow | 25:06 | 43 | 2025 |
+| 169 | Rig character in Blender 4.1 and import to Unreal 5.4 with working root motion PERFECTLY (part 1) | 12:50 | 2,2 тыс. | 2025 |
+| 170 | This Tip Got Me Diamond in Solo Ranked \| Eathan Stream Highlights #5 | 17:50 | 19 | 2023 |
+| 171 | One Kraber Shot to Win Ranked Solo-Queue \| Eathan Stream Highlights #4 | 7:27 | 41 | 2023 |
+| 172 | Solo Queue Teammates are Cursed... \| Eathan Stream HIGHLIGHTS #3 | 9:29 | 25 | 2023 |
+| 173 | Solo Queue is Wild! \| Eathan STREAM HIGHLIGHTS #2 | 10:23 | 20 | 2023 |
+| 174 | Apex Legends Platinum Ranked Insanity \| Eathan STREAM HIGHLIGHTS #1 | 2:04 | 18 | 2023 |
+| 175 | RATTING IS THE NEW S13 META | 6:01 | 10 | 2023 |
+| 176 | Gold is the New Masters in Apex Season 13 |  | 28 | 2023 |
+ 
+ 
+--- 
+ 
+# The Dev Realm
+
+🎮 Welcome to The Dev Realm!
+We’re a community built for game developers of every level — whether you’re just starting out or already a pro. Our channel is all about sharing easy-to-follow tutorials, behind-the-scenes insights, and powerful resources to help you level up your skills.
+From big-picture theory to hands-on practice, we’ll guide you through tips and tricks that make your games more immersive, fun, and original. 🚀
+👾 Ready to create something amazing? Join The Dev Realm today and unlock the endless possibilities of game development.
+Thanks for being here — let’s build great games together! 🙌
+
+**Страна:** Великобритания
+**Дата регистрации:** 28 апр. 2023 г.
+**Подписчиков:** 8780
+**Видео:** 460
+**Всего просмотров:** 245709
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Unreal Engine - Dialog System - Part 07 - Camera Switch | 2:17 | 30 | март 2026 |
+| 2 | Dev Titan - Unreal Engine Online Services - Part 09 - Landing Page | 6:24 | 27 | март 2026 |
+| 3 | Dev Titan - Unreal Engine Online Services - Part 10 - A/B Testing | 10:09 | 7 | март 2026 |
+| 4 | Dev Titan - Unreal Engine Online Services - Part 08 - Quest System | 2:31 | 9 | март 2026 |
+| 5 | Dev Titan - Unreal Engine Online Services - Part 07 - Remote Config | 4:49 | 3 | март 2026 |
+| 6 | Dev Titan - Unreal Engine Online Services - Part 06 - Remove Currency | 4:20 | 13 | март 2026 |
+| 7 | Dev Titan - Unreal Engine Online Services - Part 05 - Inventory Items | 4:42 | 3 | март 2026 |
+| 8 | Dev Titan - Unreal Engine Online Services - Part 04 - Currency | 9:08 | 7 | март 2026 |
+| 9 | Dev Titan - Unreal Engine Online Services - Part 03 - Widget Setup | 13:34 | 3 | март 2026 |
+| 10 | Dev Titan - Unreal Engine Online Services - Part 02 - Login | 9:06 | 15 | март 2026 |
+| 11 | Dev Titan - Unreal Engine Online Services - Part 01 - User Registration | 1:51 | 24 | март 2026 |
+| 12 | The Dev Titan Trailer - Full Unreal Engine Backend services | 7:24 | 60 | март 2026 |
+| 13 | Modular Car in Unreal Engine 5 — Full Tutorial — Part 01: Project Setup | 11:17 | 80 | март 2026 |
+| 14 | Unreal Engine TCG Turn-Based Game - Part 07 - Card Icons | 3:10 | 124 | март 2026 |
+| 15 | Unreal Engine Blueprint Certification – Part 03: How to Create a Blueprint | 6:55 | 25 | март 2026 |
+| 16 | Unreal Engine Blueprint Certification – Part 06: Variables | 8:57 | 9 | март 2026 |
+| 17 | Unreal Engine Blueprint Certification – Part 07: Construction Script | 4:34 | 14 | март 2026 |
+| 18 | Unreal Engine Blueprint Certification – Part 04: Begin Play | 1:46 | 18 | март 2026 |
+| 19 | Unreal Engine Blueprint Certification – Part 01: Getting Started | 10:41 | 39 | март 2026 |
+| 20 | Unreal Engine Blueprint Certification – Part 08: Final | 4:42 | 13 | март 2026 |
+| 21 | Unreal Engine Blueprint Certification – Part 02: Blueprint Types | 11:40 | 18 | март 2026 |
+| 22 | Unreal Engine Blueprint Certification – Part 05: Event Tick | 1:55 | 11 | март 2026 |
+| 23 | Unreal Engine Blueprint Certification – Intro | 4:03 | 56 | март 2026 |
+| 24 | Unreal Engine TCG Turn-Based Game - Part 06 - Card Drop | 9:34 | 79 | март 2026 |
+| 25 | Unreal Engine TCG Turn-Based Game - Part 05 - Card Drag | 27:06 | 120 | март 2026 |
+| 26 | Unreal Engine - Blueprint Component Tutorial - Beginner | 17:24 | 101 | март 2026 |
+| 27 | Unreal Engine TCG Turn-Based Game - Part 04 - Card Widget | 8:31 | 153 | март 2026 |
+| 28 | Unreal Engine Quick Tutorial - How to Use Rich Text | 2:03 | 117 | март 2026 |
+| 29 | Unreal Engine Documentation Tool - Blueprint CodeX - Trailer | 11:05 | 81 | март 2026 |
+| 30 | Unreal Engine TCG Turn-Based Game - Part 03 - Stats Setup | 13:36 | 107 | март 2026 |
+| 31 | Unreal Engine TCG Turn-Based Game - Part 02 - Player Controller | 14:06 | 82 | март 2026 |
+| 32 | Unreal Engine Castle Game - Dev Log 03 - Adding AI | 6:07 | 62 | март 2026 |
+| 33 | Unreal Engine Quick Tutorial - Group Mesh to Blueprint | 11:47 | 54 | март 2026 |
+| 34 | Unreal Engine - Dialog System - Part 06 - Look At | 6:36 | 44 | март 2026 |
+| 35 | Unreal Engine Castle Game - Dev Log 02 - Timelapse | 5:19 | 75 | март 2026 |
+| 36 | Unreal Engine Castle Game - Dev Log 01 - Castle Door | 11:10 | 89 | март 2026 |
+| 37 | Unreal Engine TCG Turn-Based Game - Part 01 - Setup | 1:14 | 238 | март 2026 |
+| 38 | Unreal Engine TCG Turn-Based Game - Series Trailer | 10:07 | 216 | март 2026 |
+| 39 | Quick Tutorial Slide Door - Using Key Cards - Unreal Engine | 16:10 | 69 | январь 2026 |
+| 40 | Quick Tutorial Slide Door - Unreal Engine | 11:56 | 69 | январь 2026 |
+| 41 | Unreal Engine 5 Tutorial – Floating Interaction Widget System | 14:27 | 226 | январь 2026 |
+| 42 | Unreal Engine - Dialog System - Part 05 - Widget Option | 7:10 | 60 | январь 2026 |
+| 43 | Unreal Engine - Dialog System - Part 04 - NPC Dialog | 8:07 | 90 | январь 2026 |
+| 44 | Unreal Engine Blueprint Documentation Tool – Document Your Project Easily | 16:19 | 194 | январь 2026 |
+| 45 | Unreal Engine 5 - Inventory System - Part 42 - Float Widget | 28:37 | 133 | январь 2026 |
+| 46 | Unreal Engine 5 - Inventory System - Part 41 - Extra Notifications | 30:27 | 57 | январь 2026 |
+| 47 | Unreal Engine 5 - Inventory System - Part 40 - Item Logic Split | 18:41 | 46 | январь 2026 |
+| 48 | Unreal Engine 5 - Inventory System - Part 39 - Item Split | 17:51 | 47 | январь 2026 |
+| 49 | Unreal Engine 5 - Inventory System - Part 38 - Slot Check | 1:35 | 64 | январь 2026 |
+| 50 | How to Make Foliage Interactive in Unreal Engine \| Quick Step-by-Step Tutorial | 2:58 | 111 | январь 2026 |
+| 51 | Unreal Engine Quick Tutorial - Create a GitHub Project | 1:19 | 110 | декабрь 2025 |
+| 52 | Next up - Unreal Engine - Dialog System | 11:44 | 69 | декабрь 2025 |
+| 53 | Unreal Engine - Dialog System - Part 03 - Widget | 11:39 | 98 | декабрь 2025 |
+| 54 | Unreal Engine - Dialog System - Part 02 | 7:49 | 79 | декабрь 2025 |
+| 55 | Unreal Engine - Dialog System - Part 01 | 21:30 | 183 | декабрь 2025 |
+| 56 | Unreal Engine 5 - Inventory System - Part 36 - Save and Load | 26:54 | 39 | декабрь 2025 |
+| 57 | Unreal Engine 5 - Inventory System - Part 37 - Extra Item Stack | 8:14 | 51 | декабрь 2025 |
+| 58 | Unreal Engine 5 - Inventory System - Part 35 - Item Color | 15:31 | 49 | декабрь 2025 |
+| 59 | Unreal Engine 5 - Inventory System - Part 33 - Item Attribute Final | 19:28 | 52 | декабрь 2025 |
+| 60 | Unreal Engine 5 - Inventory System - Part 34 - Armor Equip | 8:33 | 66 | декабрь 2025 |
+| 61 | Unreal Engine - Flying tutorial - Part 01 | 14:36 | 385 | декабрь 2025 |
+| 62 | Unreal Engine - Flying tutorial - Part 03 | 11:22 | 176 | декабрь 2025 |
+| 63 | Unreal Engine - Flying tutorial - Part 02 | 19:51 | 223 | декабрь 2025 |
+| 64 | Mastercraft The Game That Redefined Freedom - Zelda Breath of the Wild | 12:34 | 1,2 тыс. | декабрь 2025 |
+| 65 | Unreal Engine 5 - Inventory System - Part 32 - Item Attribute 01 | 8:06 | 100 | декабрь 2025 |
+| 66 | Unreal Engine Ragdoll Physics Tutorial - Blueprint Component + Interface Setup - Part 01 | 12:49 | 111 | декабрь 2025 |
+| 67 | Unreal Engine Ragdoll Physics Tutorial - Blueprint Component + Interface Setup - Part 03 | 12:36 | 129 | декабрь 2025 |
+| 68 | Unreal Engine Ragdoll Physics Tutorial - Blueprint Component + Interface Setup - Part 02 | 13:50 | 59 | декабрь 2025 |
+| 69 | Unreal Engine 5 - Inventory System - Part 31 - Item Swap completed | 11:00 | 89 | ноябрь 2025 |
+| 70 | Unreal Engine - Carry Object - Part 02 | 19:36 | 91 | ноябрь 2025 |
+| 71 | Unreal Engine - Carry Object - Part 04 | 1:25 | 86 | ноябрь 2025 |
+| 72 | Unreal Engine - Carry Object - Trailer | 11:07 | 133 | ноябрь 2025 |
+| 73 | Unreal Engine - Carry Object - Part 03 | 4:29 | 41 | ноябрь 2025 |
+| 74 | Unreal Engine - Carry Object - Part 01 | 13:15 | 180 | ноябрь 2025 |
+| 75 | Unreal Engine 5 - Inventory System - Part 29 - Item Info Completed | 20:24 | 66 | ноябрь 2025 |
+| 76 | Unreal Engine 5 - Inventory System - Part 30 - Item Swap | 4:42 | 56 | ноябрь 2025 |
+| 77 | Fix the Unreal Engine Foot IK Issue (Classic Problem, Easy Fix!) | 1:04 | 1 тыс. | ноябрь 2025 |
+| 78 | Unreal engine fix root motion issue animations | 23:19 | 1,7 тыс. | ноябрь 2025 |
+| 79 | Unreal Engine 5 - Inventory System - Part 28 - Item Info | 24:00 | 37 | ноябрь 2025 |
+| 80 | Unreal Engine - RPG - Saga - Quest System - Tutorial - Part 05 - Quest Giver Widget | 21:29 | 107 | ноябрь 2025 |
+| 81 | Unreal Engine - RPG - Saga - Quest System - Tutorial - Part 04 - Widget Setup | 13:48 | 37 | ноябрь 2025 |
+| 82 | Unreal Engine - RPG - Saga - Quest System - Tutorial - Part 03 - Quest Item Requirement | 1:48 | 73 | ноябрь 2025 |
+| 83 | Unreal Engine - RPG - Saga - Quest System - Trailer | 14:00 | 191 | ноябрь 2025 |
+| 84 | Unreal Engine - RPG - Saga - Quest System - Tutorial - Part 01 - Setup | 13:11 | 125 | ноябрь 2025 |
+| 85 | Unreal Engine - RPG - Saga - Quest System - Tutorial - Part 02 - Quest Interaction Setup | 22:02 | 39 | ноябрь 2025 |
+| 86 | Unreal Engine 5 - Inventory System - Part 27 - Item Grid | 4:24 | 86 | ноябрь 2025 |
+| 87 | Unreal Engine - No Man's Sky - Tutorial - Part 09 - Add the Thruster | 12:24 | 51 | ноябрь 2025 |
+| 88 | Unreal Engine - No Man's Sky - Tutorial - Part 06 - Item place improvement | 7:38 | 41 | ноябрь 2025 |
+| 89 | Unreal Engine - No Man's Sky - Tutorial - Part 10 - Control Panel | 26:32 | 123 | ноябрь 2025 |
+| 90 | Unreal Engine - No Man's Sky - Tutorial - Part 07 - zoom | 8:07 | 40 | ноябрь 2025 |
+| 91 | Unreal Engine - No Man's Sky - Tutorial - Part 05 - Rotate Item | 24:05 | 44 | ноябрь 2025 |
+| 92 | Unreal Engine - No Man's Sky - Tutorial - Part 08 - Adding Wings | 13:48 | 82 | ноябрь 2025 |
+| 93 | Unreal Engine 5 - Inventory System - Part 26 - Item Unequip | 1:58 | 84 | ноябрь 2025 |
+| 94 | How to Export Low Poly Models from Blender to Unreal Engine 5 (Quick Guide) | 14:11 | 404 | октябрь 2025 |
+| 95 | Unreal Engine 5 - Inventory System - Part 25 - Item Equip | 15:16 | 105 | октябрь 2025 |
+| 96 | Unreal Engine - No Man's Sky - Tutorial - Part 02 - Input Setup | 8:17 | 64 | октябрь 2025 |
+| 97 | Unreal Engine - No Man's Sky - Tutorial - Part 03 - Spawn Item | 9:54 | 79 | октябрь 2025 |
+| 98 | Unreal Engine - No Man's Sky - Tutorial - Part 01 - Setup | 21:14 | 352 | октябрь 2025 |
+| 99 | Unreal Engine - No Man's Sky - Tutorial - Part 04 - Item Place | 13:59 | 90 | октябрь 2025 |
+| 100 | Unreal Engine - Introduction Combat System - Part 12 - AI Weapon Equip | 28:00 | 99 | октябрь 2025 |
+| 101 | Unreal Engine - Introduction Combat System - Part 11 - AI Attack | 11:07 | 33 | октябрь 2025 |
+| 102 | Unreal Engine - Introduction Combat System - Part 06 - Damage | 19:58 | 20 | октябрь 2025 |
+| 103 | Unreal Engine - Introduction Combat System - Part 09 - Weapon Picker | 21:06 | 22 | октябрь 2025 |
+| 104 | Unreal Engine - Introduction Combat System - Part 08 - Hit Fx | 32:12 | 15 | октябрь 2025 |
+| 105 | Unreal Engine - Introduction Combat System - Part 13 - Handle Death | 26:39 | 50 | октябрь 2025 |
+| 106 | Unreal Engine - Introduction Combat System - Part 10 - AI Tree | 17:11 | 28 | октябрь 2025 |
+| 107 | Unreal Engine - Introduction Combat System - Part 05 - Attack Part 02 | 2:12 | 31 | октябрь 2025 |
+| 108 | Unreal Engine - No Man's Sky - Ship building - Tutorial | 4:22 | 105 | октябрь 2025 |
+| 109 | Unreal Engine - Introduction combat system - part 07 - Hit Animation | 17:46 | 18 | октябрь 2025 |
+| 110 | Unreal Engine 5 - Inventory System - Part 24 - Item User Part 02 | 13:58 | 86 | октябрь 2025 |
+| 111 | Unreal Engine 5 - Inventory System - Part 23 - Item Use Part 01 | 0:51 | 82 | октябрь 2025 |
+| 112 | Unreal Engine 5 — Character Creator System \| Source Code Showcase | 0:39 | 56 | октябрь 2025 |
+| 113 | Unreal Engine - Mini Survival | 0:50 | 82 | октябрь 2025 |
+| 114 | Unreal Engine 5 — Simple Building System \| Source Code Showcase | 0:35 | 121 | октябрь 2025 |
+| 115 | Unreal Engine 5 — Helldivers-Style Game \| Source Code Showcase | 0:30 | 87 | октябрь 2025 |
+| 116 | Unreal Engine 5 — Combat System \| Source Code Showcase | 21:27 | 35 | октябрь 2025 |
+| 117 | Unreal Engine 5 - Inventory System - Part 22 - Item Drop | 18:42 | 123 | октябрь 2025 |
+| 118 | Unreal Engine 5 - Inventory System - Part 21 - Item Delete | 28:51 | 100 | сентябрь 2025 |
+| 119 | Unreal Engine 5 - Inventory System - Part 20 - Context Menu | 21:30 | 172 | сентябрь 2025 |
+| 120 | Unreal Engine - TCG game tutorial - Part 12- player attribute | 21:57 | 2,9 тыс. | сентябрь 2025 |
+| 121 | Unreal Engine 5 - Inventory System - Part 19 - Load Reload | 27:45 | 95 | сентябрь 2025 |
+| 122 | Unreal Engine 5 - Inventory System - Part 17 - Add Inventory Item | 2:48 | 1,3 тыс. | август 2025 |
+| 123 | Unreal Engine - Mini Survival - tutorial - next up | 32:32 | 6,8 тыс. | август 2025 |
+| 124 | Unreal Engine - Mini - Survival - Part 04 - Selection Part 01 | 19:42 | 51 | август 2025 |
+| 125 | Unreal Engine - Mini survival - Part 07 - Actor creation | 29:57 | 47 | август 2025 |
+| 126 | Unreal Engine - Mini survival - Part 05 - Selection Part 02 | 21:53 | 17 | август 2025 |
+| 127 | Unreal Engine - Mini survival - Part 06 - Selection Part Final | 15:23 | 27 | август 2025 |
+| 128 | Unreal Engine - Mini - Survival - Part 03 - Animation | 9:01 | 62 | август 2025 |
+| 129 | Unreal Engine - Mini - Survival - Part 02 - Character Import | 13:35 | 62 | август 2025 |
+| 130 | Unreal Engine - Mini - Survival - Part 01 - Setup | 1:06 | 260 | август 2025 |
+| 131 | Unreal Engine - TCG - tutorial - next up | 15:21 | 8,8 тыс. | август 2025 |
+| 132 | Unreal Engine - TCG game tutorial - Part 11 - Counter | 16:02 | 3 тыс. | август 2025 |
+| 133 | Unreal Engine - TCG Game Tutorial - Part 10 - Card Design | 14:28 | 1 тыс. | август 2025 |
+| 134 | Unreal Engine - TCG game tutorial - Part 09 - Drag and drop | 19:58 | 767 | август 2025 |
+| 135 | Unreal Engine - TCG game tutorial - Part 08 - Card Hover | 26:50 | 624 | август 2025 |
+| 136 | Unreal Engine 5 - Inventory System - Part 16 - Item Slot | 12:03 | 82 | август 2025 |
+| 137 | Unreal Engine 5 - Inventory System - Part 15 - Drag Widget | 19:07 | 70 | август 2025 |
+| 138 | Unreal Engine 5 - Inventory System - Part 14 - Inventory Window | 30:28 | 171 | август 2025 |
+| 139 | Unreal Engine 5 - Inventory System - Part 13 - Inventory Title | 17:02 | 94 | июль 2025 |
+| 140 | Unreal Engine - TCG game tutorial - Part 07 - card style fix | 38:20 | 601 | июль 2025 |
+| 141 | Unreal Engine - TCG Game Tutorial - Part 06 - Cards Structure | 15:09 | 908 | июль 2025 |
+| 142 | Unreal Engine - TCG game tutorial - Part 02 - Add Card | 34:38 | 3,6 тыс. | июль 2025 |
+| 143 | Unreal Engine - TCG game tutorial - Part 05 - Card Style | 9:12 | 1 тыс. | июль 2025 |
+| 144 | Unreal Engine - TCG game tutorial - Part 01 - Setup | 25:11 | 9,6 тыс. | июль 2025 |
+| 145 | Unreal Engine - TCG game tutorial - Part 04 - Timeline | 27:59 | 1,1 тыс. | июль 2025 |
+| 146 | Unreal Engine - TCG game tutorial - Part 03 - Card Organization | 18:32 | 2,2 тыс. | июль 2025 |
+| 147 | Unreal Engine 5 - Inventory System - Part 12 - Drag and drop 2 | 10:06 | 123 | июль 2025 |
+| 148 | Unreal Engine 5 - Inventory System - Part 11 - Drag and drop 1 | 9:05 | 106 | июль 2025 |
+| 149 | Unreal Engine 5 - Inventory System - Part 10- Remove Item | 13:01 | 103 | июль 2025 |
+| 150 | Unreal Engine 5 Tutorial Series Part 09: Inventory System - Add Item | 8:37 | 115 | июнь 2025 |
+| 151 | Unreal Engine 5 - Inventory System - Part 08 - Item out of Range | 21:25 | 128 | июнь 2025 |
+| 152 | Unreal Engine 5 Tutorial Series: Inventory System - Part 06 (Bug Fix) | 9:41 | 155 | июнь 2025 |
+| 153 | Unreal Engine 5 - Inventory System - Part 07 - Item Picker | 11:20 | 464 | июнь 2025 |
+| 154 | Unreal Engine 5 Tutorial Series: Inventory System - Part 05 - Functions | 0:10 | 185 | июнь 2025 |
+| 155 | Unreal Engine 5 Tutorial Series: Inventory System - Part 05 - Functions | 0:13 | 55 | июнь 2025 |
+| 156 | Unreal Engine 5 Tutorial Series: Inventory System - Part 04 (Widget) | 15:41 | 31 | июнь 2025 |
+| 157 | Unreal Engine 5 Tutorial Series: Inventory System - Part 04 (Widget) | 7:34 | 131 | июнь 2025 |
+| 158 | Unreal Engine MMO Tutorial - Part 13 - Gender Switch | 14:36 | 220 | май 2025 |
+| 159 | Unreal Engine MMO tutorial - part 21 - delete modal | 36:00 | 73 | май 2025 |
+| 160 | Unreal Engine MMO tutorial - part 43 - completed | 32:35 | 1,4 тыс. | май 2025 |
+| 161 | Unreal Engine MMO tutorial - part 37 - add items | 15:28 | 91 | май 2025 |
+| 162 | Unreal Engine MMO tutorial - part 33 - Linux setup | 30:13 | 142 | май 2025 |
+| 163 | Unreal Engine MMO tutorial - part 28 - refactor the main menu | 26:36 | 74 | май 2025 |
+| 164 | Unreal Engine MMO tutorial - part 22 - Edit character | 29:10 | 143 | май 2025 |
+| 165 | Unreal Engine MMO tutorial - part 41 - character delete | 20:35 | 75 | май 2025 |
+| 166 | Unreal Engine MMO tutorial - part 11 - Selection completed | 29:14 | 172 | май 2025 |
+| 167 | Unreal Engine MMO tutorial - part 24 - handling the client and server | 25:17 | 265 | май 2025 |
+| 168 | Unreal Engine MMO tutorial - part 17 - Main menu creation | 12:56 | 154 | май 2025 |
+| 169 | Unreal Engine MMO tutorial - part 34 - Laravel Setup | 19:22 | 102 | май 2025 |
+| 170 | Unreal Engine MMO tutorial - part 18 - Main menu load game | 27:36 | 131 | май 2025 |
+| 171 | Unreal Engine MMO Tutorial - Part 19 - Game Instance | 31:31 | 163 | май 2025 |
+| 172 | Unreal Engine MMO tutorial - part 31 - sell item | 42:26 | 65 | май 2025 |
+| 173 | Unreal Engine MMO tutorial - part 42 - item handling | 19:41 | 187 | май 2025 |
+| 174 | Unreal Engine MMO tutorial - part 16 - character creation validation | 26:09 | 182 | май 2025 |
+| 175 | Unreal Engine MMO tutorial - part 38 - plugin compilation | 33:26 | 76 | май 2025 |
+| 176 | Unreal Engine MMO tutorial - part 40 - Save player apperance | 19:14 | 91 | май 2025 |
+| 177 | Unreal Engine MMO tutorial - part 20 - Handle delete | 16:12 | 90 | май 2025 |
+| 178 | Unreal Engine MMO tutorial - part 32 login - screen | 24:56 | 210 | май 2025 |
+| 179 | Unreal Engine MMO tutorial - part 23 - play button | 24:24 | 137 | май 2025 |
+| 180 | Unreal Engine MMO tutorial - part 26 - joining the game | 14:29 | 148 | май 2025 |
+| 181 | Unreal Engine MMO tutorial - part 15 - save game name | 27:20 | 136 | май 2025 |
+| 182 | Unreal Engine MMO tutorial - part 35 - register and login | 13:22 | 124 | май 2025 |
+| 183 | Unreal Engine MMO tutorial - part 36 -login working | 28:50 | 103 | май 2025 |
+| 184 | Unreal Engine MMO tutorial - part 29 - inventory | 22:23 | 138 | май 2025 |
+| 185 | Unreal Engine MMO tutorial - part 12 - Selection parts added | 27:11 | 145 | май 2025 |
+| 186 | Unreal Engine MMO tutorial - part 27 - finished joining | 25:03 | 80 | май 2025 |
+| 187 | Unreal Engine MMO tutorial - part 30 - Inventory delete | 27:25 | 59 | май 2025 |
+| 188 | Unreal Engine MMO tutorial - part 14 - Savegame setup | 21:46 | 175 | май 2025 |
+| 189 | Unreal Engine MMO tutorial - part 25 - session setup | 23:28 | 215 | май 2025 |
+| 190 | Unreal Engine MMO tutorial - part 39 - login screen | 14:14 | 201 | май 2025 |
+| 191 | Unreal Engine 5 Tutorial Series - Inventory System (Part 03) - Settings Configuration | 0:15 | 106 | май 2025 |
+| 192 | Unreal Engine 5 Tutorial Series - Inventory System (Part 03) - Settings Configuration | 0:14 | 15 | май 2025 |
+| 193 | Unreal Engine 5 Tutorial Series: Inventory System - Part 02 - State Variables | 11:47 | 28 | май 2025 |
+| 194 | Unreal Engine 5 Tutorial Series: Inventory System - Part 02 - State Variables | 5:42 | 227 | май 2025 |
+| 195 | Video Game Website - Nuxt js & Ai - Part 04 | 11:17 | 56 | май 2025 |
+| 196 | Video Game Website - Nuxt js & Ai - Part 02 using AI | 14:53 | 296 | май 2025 |
+| 197 | Video Game Website - Nuxt js & Ai - Part 06 - FInal | 7:04 | 110 | май 2025 |
+| 198 | Video Game Website - Nuxt js & Ai - Part 01 Step | 10:09 | 245 | май 2025 |
+| 199 | Video Game Website - Nuxt js & Ai - Part 03 Components | 11:09 | 64 | май 2025 |
+| 200 | Video Game Website - Nuxt js & Ai - Part 05 - Contact Function | 11:09 | 44 | май 2025 |
+| 201 | Unreal Engine 5 - Inventory System - Part 01 - Setup | 0:21 | 673 | май 2025 |
+| 202 | Welcome to the Rpg Inventory system | 0:39 | 21 | май 2025 |
+| 203 | Unreal Engine - Rpg Inventory system | 13:06 | 61 | май 2025 |
+| 204 | Unreal Engine - Introduction Combat System - Part 04 - Attack Counter | 15:00 | 269 | май 2025 |
+| 205 | Unreal Engine - Introduction Combat System - Part 03 - Attack | 1:03 | 181 | 2025 |
+| 206 | Next up - Unreal Engine - Pro Inventory | 16:11 | 3,6 тыс. | 2025 |
+| 207 | Unreal Engine - Introduction Combat System - Part 02 - Animations | 16:54 | 113 | 2025 |
+| 208 | Unreal Engine MMO tutorials - part 04 UI - setup | 13:34 | 734 | 2025 |
+| 209 | Unreal Engine - Introduction Combat System - Part 01 - Setup | 10:09 | 250 | 2025 |
+| 210 | Unreal Engine - Advanced Modular Character - Part 05 - Final | 11:52 | 314 | 2025 |
+| 211 | Unreal Engine - Advanced Modular Character - Part 04 - Functions Improvements | 1:18 | 150 | 2025 |
+| 212 | Unreal Engine - Ui - Advanced - Modular character creator | 12:09 | 98 | 2025 |
+| 213 | Unreal Engine - Advanced Modular Character - Part 03 - Datatable | 3:51 | 131 | 2025 |
+| 214 | Quick tutorials Blender Auto rig pro - Export selected parts only - Modular character | 12:41 | 526 | 2025 |
+| 215 | Unreal Engine - Advanced Modular Character - Part 02 - Project Organization | 29:10 | 128 | 2025 |
+| 216 | Unreal Engine MMO tutorial - Part 10 - Dynamic select | 25:40 | 402 | 2025 |
+| 217 | Unreal Engine MMO tutorial - Part 05 - Reusable square button | 18:24 | 542 | 2025 |
+| 218 | Unreal Engine MMO tutorial - Part 06 - Button complete | 19:44 | 354 | 2025 |
+| 219 | Unreal Engine MMO tutorial - Part 01 - setup | 21:16 | 6,2 тыс. | 2025 |
+| 220 | Unreal Engine MMO tutorial - Part 07 - Button create | 27:34 | 291 | 2025 |
+| 221 | Unreal Engine MMO tutorial - Part 03 - Character Creation Mode | 17:55 | 1 тыс. | 2025 |
+| 222 | Unreal Engine MMO tutorial - Part 09 - Datatables | 17:11 | 367 | 2025 |
+| 223 | Unreal Engine MMO tutorial - Part 02 - Character setup | 18:26 | 1,5 тыс. | 2025 |
+| 224 | Unreal Engine MMO tutorial - Part 08 - ST creation | 10:05 | 366 | 2025 |
+| 225 | Unreal Engine - Advanced Modular Character - Part 01 - setup | 1:17 | 387 | 2025 |
+| 226 | Next up - Advanced Modular Character | 1:11 | 398 | 2025 |
+| 227 | Next up - High quality modular gender character | 0:56 | 80 | 2025 |
+| 228 | Next up - Introduction combat system | 10:11 | 6,2 тыс. | 2025 |
+| 229 | Unreal Engine Helldivers series - Part 08 - Extra | 0:45 | 165 | 2025 |
+| 230 | The Dev Realm - Platform | 19:35 | 527 | 2025 |
+| 231 | Unreal Engine Helldivers series - Part 07 - Final | 24:20 | 179 | 2025 |
+| 232 | Unreal Engine Helldivers series - Part 6 - Object Spawn | 18:45 | 139 | 2025 |
+| 233 | Unreal Engine Helldivers series - Part 5 Key handle | 5:25 | 261 | 2025 |
+| 234 | Quick tutorials - Unreal engine Dynamic color based on image alpha | 22:39 | 50 | 2025 |
+| 235 | Unreal Engine Helldivers series - part 4 open widget | 23:39 | 119 | 2025 |
+| 236 | Unreal Engine Helldivers series - part 3 widget control | 23:32 | 216 | 2025 |
+| 237 | Unreal Engine Helldivers series - part 2 widget | 18:34 | 108 | 2025 |
+| 238 | Unreal Engine Helldivers series part 1 setup | 32:04 | 420 | 2025 |
+| 239 | Unreal Engine Survival Top Down 26 final | 3:56 | 559 | 2025 |
+| 240 | Quick tutorials - Unreal engine build plugin from source | 23:02 | 1 тыс. | 2025 |
+| 241 | Unreal Engine Survival Top-Down - 25 random item spawn | 19:23 | 144 | 2025 |
+| 242 | Unreal Engine Survival Top-Down - 24 landscape | 30:58 | 384 | 2025 |
+| 243 | Unreal Engine Survival Top Down 23 item respawn | 28:12 | 269 | 2025 |
+| 244 | Unreal Engine Survival Top-Down - 22 item picker | 25:49 | 344 | 2025 |
+| 245 | Unreal Engine Survival Top-Down - 21 add items logic | 18:54 | 101 | 2025 |
+| 246 | Unreal Engine Survival Top-Down - 20 sound | 30:40 | 179 | 2025 |
+| 247 | Unreal Engine Survival Top-Down - 19 resources removal | 24:16 | 257 | 2025 |
+| 248 | Unreal Engine Survival Top-Down - 18 placing mode complete | 24:01 | 138 | 2025 |
+| 249 | Unreal Engine Survival Top-Down - 17 placement mode | 29:26 | 319 | 2025 |
+| 250 | Unreal Engine Survival Top-Down - 16 building logic | 25:28 | 331 | 2025 |
+| 251 | Unreal Engine Survival Top-Down - 15 Building Resources | 21:47 | 217 | 2025 |
+| 252 | Unreal Engine Survival Top-Down - 14 code refactor | 25:22 | 106 | 2025 |
+| 253 | Unreal Engine Survival Top-Down - 13 Notify Interaction | 25:22 | 163 | 2025 |
+| 254 | Unreal Engine Survival Top-Down - 12 get resource | 20:04 | 87 | 2025 |
+| 255 | Unreal Engine Survival Top-Down - 11 Resource functions | 23:02 | 92 | 2025 |
+| 256 | Unreal Engine Survival Top-Down - 01 setup. | 30:02 | 2,4 тыс. | 2025 |
+| 257 | Unreal Engine Survival Top-Down - 10 ui resources | 21:18 | 144 | 2025 |
+| 258 | Unreal Engine Survival Top-Down - 09 stats update | 18:00 | 128 | 2025 |
+| 259 | Unreal Engine Survival Top-Down - 08 tools refinement | 17:12 | 670 | 2025 |
+| 260 | Unreal Engine Survival Top-Down - 07 tools | 19:41 | 236 | 2025 |
+| 261 | Unreal Engine Survival Top-Down - 06 montage interaction | 19:01 | 272 | 2025 |
+| 262 | Unreal Engine Survival Top-Down - 05 Object interaction | 25:27 | 512 | 2025 |
+| 263 | Unreal Engine Survival Top-Down - 04 Interaction Widget | 21:05 | 330 | 2025 |
+| 264 | Unreal Engine Survival Top-Down - 03 Ui Setup | 18:54 | 468 | 2025 |
+| 265 | Unreal Engine Survival Top-Down - 02 click events | 21:04 | 824 | 2025 |
+| 266 | Unreal Engine Ui Design - Part 13 List Item final | 22:45 | 925 | 2025 |
+| 267 | Unreal Engine Ui Design - Part 12 List Item Part 01 | 0:57 | 257 | 2025 |
+| 268 | Unreal Engine Rts Simple Series- Next up | 0:52 | 1,3 тыс. | 2025 |
+| 269 | Unreal Engine Ui Tutorial - Series | 2:08 | 1,3 тыс. | 2025 |
+| 270 | Unreal Engine Top Down survival - Next up | 11:20 | 13 тыс. | 2025 |
+| 271 | Unreal Engine Ui Design - Part 11 Window final | 21:30 | 342 | 2025 |
+| 272 | Unreal Engine Ui Design - Part 10 Window part02 | 23:24 | 217 | 2025 |
+| 273 | Unreal Engine Ui Design - Part 09 Window part01 | 23:37 | 252 | 2025 |
+| 274 | Unreal Engine Ui Design - Part 08 Combobox Final | 20:43 | 468 | 2025 |
+| 275 | Unreal Engine Ui Design - Part 07 Combobox part 01 | 18:35 | 397 | 2025 |
+| 276 | Unreal Engine Ui Design - Part 06 button | 15:41 | 334 | 2025 |
+| 277 | Unreal Engine Ui Design - Part 05 checkbox | 9:45 | 945 | 2025 |
+| 278 | Unreal Engine Ui Design - Part 04 Input with icon | 25:42 | 403 | 2025 |
+| 279 | Unreal Engine Ui Design - Part 03 slot icon | 28:46 | 726 | 2024 |
+| 280 | Unreal Engine Ui Design - Part 02 Input Field | 19:02 | 1,4 тыс. | 2024 |
+| 281 | Unreal Engine Ui Design - Part 01 Setup | 11:30 | 8,5 тыс. | 2024 |
+| 282 | Rts Simple Series - Part 22 - final rts | 38:59 | 225 | 2024 |
+| 283 | Rts Simple Series - Part 21 - Ai get resource | 20:08 | 91 | 2024 |
+| 284 | Rts Simple Series - Part 20 - ai movement | 14:03 | 269 | 2024 |
+| 285 | Rts Simple Series - Part 19 - behavior tree | 20:02 | 172 | 2024 |
+| 286 | Rts Simple Series - Part 17 - widget stats final | 20:13 | 26 | 2024 |
+| 287 | Rts Simple Series - Part 18 - spawn marker | 16:51 | 45 | 2024 |
+| 288 | Rts Simple Series - Part 16 - stats widget | 14:10 | 21 | 2024 |
+| 289 | Rts Simple Series - Part 15 - widget information load | 13:54 | 31 | 2024 |
+| 290 | Rts Simple Series - Part 14 - widget selection population | 18:12 | 19 | 2024 |
+| 291 | Rts Simple Series - Part 13 - actor selection settings | 16:11 | 37 | 2024 |
+| 292 | Rts Simple Series - Part 12 - actors widgets | 18:20 | 47 | 2024 |
+| 293 | Rts Simple Series - Part 10 - mouse actor selection | 25:51 | 36 | 2024 |
+| 294 | Rts Simple Series - Part 09 - Mouse Selection part 02 | 23:14 | 18 | 2024 |
+| 295 | Rts Simple Series - Part 08 - mouse selection part01 | 13:54 | 27 | 2024 |
+| 296 | Rts Simple Series - Part 07 - Selection Callback | 17:28 | 50 | 2024 |
+| 297 | Rts Simple Series - Part 06 - Selection Refined | 14:24 | 120 | 2024 |
+| 298 | Rts Simple Series - Part 05 - Interaction | 24:51 | 59 | 2024 |
+| 299 | Rts Simple Series - Part 04 - Settings Setup | 18:03 | 46 | 2024 |
+| 300 | Rts Simple Series - Part 03 - zoom completed | 16:53 | 53 | 2024 |
+| 301 | Rts Simple Series - Part 11 - code organization | 14:51 | 7 | 2024 |
+| 302 | Rts Simple Series - Part 02 - Camera zoom setup | 15:28 | 140 | 2024 |
+| 303 | Rts Simple Series - Part 01 - Project setup | 25:03 | 442 | 2024 |
+| 304 | Unreal Engine 5 Chat System Part 10 - Chat CMD final | 19:02 | 324 | 2024 |
+| 305 | Unreal Engine 5 Chat System Part 09 - Chat CMDS | 18:00 | 219 | 2024 |
+| 306 | Unreal Engine 5 Chat System Part 08 - Chat Completed | 24:42 | 194 | 2024 |
+| 307 | Unreal Engine 5 Chat System Part 07 - Server Message | 16:20 | 211 | 2024 |
+| 308 | Unreal Engine 5 Chat System Part 06 - Username Setup | 19:44 | 192 | 2024 |
+| 309 | Unreal Engine 5 Chat System Part 05 - Variables Setup | 19:10 | 228 | 2024 |
+| 310 | Unreal Engine 5 Chat System Part 04 - Chat Layout | 19:33 | 362 | 2024 |
+| 311 | Unreal Engine 5 Chat System Part 03 - Component Setup | 14:15 | 406 | 2024 |
+| 312 | Unreal Engine 5 Chat System Part 02 - Widget Creation | 11:37 | 775 | 2024 |
+| 313 | Unreal Engine 5 Chat System Part 01 - Setup | 19:52 | 919 | 2024 |
+| 314 | Unreal Engine 5 Character Creation Part 8 - Final | 20:05 | 505 | 2024 |
+| 315 | Unreal Engine 5 Character Creation Part 7 - Load Saves | 14:11 | 347 | 2024 |
+| 316 | Unreal Engine 5 Character Creation Part 6 - Save Thumbnail | 19:26 | 516 | 2024 |
+| 317 | Unreal Engine 5 Character Creation Part 5 - Save Data | 19:41 | 501 | 2024 |
+| 318 | Unreal Engine 5 Character Creation Part 4 - Widget Handle | 10:54 | 327 | 2024 |
+| 319 | Unreal Engine 5 Character Creation Part 3 - Data Setup | 15:46 | 296 | 2024 |
+| 320 | Unreal Engine 5 Character Creation Part 2 - Widget Setup | 18:02 | 567 | 2024 |
+| 321 | Unreal Engine 5 Character Creation Part 1 - Project setup | 36:15 | 762 | 2024 |
+| 322 | Unreal Engine Puzzle Game: Part 11 - Save Game | 24:36 | 403 | 2024 |
+| 323 | Unreal Engine Puzzle Game: Part 10 - Button | 26:41 | 427 | 2024 |
+| 324 | Unreal Engine Puzzle Game: Part 9 - Animation | 23:44 | 202 | 2024 |
+| 325 | Unreal Engine Puzzle Game: Part 8 - Platform | 18:30 | 427 | 2024 |
+| 326 | Unreal Engine Puzzle Game: Part 7 - Light | 18:15 | 511 | 2024 |
+| 327 | Unreal Engine Puzzle Game: Part 6 - Lever Trigger | 21:35 | 309 | 2024 |
+| 328 | Unreal Engine Puzzle Game: Part 5 - Door | 16:09 | 689 | 2024 |
+| 329 | Unreal Engine Puzzle Game: Part 4 - Lever | 13:10 | 904 | 2024 |
+| 330 | Unreal Engine Puzzle Game: Part 3 - Actor Callback | 21:25 | 523 | 2024 |
+| 331 | Unreal Engine Puzzle Game: Part 2 - Interaction | 11:53 | 1,6 тыс. | 2024 |
+| 332 | Unreal Engine Puzzle Game: Part 1 - Setting Up Your Project | 7:05 | 4,5 тыс. | 2024 |
+| 333 | The Rift Cruise Devlog: Weekly Bug Fixes and Progress \| Level Design 01 - Time Lapse Tutorial | 11:01 | 95 | 2024 |
+| 334 | Modular Car - 31 Final | 18:04 | 1,2 тыс. | 2024 |
+| 335 | Modular Car - UE5 Tutorial Series - 30 wheel clean up | 28:20 | 274 | 2024 |
+| 336 | Modular Car - UE5 Tutorial Series - 29 Wheel Turn | 20:32 | 844 | 2024 |
+| 337 | Modular Car - UE5 Tutorial Series - 28 Save and Load | 6:21 | 239 | 2024 |
+| 338 | Modular Car - UE5 Tutorial Series - 27 Car Posses | 15:38 | 257 | 2024 |
+| 339 | Modular Car - UE5 Tutorial Series - 26 Delete Part Complete | 13:41 | 154 | 2024 |
+| 340 | Modular car - UE5 Tutorial Series - 24 Part Offset | 17:29 | 173 | 2024 |
+| 341 | Modular car - UE5 Tutorial Series - 23 quick action | 10:08 | 217 | 2024 |
+| 342 | Modular car - UE5 Tutorial Series - 22 - Parts update | 12:58 | 252 | 2024 |
+| 343 | Modular car - UE5 Tutorial Series - 21 car parts simulation | 17:11 | 575 | 2024 |
+| 344 | Modular car - UE5 Tutorial Series - 20 Car play widget | 12:11 | 274 | 2024 |
+| 345 | Modular car - UE5 Tutorial Series - Part: 19 Parts organization | 17:18 | 208 | 2024 |
+| 346 | Modular car - UE5 Tutorial Series - 18 - Recursive function | 16:14 | 336 | 2024 |
+| 347 | Modular Car - UE5 Tutorial Series Part 15: Code Clean Up | 1:10 | 306 | 2024 |
+| 348 | Unreal Engine Puzze Tutorial - Next up | 12:43 | 6,3 тыс. | 2024 |
+| 349 | Modular Car - UE5 Tutorial Series - Series 13: Rotation Part | 21:57 | 331 | 2024 |
+| 350 | Modular Car - UE5 Tutorial Series - 25 Part Delete | 19:39 | 122 | 2024 |
+| 351 | Modular Car - UE5 Tutorial Series - Part 12: Placement | 18:07 | 527 | 2024 |
+| 352 | Modular Car - UE5 Tutorial Series - Part 11: Parts Setup in Unreal Engine | 12:18 | 910 | 2024 |
+| 353 | Modular Car - UE5 Tutorial Series - Part 09: Inputs | 17:20 | 395 | 2024 |
+| 354 | Modular Car - UE5 Tutorial Series - Part 08: Camera Setup | 19:25 | 388 | 2024 |
+| 355 | Modular Car - UE5 Tutorial Series - Part 07: Event Callback - Unreal Engine 5 | 17:18 | 471 | 2024 |
+| 356 | Modular Car - UE5 Tutorial Series - Part 06: Widget Data Load | 13:21 | 505 | 2024 |
+| 357 | Modular Car - UE5 Tutorial Series - Part 05: Component Handle | 14:19 | 615 | 2024 |
+| 358 | Modular Car - UE5 Tutorial Series - Part 04: Component Setup in Unreal Engine 5 | 14:29 | 863 | 2024 |
+| 359 | Modular car - UE5 Tutorial Series - 17 Master Part | 20:00 | 250 | 2024 |
+| 360 | Modular car - UE5 Tutorial Series - 16 Placement updates | 11:19 | 223 | 2024 |
+| 361 | Modular Car - UE5 Tutorial Series - Part 03: Variable Setup in Unreal Engine 5 | 14:26 | 828 | 2024 |
+| 362 | Modular Car - UE5 Tutorial Series - Part 02: Reusable Wheel | 11:33 | 1,4 тыс. | 2024 |
+| 363 | Modular Car - UE5 Tutorial Series - Part 01: Project Setup | 23:18 | 4,5 тыс. | 2024 |
+| 364 | Modular Car - UE5 Tutorial Series - Part 14 - Sockets | 20:40 | 583 | 2024 |
+| 365 | Unreal Engine Placement System - 14 - Placement | 13:53 | 210 | 2024 |
+| 366 | Unreal Engine Placement System - 13 - Final changes | 19:44 | 75 | 2024 |
+| 367 | Unreal Engine Placement System - 12 - Save game | 16:28 | 83 | 2024 |
+| 368 | Modular Car - UE5 Tutorial Series- Part 10: Line Trace in Unreal Engine | 24:04 | 563 | 2024 |
+| 369 | Unreal Engine Placement System - 11 - Sockets | 12:53 | 127 | 2024 |
+| 370 | Unreal Engine Placement System - 10 - Part creation | 21:26 | 85 | 2024 |
+| 371 | Unreal Engine Placement System - 09 - Material setup | 12:10 | 73 | 2024 |
+| 372 | Unreal Engine Placement System - 08 - Actor Placement | 12:21 | 120 | 2024 |
+| 373 | Unreal Engine Placement System - 07 - Part setup | 17:19 | 76 | 2024 |
+| 374 | Unreal Engine Placement System - 06 - Part spawn | 11:23 | 121 | 2024 |
+| 375 | Absolute Beginner 11 - Inputs | 14:22 | 48 | 2024 |
+| 376 | Unreal Engine Placement System - 05 - Camera setup | 15:50 | 86 | 2024 |
+| 377 | Absolute Beginner 10 - Network | 16:18 | 88 | 2024 |
+| 378 | Absolute Beginner 09 - Save Game | 14:54 | 39 | 2024 |
+| 379 | Unreal Engine Placement System - 04 - Dynamic display item | 14:09 | 195 | 2024 |
+| 380 | Unreal Engine Placement System - 03 - Structure setup | 14:03 | 120 | 2024 |
+| 381 | Absolute Beginner 08 - widget | 9:02 | 42 | 2024 |
+| 382 | Absolute Beginner 07 - sound | 12:29 | 31 | 2024 |
+| 383 | Unreal Engine Placement System - 02 - Widget setup | 8:09 | 151 | 2024 |
+| 384 | Absolute Beginner 06 Light | 15:33 | 47 | 2024 |
+| 385 | Absolute Beginner 05 - Datatable | 10:04 | 95 | 2024 |
+| 386 | Unreal Engine Placement System - 01 - Project setup | 12:46 | 598 | 2024 |
+| 387 | Absolute Beginner 04 - Variables | 11:08 | 62 | 2024 |
+| 388 | Absolute Beginner 02 - Blueprints | 0:44 | 118 | 2024 |
+| 389 | Next up - modular car system tutorial | 10:48 | 7 тыс. | 2024 |
+| 390 | Absolute Beginner 01 - engine start point | 14:03 | 241 | 2024 |
+| 391 | Absolute Beginner 03 - interface |  | 146 | 2024 |
  
  
 --- 
@@ -16690,6 +17741,145 @@ Subscribe to stay updated on all things Unreal Engine.
 | 377 | How To Make A Death Screen Unreal Engine 4 | 4:01 | 9,6 тыс. | 2020 |
 | 378 | How To Make A Turret In Unreal Engine | 2:59 | 14 тыс. | 2020 |
 | 379 | How To Make An Emote System Unreal Engine 4 |  | 10 тыс. | 2020 |
+ 
+ 
+--- 
+ 
+# Cobra Code
+
+I'm an Authorized Unreal Engine Instructor and Game Developer, providing Tutorials and Devlogs!
+My main focus is on teaching you how to make awesome 2D and 2D/3D Hybrid games through Unreal's Paper 2D and PaperZD system.
+GameDev definitely isn't easy and Unreal can be pretty intimidating if you don't know where to start, so I'm here to make the process easy for you :D
+
+**Страна:** Япония
+**Дата регистрации:** 18 окт. 2021 г.
+**Подписчиков:** 91300
+**Видео:** 135
+**Всего просмотров:** 8622052
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Releasing the Unreal Engine JRPG Masterclass - 1.0 Launch | 8:46 | 4,1 тыс. | март 2026 |
+| 2 | How to use DATA ASSETS - Unreal Engine 5 Tutorial | 12:47 | 3,1 тыс. | март 2026 |
+| 3 | Next Level Version Control for Unreal Engine 5 - Diversion Tutorial | 11:52 | 3,4 тыс. | март 2026 |
+| 4 | Why 2D Unreal Engine Games are now EVERYWHERE | 11:43 | 9,2 тыс. | март 2026 |
+| 5 | Game Development Books you MUST READ in 2026 | 5:56 | 12 тыс. | март 2026 |
+| 6 | PaperZD just got a HUGE Update | 6:32 | 14 тыс. | январь 2026 |
+| 7 | Things are changing for this channel. | 9:03 | 6,9 тыс. | январь 2026 |
+| 8 | A New Way of Making 2D Games with Unreal Engine 5 | 6:14 | 20 тыс. | январь 2026 |
+| 9 | What you'll learn in the Unreal Engine JRPG Masterclass | 5:50 | 3,5 тыс. | январь 2026 |
+| 10 | How to make a JRPG in Unreal Engine 5 - Course Trailer | 1:47 | 6,5 тыс. | январь 2026 |
+| 11 | The Unreal Engine JRPG Masterclass launches on Monday! | 8:52 | 4,3 тыс. | январь 2026 |
+| 12 | How to Debug Blueprints like a Pro - Unreal Engine 5 Tutorial | 13:30 | 8,6 тыс. | декабрь 2025 |
+| 13 | Easy Version Control with Git and Github in Unreal Engine 5 - Beginner Tutorial | 6:56 | 10 тыс. | декабрь 2025 |
+| 14 | They Stole My Game To Scam Him... | 10:17 | 16 тыс. | ноябрь 2025 |
+| 15 | Making a JRPG in Unreal Engine 5 - Devlog | 13:55 | 18 тыс. | октябрь 2025 |
+| 16 | 1 Year of Learning Pixel Art | 6:51 | 25 тыс. | сентябрь 2025 |
+| 17 | 5 Unreal Engine Indie Games to Inspire You | 9:53 | 9,6 тыс. | сентябрь 2025 |
+| 18 | How to make 2D Pixel Grass in Unreal Engine 5 - Tutorial | 6:36 | 19 тыс. | август 2025 |
+| 19 | 2D Games You Won't Believe Were Made With Unreal Engine | 6:20 | 13 тыс. | август 2025 |
+| 20 | 5 Unreal Engine Indie Games to Inspire You | 11:03 | 14 тыс. | июль 2025 |
+| 21 | Making 2D Games with Unreal Engine 5 in 2025 | 7:56 | 35 тыс. | июль 2025 |
+| 22 | 5 Unreal Engine Indie Games to Inspire You | 5:43 | 14 тыс. | июль 2025 |
+| 23 | The Hidden Physics Engine Behind Unreal’s Most Stylish Games - Kawaii Physics | 9:17 | 22 тыс. | июнь 2025 |
+| 24 | 5 Unreal Engine Indie Games to Inspire You (ft. @stayathomedev ) | 31:34 | 24 тыс. | июнь 2025 |
+| 25 | How to make High Resolution 2D Games in Unreal Engine 5 | 1:50 | 30 тыс. | май 2025 |
+| 26 | Make 2D Top Down Games in Unreal Engine 5 in MINUTES | 6:36 | 13 тыс. | май 2025 |
+| 27 | 5 Unreal Engine Indie Games to Inspire You |  | 10 тыс. | май 2025 |
+| 28 | How to make a 2.5D Top Down Game in Unreal Engine - Full Beginner Tutorial | 7:54 | 52 тыс. | 2025 |
+| 29 | 5 Unreal Engine Indie Games to Inspire You |  | 16 тыс. | 2025 |
+| 30 | The Complete UNREAL ENGINE Iceberg Explained | 8:22 | 27 тыс. | 2025 |
+| 31 | 5 Unreal Engine Games To Motivate You | 2:52 | 9 тыс. | 2025 |
+| 32 | I made a free Paper 2D Unreal Engine 5 Course! | 5:48 | 12 тыс. | 2025 |
+| 33 | 2025 CHANNEL UPDATE | 7:51 | 3,5 тыс. | 2025 |
+| 34 | 5 Unreal Engine Games to Motivate You | 9:10 | 15 тыс. | 2025 |
+| 35 | The Best Unreal Engine Sample Project you've never heard of | 7:54 | 37 тыс. | 2025 |
+| 36 | 5 Games Made in Unreal Engine To Motivate You | 9:14 | 18 тыс. | 2025 |
+| 37 | How to make HD 2D Games in Unreal Engine 5 | 9:01 | 141 тыс. | 2025 |
+| 38 | 5 Games Made in Unreal Engine To Motivate You | 5:35 | 14 тыс. | 2025 |
+| 39 | Unreal Engine's HIDDEN 2D Tools | 3:18 | 13 тыс. | 2025 |
+| 40 | Make 2D Top Down Games with Unreal Engine 5 - Course Trailer | 9:57 | 18 тыс. | 2025 |
+| 41 | Game Development Books you MUST READ | 8:38 | 83 тыс. | 2025 |
+| 42 | Depth of Field in Unreal Engine 5 | 17:20 | 31 тыс. | 2025 |
+| 43 | 6 Years of Learning Game Development | 13:38 | 397 тыс. | 2025 |
+| 44 | Easy Version Control for Unreal Engine 5 - Diversion Tutorial | 17:45 | 42 тыс. | 2025 |
+| 45 | 2D Parallax Scrolling Backgrounds in Unreal Engine 5 - Paper 2D Tutorial | 11:19 | 42 тыс. | 2025 |
+| 46 | The State of 2D Game Development with Unreal Engine 5 | 11:43 | 68 тыс. | 2025 |
+| 47 | How to make 2D Glow in Unreal Engine 5 - Paper 2D Tutorial | 14:35 | 22 тыс. | 2025 |
+| 48 | I solved Unreal Engine's Package Size Problem... | 15:50 | 140 тыс. | 2025 |
+| 49 | 2D Enemy AI in Unreal Engine 5 - Beginner Tutorial | 5:51 | 36 тыс. | 2024 |
+| 50 | How I Develop Supersonic Framerates for 2D Unreal Engine Games | 11:10 | 49 тыс. | 2024 |
+| 51 | The Best 2D Games made with Unreal Engine | 45:52 | 57 тыс. | 2024 |
+| 52 | How to make a 2D Game in Unreal Engine 5 - Beginner Tutorial | 10:47 | 608 тыс. | 2024 |
+| 53 | 2D Tile Sets and Tile Maps in Unreal Engine 5 - Paper 2D Basics | 1:15 | 28 тыс. | 2024 |
+| 54 | Make a 2D Action Platformer in Unreal Engine 5 - Course Trailer | 18:24 | 28 тыс. | 2024 |
+| 55 | Awesome Movement Techniques in Unreal Engine 5 - Tutorial | 8:47 | 44 тыс. | 2024 |
+| 56 | 2D Sprite Sockets in Unreal Engine 5 - Paper 2D Basics | 16:51 | 12 тыс. | 2024 |
+| 57 | How to make PIXEL PERFECT 2D Games with Unreal Engine 5 | 13:00 | 60 тыс. | 2024 |
+| 58 | 2D Events and Notifies in Unreal Engine - Paper 2D Basics | 10:23 | 10 тыс. | 2024 |
+| 59 | I tried making a 2D Unreal Engine Game with C++ | 3:47 | 23 тыс. | 2024 |
+| 60 | Make 2D Unreal Engine 5 Games in MINUTES! | 15:37 | 67 тыс. | 2024 |
+| 61 | How to make a 2D Side Scrolling Character in Unreal Engine 5 - Paper 2D Basics | 5:21 | 36 тыс. | 2024 |
+| 62 | UNITY IS DEAD... Switch to UNREAL ENGINE now! | 15:13 | 24 тыс. | 2024 |
+| 63 | I tried remaking Mega Man in Unreal Engine 5 | 3:44 | 22 тыс. | 2024 |
+| 64 | Custom Sprite Material in Unreal Engine 5 - Paper 2D Basics | 10:17 | 16 тыс. | 2024 |
+| 65 | I almost gave up on my HD-2D BEAT 'EM UP... | 2:09 | 38 тыс. | 2024 |
+| 66 | 2D Game Template for Unreal Engine 5 | 6:00 | 19 тыс. | 2024 |
+| 67 | Best Project Settings for 2D Games in Unreal Engine 5 | 4:35 | 23 тыс. | 2024 |
+| 68 | Best Sprite Sheet workflow in Unreal Engine - Paper 2D Tutorial | 6:31 | 30 тыс. | 2024 |
+| 69 | The BEST way of learning 2D with UNREAL ENGINE 5 | 5:22 | 27 тыс. | 2024 |
+| 70 | How to use SPRITE SHEETS in Unreal Engine 5 - Paper 2D Basics | 4:39 | 34 тыс. | 2024 |
+| 71 | I made a Paper 2D Unreal Engine Game in 5 Hours... | 6:36 | 270 тыс. | 2024 |
+| 72 | SPRITES in Unreal Engine 5 - Paper 2D Basics | 15:16 | 19 тыс. | 2024 |
+| 73 | Version Control in Unreal Engine 5 - Git, Github and Gitlab | 3:30 | 120 тыс. | 2024 |
+| 74 | Paper 2D Basics Tutorial Series Overview - Make 2D Games in Unreal Engine 5! | 3:50 | 25 тыс. | 2024 |
+| 75 | How to get free 2D Assets for Unreal Engine 5 - Paper 2D Basics | 18:29 | 25 тыс. | 2024 |
+| 76 | My Dream Hunter Game was a failure... | 9:22 | 4,9 тыс. | 2024 |
+| 77 | Start making 2D Games in Unreal Engine 5 - Paper 2D Basics | 4:42 | 84 тыс. | 2024 |
+| 78 | Paper 2D Sprite Flicker Tutorial - Unreal Engine 5 | 5:39 | 14 тыс. | 2023 |
+| 79 | Making an Enemy for my Beat 'em up | 12:11 | 11 тыс. | 2023 |
+| 80 | Paper 2D Sprite Flash Tutorial - Unreal Engine 5 | 6:02 | 19 тыс. | 2023 |
+| 81 | New Enhanced Input Action System in Unreal Engine 5.1 - Tutorial | 32:10 | 23 тыс. | 2023 |
+| 82 | Make a 2D Top Down Game in Unreal Engine 5 - Tutorial | 6:32 | 503 тыс. | 2023 |
+| 83 | 2D Games you didn't know were made with Unreal Engine | 5:27 | 214 тыс. | 2023 |
+| 84 | My Game wasn't fun for a year... | 9:51 | 234 тыс. | 2023 |
+| 85 | Edge Lighting and Normal Maps for 2D Sprites - Unreal Engine 5 Tutorial | 16:55 | 56 тыс. | 2023 |
+| 86 | How to make a 2.5D Platformer in Unreal Engine 5 - Beginner Tutorial | 35:56 | 217 тыс. | 2023 |
+| 87 | Make 2D Games the EASY way in Unreal Engine 5 - PaperZD Tutorial | 1:11 | 851 тыс. | 2023 |
+| 88 | Learn how to make Unreal Engine 5 Games - Cobra Code Channel Trailer | 5:23 | 14 тыс. | 2023 |
+| 89 | How to use Blueprints across multiple Projects - BP Plugin Development Unreal Engine 5 Tutorial | 32:08 | 12 тыс. | 2023 |
+| 90 | DeepMotion to Metahuman \| Body, Finger & Face Animation Retarget \| Unreal Engine 5 Tutorial | 5:40 | 52 тыс. | 2023 |
+| 91 | Updating my 2D Beat 'em up to Unreal Engine 5 - Devlog | 30:01 | 275 тыс. | 2023 |
+| 92 | Add a Climax to your BOSS Fights - BOSS STOP Unreal Engine 5 Tutorial | 4:28 | 10 тыс. | 2023 |
+| 93 | How to take High Resolution SCREENSHOTS in Unreal Engine 5 | 19:32 | 40 тыс. | 2023 |
+| 94 | I made a spiritual successor to Donkey Kong Jungle Beat in Unreal Engine 5 | 4:56 | 7,5 тыс. | 2023 |
+| 95 | Improve your JUMP through SQUASH and STRETCH - Unreal Engine 5 Tutorial | 10:58 | 14 тыс. | 2023 |
+| 96 | 2D MELEE COMBAT in Unreal Engine 5 - Beginner Tutorial | 14:41 | 107 тыс. | 2023 |
+| 97 | DeepMotion to Unreal Engine 5 \| Animation Retargeting Tutorial \| AI Motion Capture | 6:39 | 95 тыс. | 2023 |
+| 98 | How to make a SONIC GAME in UNREAL ENGINE 5 - Infinity Engine Tutorial | 3:55 | 87 тыс. | 2023 |
+| 99 | 3D Movement for 2D Sprite Character - Unreal Engine 5 Tutorial | 22:00 | 41 тыс. | 2023 |
+| 100 | How to make a 2D game in Unreal Engine 5 - Beginner Tutorial | 8:05 | 852 тыс. | 2023 |
+| 101 | 5 Productive Habits for GAME DEVELOPERS | 10:36 | 4,3 тыс. | 2023 |
+| 102 | Dodge Roll and Dash Step Movement - Unreal Engine 5 Tutorial | 51:28 | 63 тыс. | 2023 |
+| 103 | Learn Blueprints in Unreal Engine 5 - Beginner Tutorial | 8:52 | 214 тыс. | 2023 |
+| 104 | How I learned Blender in 30 days - Best Beginner Tutorials | 5:36 | 69 тыс. | 2023 |
+| 105 | Adding KNOCKBACK and WALL BOUNCE to my Beat 'em Up Game | 4:06 | 12 тыс. | 2023 |
+| 106 | Add HITSTOP to your game in 5 minutes - Unreal Engine Blueprint Tutorial | 5:40 | 34 тыс. | 2022 |
+| 107 | Adding SPECIAL MOVES to my 2D Beat 'em up - Devlog | 8:26 | 8,2 тыс. | 2022 |
+| 108 | Making CHAIN COMBOS for my 2D Beat 'em up - Devlog | 4:36 | 17 тыс. | 2022 |
+| 109 | I tried making a FIGHTING GAME in 1 week with Unreal Engine | 4:08 | 32 тыс. | 2022 |
+| 110 | Overcoming 2D limitations in Unreal Engine [Paper2D ➡ PaperZD] - Dev Log | 24:57 | 50 тыс. | 2022 |
+| 111 | Advanced Spawn System Tutorial - Unreal Engine 4 Blueprint | 6:23 | 24 тыс. | 2022 |
+| 112 | Making a 2D Beat 'Em Up in Unreal Engine - Devlog | 6:32 | 39 тыс. | 2022 |
+| 113 | 2D Sprites in 3D World with Unreal Engine [HD-2D] | 9:06 | 217 тыс. | 2022 |
+| 114 | 15 Tips for Clean and Tidy Blueprints in Unreal Engine | 11:05 | 53 тыс. | 2022 |
+| 115 | ROCKET LAUNCHERS in Unreal Engine | 10:13 | 8,3 тыс. | 2022 |
+| 116 | SHOTGUN BULLET SPREAD in Unreal Engine | 15:28 | 16 тыс. | 2022 |
+| 117 | HITSCAN vs PROJECTILE \| Explanation and Unreal Engine Implementation [UE4/UE5 EA2] |  | 23 тыс. | 2022 |
  
  
 --- 
