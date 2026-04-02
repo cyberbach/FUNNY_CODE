@@ -397,7 +397,20 @@ public partial class MainWindow : Window
 
     private async Task ProcessVideoAsync(string url)
     {
+        Log("========================================");
+        Log("Начало ProcessVideoAsync");
+        Log($"CheckBoxes state:");
+        Log($"  SaveVideo: {SaveVideoCheckBox.IsChecked}");
+        Log($"  DownloadSubtitles: {DownloadSubtitlesCheckBox.IsChecked}");
+        Log($"  RecognizeText: {RecognizeTextCheckBox.IsChecked}");
+        Log($"  HQVideo: {HQVideoCheckBox.IsChecked}");
+        Log("========================================");
         Log("Проверка зависимостей...");
+        
+        bool recognizeEnabled = RecognizeTextCheckBox.IsChecked == true;
+        bool subtitlesEnabled = DownloadSubtitlesCheckBox.IsChecked == true;
+        Log($"Режим распознавания: {(recognizeEnabled ? "ВКЛ" : "ВЫКЛ")}");
+        Log($"Режим субтитров: {(subtitlesEnabled ? "ВКЛ" : "ВЫКЛ")}");
 
         if (!Directory.Exists(SaveDirectory))
         {
@@ -411,33 +424,33 @@ public partial class MainWindow : Window
         
         // Проверка и загрузка модели Vosk (только если нужно распознавание)
         string modelPath = Path.Combine(_appDirectory, modelFolder);
-        if (RecognizeTextCheckBox.IsChecked == true && !Directory.Exists(modelPath))
+        if (recognizeEnabled && !Directory.Exists(modelPath))
         {
             var logId = Log($"Загрузка модели {modelFolder}...", showProgress: true);
             await DownloadAndExtractVoskModelAsync(modelPath, logId);
             UpdateLogStatus(logId, true);
         }
-        else if (RecognizeTextCheckBox.IsChecked == true)
+        else if (recognizeEnabled)
         {
             Log("Модель Vosk найдена... ОК");
         }
 
         // Проверка DLL Vosk
         string voskDllPath = Path.Combine(_appDirectory, "vosk.dll");
-        if (RecognizeTextCheckBox.IsChecked == true && !File.Exists(voskDllPath))
+        if (recognizeEnabled && !File.Exists(voskDllPath))
         {
             var logId = Log("Загрузка библиотеки Vosk...", showProgress: true);
             await DownloadVoskDllAsync(voskDllPath, logId);
             UpdateLogStatus(logId, true);
         }
-        else if (RecognizeTextCheckBox.IsChecked == true)
+        else if (recognizeEnabled)
         {
             Log("Библиотека Vosk найдена... ОК");
         }
 
         // Проверка ffmpeg
         string ffmpegPath = Path.Combine(_appDirectory, "ffmpeg.exe");
-        if ((RecognizeTextCheckBox.IsChecked == true) && !File.Exists(ffmpegPath))
+        if (recognizeEnabled && !File.Exists(ffmpegPath))
         {
             var logId = Log("Загрузка ffmpeg...", showProgress: true);
             await DownloadFfmpegAsync(ffmpegPath, logId);
@@ -473,9 +486,12 @@ public partial class MainWindow : Window
         UpdateLogStatus(downloadLogId, true);
 
         // Скачивание субтитров
-        if (DownloadSubtitlesCheckBox.IsChecked == true)
+        subtitlesEnabled = DownloadSubtitlesCheckBox.IsChecked == true;
+        Log($"Проверка субтитров: subtitlesEnabled = {subtitlesEnabled}", skipDuplicate: true);
+        
+        if (subtitlesEnabled)
         {
-            Log("Скачивание субтитров...", skipDuplicate: true);
+            Log("Начинаем скачивание субтитров...", skipDuplicate: true);
             string? subtitlePath = await DownloadSubtitlesAsync(url, safeTitle);
             if (!string.IsNullOrEmpty(subtitlePath))
             {
@@ -488,8 +504,12 @@ public partial class MainWindow : Window
         }
 
         // Распознавание текста
-        if (RecognizeTextCheckBox.IsChecked == true)
+        bool shouldRecognize = RecognizeTextCheckBox.IsChecked == true;
+        Log($"Проверка распознавания: shouldRecognize = {shouldRecognize}", skipDuplicate: true);
+        
+        if (shouldRecognize)
         {
+            Log("Начинаем декодирование аудио...", skipDuplicate: true);
             var convertLogId = Log("Декодирование аудио из видео...", showProgress: true);
             var chunkFiles = await ConvertToWavChunksAsync(videoPath, convertLogId, safeTitle);
             UpdateLogStatus(convertLogId, true);
