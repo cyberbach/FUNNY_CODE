@@ -51,19 +51,20 @@
 | 47 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
 | 48 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
 | 49 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
-| 50 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
-| 51 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 52 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 53 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 54 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 55 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 56 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 57 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 58 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 59 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 60 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 61 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 62 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 63 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 64 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 65 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 50 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
+| 51 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
+| 52 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
+| 53 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 54 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 55 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 56 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 57 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 58 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 59 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 60 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 61 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 62 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 63 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 64 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 65 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 66 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
