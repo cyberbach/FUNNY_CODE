@@ -9009,6 +9009,71 @@ Visit my blog and more game development tutorials over at https://www.tomlooman.
  
 --- 
  
+# Narrative Tools
+
+Support Channel for the Narrative Collection of tools for Unreal Engine 5.
+
+**Страна:** Дата регистрации: 30 нояб. 2021 г.
+**Подписчиков:** 1960
+**Видео:** 47
+**Всего просмотров:** 149490
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Narrative Pro's Character Animation System Explained | 30:28 | 1 тыс. | март 2026 |
+| 2 | Tutorial: Interaction in UE5 With Narrative Pro 2 | 20:23 | 908 | март 2026 |
+| 3 | Your First 20 Minutes in Narrative Pro - UE5 Quick Start Guide |  | 1,5 тыс. | март 2026 |
+| 4 | A Deep Dive into NPCs in Narrative Pro 2.2 - UE5 UtilityAI Tutorial | 8:32 | 1 тыс. | март 2026 |
+| 5 | Unreal Engine 5 For Indies Will Change - Narrative Pro 2.3 Tech Demo | 33:03 | 2,8 тыс. | март 2026 |
+| 6 | Tutorial: Adding Custom Attributes to the Player in Narrative Pro | 40:21 | 742 | март 2026 |
+| 7 | Making a Horse in Unreal Engine 5 with Narrative Pro | 9:08 | 1,2 тыс. | март 2026 |
+| 8 | Narrative Pro 2 - Before You Buy | 44:15 | 1,9 тыс. | март 2026 |
+| 9 | Narrative Pro 2 Tutorial - Adding a Crafting System | 12:09 | 1 тыс. | январь 2026 |
+| 10 | Tutorial: Making an Elder Scrolls style RPG in 10 Minutes with Narrative Pro | 51:54 | 2,7 тыс. | январь 2026 |
+| 11 | Narrative Pro 2.2 Tutorial - Cinematics |  | 1,1 тыс. | январь 2026 |
+| 12 | Narrative Tales Tutorial - Full Guide | 23:16 | 2,8 тыс. | январь 2026 |
+| 13 | Narrative Pro 2.2 Tutorial - Saving & Loading | 14:44 | 382 | январь 2026 |
+| 14 | Narrative Pro 2.2 Tutorial - Mass Peds & Traffic | 42:23 | 986 | январь 2026 |
+| 15 | Narrative Pro 2.2 Tutorial - Changing the UI | 10:17 | 1,1 тыс. | январь 2026 |
+| 16 | Narrative Pro 2.2 Guide - Installation & Setup | 14:57 | 2 тыс. | январь 2026 |
+| 17 | Narrative Pro 2.2 Has Been Released! |  | 2,6 тыс. | январь 2026 |
+| 18 | Narrative Pro's Unreal Engine Combat Framework Explained | 57:57 | 3,1 тыс. | январь 2026 |
+| 19 | Narrative Pro's Unreal Engine Framework Explained | 7:24 | 5 тыс. | декабрь 2025 |
+| 20 | Making Games in Unreal 5 Will Change - Narrative Pro 2.2 Preview | 10:29 | 8,6 тыс. | декабрь 2025 |
+| 21 | Narrative Pro 2 Tutorial - Character Animation | 6:58 | 2,4 тыс. | ноябрь 2025 |
+| 22 | Tutorial: Music In UE5 with Narrative Pro 2 | 9:02 | 852 | октябрь 2025 |
+| 23 | Tutorial: Ragdolling In UE5 with Narrative Pro 2 | 30:34 | 779 | октябрь 2025 |
+| 24 | Narrative Pro 2 Tutorial - Best Practices | 35:53 | 2 тыс. | октябрь 2025 |
+| 25 | Tutorial: Vehicles & Mounts in UE5 With Narrative Pro 2 | 5:21 | 2 тыс. | октябрь 2025 |
+| 26 | Narrative Pro 2.1 for UE5 Install Guide | 5:07 | 2,2 тыс. | октябрь 2025 |
+| 27 | Narrative Pro Unreal Engine 5 Preview - New In 2.1 | 25:50 | 4 тыс. | сентябрь 2025 |
+| 28 | Narrative Pro 2 Tutorial - Appearances | 50:47 | 3,6 тыс. | июнь 2025 |
+| 29 | Narrative Pro 2 Tutorial - Weapons & Combat | 51:33 | 5,4 тыс. | июнь 2025 |
+| 30 | Narrative Pro 2 Tutorial - NPCs & AI | 20:04 | 4 тыс. | июнь 2025 |
+| 31 | Narrative Pro 2 Tutorial - Navigation | 56:21 | 1,3 тыс. | июнь 2025 |
+| 32 | Narrative Pro 2 Tutorial - Quests & Dialogue | 11:43 | 5,2 тыс. | июнь 2025 |
+| 33 | Narrative Pro 2 Tutorial - Installation & Setup | 4:09 | 9,2 тыс. | июнь 2025 |
+| 34 | Creating Streetlights in Unreal Engine 5 with Narrative Pro 1.1 | 28:36 | 1,7 тыс. | 2025 |
+| 35 | Creating NPCs & AI in UE5 with Narrative Pro 1.1 | 8:25 | 2,8 тыс. | 2025 |
+| 36 | How to Integrate Ultra Dynamic Sky with Narrative Pro in UE5 | 6:58 | 2,2 тыс. | 2025 |
+| 37 | Narrative Pro Quick Tip - Changing the UI Styling |  | 1,6 тыс. | 2025 |
+| 38 | Narrative Pro Quick Start Guide | 3:49 | 8,9 тыс. | 2025 |
+| 39 | Narrative Pro Trailer - Complete Game Framework for Unreal Engine 5 | 4:51 | 3,8 тыс. | 2025 |
+| 40 | Narrative 3.5 Upgrade Tutorial | 22:03 | 7,2 тыс. | 2024 |
+| 41 | Narrative Navigator Quick Start Guide - Unreal Engine 5 | 20:46 | 6,4 тыс. | 2024 |
+| 42 | Narrative Interaction Quick Start Guide - Unreal Engine 5 | 29:49 | 7,6 тыс. | 2024 |
+| 43 | Narrative Inventory Quick Start Guide - Unreal Engine 5 | 17:04 | 8,4 тыс. | 2024 |
+| 44 | How to use Narrative Parties in Narrative 3.4 - Unreal Engine 5 Tutorial | 6:39 | 1,6 тыс. | 2024 |
+| 45 | Tutorial: How to set up and use Narrative Common UI | 18:24 | 6 тыс. | 2024 |
+| 46 | Narrative Inventory Quick Start Guide - Unreal Engine 5 |  | 3,2 тыс. | 2024 |
+ 
+ 
+--- 
+ 
 # Qworco - Unreal Engine
 
 **Страна:** Финляндия
@@ -10268,6 +10333,29 @@ Unreal Engine, CGI, Photography, Digital Art.
 | 73 | Improve Your Renders With Unreal Movie Render Queue PART 1 - Goodbye Sequencer?! (4.26) | 5:20 | 315 тыс. | 2021 |
 | 74 | How to Render Cryptomatte in Unreal (NEW in 4.26) | 3:10 | 57 тыс. | 2021 |
 | 75 | Enable UDIM in Unreal in Two Minutes! (4.26) |  | 70 тыс. | 2021 |
+ 
+ 
+--- 
+ 
+# Visual Tech Art
+
+Hi,
+I'm a Senior Technical Artist, specialized in Shaders, VFX, Procedural Content Generation and any cool visual stuff that has been working in the video game industry for several years.
+I've always been passionate about teaching and I want to share my knowledge in form of tutorials using this channel.
+I cover basic and advanced stuff, always spiced with some extra stuff that usually is never explained in standard tutorials.
+
+**Страна:** Италия
+**Дата регистрации:** 4 июл. 2020 г.
+**Подписчиков:** 26900
+**Видео:** 55
+**Всего просмотров:** 1389363
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
  
  
 --- 
@@ -19916,43 +20004,45 @@ I wish you all the best of luck in your game dev careers, dreams, and projects! 
 | 26 | 36700 | Dean Ashford | [YouTube](https://www.youtube.com/@DeanAshford) |
 | 27 | 32800 | Make Your Game | [YouTube](https://www.youtube.com/@yandex.ru) |
 | 28 | 29200 | Tech Art Aid | [YouTube](https://www.youtube.com/@TechArtAid) |
-| 29 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
-| 30 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
-| 31 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
-| 32 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
-| 33 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
-| 34 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
-| 35 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
-| 36 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
-| 37 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
-| 38 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
-| 39 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
-| 40 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
-| 41 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
-| 42 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
-| 43 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
-| 44 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
-| 45 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
-| 46 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
-| 47 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
-| 48 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
-| 49 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
-| 50 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
-| 51 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
-| 52 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
-| 53 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
-| 54 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 55 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 56 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 57 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 58 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 59 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 60 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 61 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 62 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 63 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 64 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 65 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 66 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 67 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 68 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 29 | 26900 | Visual Tech Art | [YouTube](https://www.youtube.com/@VisualTechArt) |
+| 30 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
+| 31 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
+| 32 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
+| 33 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
+| 34 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
+| 35 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
+| 36 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
+| 37 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
+| 38 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
+| 39 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
+| 40 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
+| 41 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
+| 42 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
+| 43 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
+| 44 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
+| 45 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
+| 46 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
+| 47 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
+| 48 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
+| 49 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
+| 50 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
+| 51 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
+| 52 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
+| 53 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
+| 54 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
+| 55 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
+| 56 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 57 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 58 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 59 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 60 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 61 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 62 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
+| 63 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 64 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 65 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 66 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 67 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 68 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 69 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 70 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |

@@ -30,43 +30,45 @@
 | 26 | 36700 | Dean Ashford | [YouTube](https://www.youtube.com/@DeanAshford) |
 | 27 | 32800 | Make Your Game | [YouTube](https://www.youtube.com/@yandex.ru) |
 | 28 | 29200 | Tech Art Aid | [YouTube](https://www.youtube.com/@TechArtAid) |
-| 29 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
-| 30 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
-| 31 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
-| 32 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
-| 33 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
-| 34 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
-| 35 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
-| 36 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
-| 37 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
-| 38 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
-| 39 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
-| 40 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
-| 41 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
-| 42 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
-| 43 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
-| 44 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
-| 45 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
-| 46 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
-| 47 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
-| 48 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
-| 49 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
-| 50 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
-| 51 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
-| 52 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
-| 53 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
-| 54 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 55 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 56 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 57 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 58 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 59 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 60 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 61 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 62 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 63 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 64 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 65 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 66 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 67 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 68 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 29 | 26900 | Visual Tech Art | [YouTube](https://www.youtube.com/@VisualTechArt) |
+| 30 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
+| 31 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
+| 32 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
+| 33 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
+| 34 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
+| 35 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
+| 36 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
+| 37 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
+| 38 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
+| 39 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
+| 40 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
+| 41 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
+| 42 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
+| 43 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
+| 44 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
+| 45 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
+| 46 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
+| 47 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
+| 48 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
+| 49 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
+| 50 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
+| 51 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
+| 52 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
+| 53 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
+| 54 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
+| 55 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
+| 56 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 57 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 58 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 59 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 60 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 61 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 62 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
+| 63 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 64 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 65 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 66 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 67 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 68 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 69 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 70 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
