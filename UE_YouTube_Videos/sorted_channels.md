@@ -66,9 +66,12 @@
 | 62 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
 | 63 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
 | 64 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 65 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 66 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 67 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 68 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 69 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 70 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 65 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
+| 66 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 67 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 68 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
+| 69 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 70 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 71 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 72 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 73 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |

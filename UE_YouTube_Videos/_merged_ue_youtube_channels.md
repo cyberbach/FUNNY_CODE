@@ -6050,6 +6050,92 @@ Not really much to add here, I just make Game Development tutorials, consultatio
  
 --- 
  
+# UNiCoRN47vvs
+
+Дополнительная информация
+без информации
+
+**Страна:** Дата регистрации: 21 июн. 2020 г.
+**Подписчиков:** 1350
+**Видео:** 567
+**Всего просмотров:** 134638
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Потоки. SoftReference. C++ в контексте UE5 | 15:02 | 87 | ноябрь 2025 |
+| 2 | DataAssets. C++ в контексте UE5 | 14:56 | 64 | ноябрь 2025 |
+| 3 | Система контроля версий. C++ в контексте UE5 | 29:31 | 171 | сентябрь 2025 |
+| 4 | Создал игру на Unreal Engine 5 | 15:03 | 592 | август 2025 |
+| 5 | Interface. C++ в контексте UE5 | 14:07 | 286 | август 2025 |
+| 6 | LineTrace. C++ в контексте UE5 | 16:32 | 92 | август 2025 |
+| 7 | Таймер. Timer. C++ в контексте UE5 | 12:29 | 90 | июль 2025 |
+| 8 | Input. C++ в контексте UE5 | 14:05 | 117 | июль 2025 |
+| 9 | Collision. C++ в контексте UE5 | 19:36 | 247 | июль 2025 |
+| 10 | Макросы. Macros. C++ в контексте UE5 | 26:00 | 319 | июль 2025 |
+| 11 | Delegate. C++ в контексте UE5 | 19:11 | 233 | июль 2025 |
+| 12 | HealthBar. C++ в контексте UE5 | 19:55 | 291 | июль 2025 |
+| 13 | Widgets. C++ в контексте UE5 | 19:23 | 201 | июль 2025 |
+| 14 | Component, TMap. C++ в контексте UE5 | 14:12 | 216 | июнь 2025 |
+| 15 | TMap. C++ в контексте UE5 | 20:24 | 316 | июнь 2025 |
+| 16 | Actor Component. C++ в контексте UE5 | 23:33 | 275 | июнь 2025 |
+| 17 | Структуры и Енамы. C++ в контексте UE5 | 17:08 | 308 | июнь 2025 |
+| 18 | Методы. C++ в контексте UE5 | 14:45 | 204 | июнь 2025 |
+| 19 | Создание. C++ в контексте UE5 | 15:10 | 303 | июнь 2025 |
+| 20 | Начало. C++ в контексте UE5 | 4:45 | 1,3 тыс. | июнь 2025 |
+| 21 | Cast против Interface, почему cast это не зло! (UE5) | 3:53 | 439 | май 2025 |
+| 22 | UE5 Blueprint C++ Enum №3: Использование Enum | 9:19 | 263 | 2025 |
+| 23 | Cast или Interface. Что выбрать? | 3:24 | 290 | 2025 |
+| 24 | UE5 Blueprint C++ Переменные. № 2: Типы данных и их применение | 4:03 | 97 | 2025 |
+| 25 | UE5 Blueprint C++ Переменные. №1 |  | 117 | 2025 |
+| 26 | Unreal Engine 5. C++ Обучение/Изучение. Стрим 5 |  | 259 | 2025 |
+| 27 | Unreal Engine 5, создание игры/обучение Стрим 29 | 3:17 | 342 | 2025 |
+| 28 | Обзор на 29 й Стрим |  | 95 | 2025 |
+| 29 | Unreal Engine 5. C++ Обучение/Изучение. Стрим 4 |  | 160 | 2025 |
+| 30 | Unreal Engine 5, создание игры/обучение Стрим 28 | 4:12 | 220 | 2025 |
+| 31 | Обзор на 28 й Стрим |  | 22 | 2025 |
+| 32 | Unreal Engine 5. C++ Обучение/Изучение. Стрим 3 |  | 150 | 2025 |
+| 33 | Unreal Engine 5, создание игры/обучение Стрим 27 | 3:11 | 202 | 2025 |
+| 34 | Обзор на 27 й Стрим |  | 84 | 2025 |
+| 35 | Unreal Engine 5. C++ Обучение/Изучение. Стрим 2 |  | 357 | 2025 |
+| 36 | Unreal Engine 5, создание игры/обучение Стрим 26 | 4:15 | 189 | 2025 |
+| 37 | Обзор на 26-й Стрим |  | 14 | 2025 |
+| 38 | Unreal Engine 5. C++ Обучение/Изучение. Стрим 1 |  | 1,2 тыс. | 2025 |
+| 39 | Unreal Engine 5, создание игры/обучение Стрим 25 | 1:54 | 222 | 2025 |
+| 40 | Обзор на 25 й Стрим |  | 24 | 2024 |
+| 41 | Unreal Engine 5, создание игры/обучение Стрим 24 | 5:00 | 679 | 2024 |
+| 42 | Обзор на 24-й стрим |  | 29 | 2024 |
+| 43 | Unreal Engine 5, создание игры/обучение Стрим 23 | 11:09 | 252 | 2024 |
+| 44 | Обзор на 23-й стрим | 17:47 | 61 | 2024 |
+| 45 | Unreal Engine 5, создание игры/обучение "Стрим 22" |  | 40 | 2024 |
+| 46 | Unreal Engine 5, создание игры/обучение Стрим 21 |  | 283 | 2024 |
+| 47 | Unreal Engine 5, создание игры/обучение Стрим 20 |  | 206 | 2024 |
+| 48 | Unreal Engine 5, создание игры/обучение Стрим 19 |  | 62 | 2024 |
+| 49 | Unreal Engine 5, создание игры/обучение Стрим 18 |  | 45 | 2024 |
+| 50 | Unreal Engine 5, создание игры/обучение Стрим 17 |  | 66 | 2024 |
+| 51 | Unreal Engine 5, создание игры/обучение Стрим 16 |  | 89 | 2024 |
+| 52 | Unreal Engine 5, создание игры/обучение Стрим 15 |  | 45 | 2024 |
+| 53 | Unreal Engine 5, создание игры/обучение Стрим 14 |  | 42 | 2024 |
+| 54 | Unreal Engine 5, создание игры/обучение Стрим 13 |  | 26 | 2024 |
+| 55 | Unreal Engine 5, создание игры/обучение Стрим 12 |  | 58 | 2024 |
+| 56 | Unreal Engine 5, создание игры/обучение Стрим 11 |  | 241 | 2024 |
+| 57 | Unreal Engine 5, создание игры/обучение Стрим 10 |  | 257 | 2024 |
+| 58 | Unreal Engine 5, создание игры/обучение Стрим 9 |  | 132 | 2024 |
+| 59 | Unreal Engine 5, создание игры/обучение Стрим 8 |  | 46 | 2024 |
+| 60 | Unreal Engine 5, создание игры/обучение Стрим 7 |  | 32 | 2024 |
+| 61 | Unreal Engine 5, создание игры/обучение Стрим 6 |  | 78 | 2024 |
+| 62 | Unreal Engine 5, создание игры/обучение Стрим 5 |  | 61 | 2024 |
+| 63 | Unreal Engine 5, создание игры/обучение Стрим 4 |  | 127 | 2024 |
+| 64 | Unreal Engine 5, создание игры/обучение Стрим 3 |  | 170 | 2024 |
+| 65 | Unreal Engine 5, создание игры/обучение Стрим 2 |  | 217 | 2024 |
+| 66 | Unreal Engine 5, создание игры/обучение Стрим 1 |  | 1,6 тыс. | 2024 |
+ 
+ 
+--- 
+ 
 # pwnisher
 
 3D Challenges, Tutorials, Live Streams and Breakdowns. Let's learn and grow together!
@@ -11426,6 +11512,69 @@ https://steamcommunity.com/profiles/76561198197518828 - Мой Steam (добав
  
 --- 
  
+# Valkyrie
+
+Мой второй канал для всякой всячины по Unreal Engine 5.
+Мой основной канал https://www.youtube.com/@GMTechArt
+4f951a83-914b-4b92-b580-b65f7ba01fde
+
+**Страна:** Дата регистрации: 29 мар. 2024 г.
+**Подписчиков:** 34
+**Видео:** 43
+**Всего просмотров:** 898
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Переведённое Яндекс браузером видео Streaming Improvements for Dense Worlds in The Witcher 4 | 39:27 | 23 | март 2026 |
+| 2 | Переведённое яндекс браузером видео Runtime PCG in The Witcher 4 | 37:17 | 23 | декабрь 2025 |
+| 3 | Переведённое яндекс браузером видео Large Scale Animated Foliage in The Witcher 4 | 39:27 | 18 | декабрь 2025 |
+| 4 | Переведённое Яндекс браузером видео PCG introduction Use Cases and Best Practices. | 43:08 | 9 | декабрь 2025 |
+| 5 | Переведенное видео с оф канала Chasing Waterfalls: Using Niagara to Power a Mobile RTS | 34:47 | 4 | декабрь 2025 |
+| 6 | Переведённое яндекс браузером видео MetaHuman: Facial Expression Editing Maya. | 46:27 | 42 | сентябрь 2025 |
+| 7 | Переведённое яндекс браузером видео Chaos Destruction System | 47:00 | 76 | сентябрь 2025 |
+| 8 | Переведённое яндекс браузером видео про плагин Odyssey - для создания 2д анимации. | 18:49 | 30 | август 2025 |
+| 9 | LiveStream 2 Day 2 Subculture Rendering Ru | 23:04 | 19 | июнь 2025 |
+| 10 | LiveStream 2 Day 2 Realistic Water Simulations Ru | 30:57 | 12 | июнь 2025 |
+| 11 | LiveStream 2 Day 2 Powering Up You Project Ru | 41:02 | 4 | июнь 2025 |
+| 12 | LiveStream 2 Day 2 Avowed Gpu retrospective Ru | 40:07 | 8 | июнь 2025 |
+| 13 | LiveStream 2 Day 2 AnimationFramework Ru | 53:10 | 8 | июнь 2025 |
+| 14 | LiveStream 1 Day 2 Hitch Hunter Ru | 54:30 | 17 | июнь 2025 |
+| 15 | LiveStream 1 Day 2 Tracking down Every Frame Drop | 31:02 | 11 | июнь 2025 |
+| 16 | LiveStream 2 Day 2 Powering Up Yu Project With Scene Graph | 41:40 | 14 | июнь 2025 |
+| 17 | LiveStream 2 Day 2 Realistic Water Simulations | 41:19 | 7 | июнь 2025 |
+| 18 | LifeStream 2 Day 2 Avowed A GPU Technical Retrospective | 40:17 | 58 | июнь 2025 |
+| 19 | LiveStream 2 Day 2 AnimationFramework in The Witcher 4 | 19:01 | 3 | июнь 2025 |
+| 20 | LiveStream 2 Day 2 Subculture Rendering | 46:05 | 20 | июнь 2025 |
+| 21 | LiveStream 2 Day 2 Road to 60 FPS RU | 46:40 | 22 | июнь 2025 |
+| 22 | LiveStream 2, Day 2, Road to 60 FPS | 38:19 | 19 | июнь 2025 |
+| 23 | Перевод видео - An Artist’s Guide to Using Nanite Tessellation \| Unreal Fest 2024 | 36:23 | 110 | 2025 |
+| 24 | UE Fest 2024 PatchTracing RealTime | 49:58 | 88 | 2025 |
+| 25 | Unreal Fest october 2 2024 Best Practice |  | 25 | 2025 |
+| 26 | Unreal Fest October 2 2024 VFX Nanite Tesselation | 50:00 | 14 | 2025 |
+| 27 | Unreal Fest october 2 2024 Best Practices | 53:11 | 8 | 2025 |
+| 28 | Unreal Fest October 2 2024 VFX Nanite Tesselation |  | 4 | 2025 |
+| 29 | Перевод видео про нанит. HPG 2022 Keynote: The Journey to Nanite | 29:11 | 48 | 2025 |
+| 30 | GDC 2024 Stylization - Переведено Яндекс браузером. | 22:06 | 16 | 2025 |
+| 31 | GDC 2024 Nanite for Artist - Переведено Яндекс браузером. | 25:20 | 49 | 2025 |
+| 32 | GDC 2024 Editor Utilities - переведено Яндекс браузером. | 24:37 | 18 | 2025 |
+| 33 | UE 5.2 как погладить собаку? |  | 15 | 2024 |
+| 34 | New 5.2 part 01 | 45:40 | 6 | 2024 |
+| 35 | New 5.2 Part 03. | 58:17 | 0 | 2024 |
+| 36 | New 5.2 part 02. |  | 1 | 2024 |
+| 37 | New UE 5.2 Part 04. |  | 1 | 2024 |
+| 38 | New UE 5.2 part 05. | 34:36 | 0 | 2024 |
+| 39 | Metasounds | 39:04 | 26 | 2024 |
+| 40 | Pro Каналы столкновений | 22:55 | 4 | 2024 |
+| 41 | Decal to Mesh V2 | 5:14 | 10 | 2024 |
+| 42 | Decal to Mesh V1 |  | 8 | 2024 |
+ 
+ 
+--- 
+ 
 # Games By Hyper
 
 What we do:
@@ -14713,6 +14862,83 @@ Subscribe and start creating — one idea, one render, one world at a time.
 | 213 | Wine Glass shattering effect with Slow Motion Part01 | 15:00 | 5,4 тыс. | 2012 |
 | 214 | Baking a Normal Map in 3ds max.mp4 | 12:12 | 12 тыс. | 2012 |
 | 215 | Baking AO for Games Assets 01.mp4 |  | 121 | 2012 |
+ 
+ 
+--- 
+ 
+# 3d моделирование и ИИ
+
+Добро пожаловать на канал, где 3D-моделирование и ИИ открывают новые горизонты! Здесь вы найдете:
+🎨Полезные советы по 3D-моделированию: Открывайте для себя лучшие техники, приемы работы с формами, текстурами и оптимизацией.
+🧑‍🎨Создание и анимация реалистичных персонажей: Узнайте, как разрабатывать, кастомизировать, создавать скелет и анимировать выразительных персонажей.
+🤖 ИИ в дизайне: Научитесь использовать нейросети для генерации идей, текстур и оптимизации рабочего процесса.
+🔥 Моделирование в fashion-индустрии: Советы по созданию цифровой одежды, аксессуаров и виртуальных образов.
+🏡 Архвиз и интерьерная визуализация: Секреты создания фотореалистичных рендеров, работы со светом, материалами и композицией. Узнайте, как ускорить процесс с помощью ИИ — от генерации планировок до автоматизации текстур и освещения.
+🌍 Инновации и тренды: Глубокое погружение в передовые технологии и инструменты 3D и ИИ, которые меняют индустрию.
+Подписывайтесь, создавайте и вдохновляйтесь вместе с нами!
+
+**Страна:** Португалия
+**Дата регистрации:** 6 июн. 2012 г.
+**Подписчиков:** 711
+**Видео:** 97
+**Всего просмотров:** 127532
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Симуляция одежды в Unreal Engine 5.7 \| Chaos Cloth + Body Mask | 10:28 | 936 | январь 2026 |
+| 2 | 3 вида складок в Marvelous Designer/Pleats | 4:26 | 98 | январь 2026 |
+| 3 | Бонус: Моделирование серьги в Rhinoceros 6 \| Pipe - трубка с разными радиусами на концах | 2:14 | 28 | январь 2026 |
+| 4 | Моделирование серьги в Rhinoceros 6 \| Завершающие штрихи и скругление деталей Fillet (Часть 5) | 20:01 | 17 | январь 2026 |
+| 5 | Моделирование серьги в Rhinoceros 6\|Расположение камней и отверстие с Boolean Difference (Часть 4) | 20:01 | 16 | январь 2026 |
+| 6 | Пошаговое моделирование серьги в Rhinoceros 6 \| Polar Array для повторения элементов (Часть 3) | 20:01 | 19 | январь 2026 |
+| 7 | Пошаговое моделирование серьги в Rhinoceros 6 \| Инструмент Pipe с Record History (Часть 2) | 20:01 | 100 | январь 2026 |
+| 8 | Пошаговое моделирование серьги в Rhinoceros 6 \| Построение вокруг штифта (Часть 1) | 2:32 | 113 | январь 2026 |
+| 9 | Как использовать Twist в Rhino 6 для ювелирного моделирования | 4:13 | 26 | январь 2026 |
+| 10 | Rhinoceros 6 \| Команда Bend: круглый кулон с узором | 6:55 | 14 | январь 2026 |
+| 11 | Rhinoceros 6 \| Ювелирный браслет с узором — моделирование | 17:20 | 101 | январь 2026 |
+| 12 | Rhinoceros 6 \| Круглый кулон с узором: радиальный массив Polar Array | 2:33 | 106 | январь 2026 |
+| 13 | Добавление референса в Rhino 6 для 3D-моделирования | 16:05 | 144 | январь 2026 |
+| 14 | Кулон с узором в Rhinoceros 6 \| Пошаговое моделирование | 27:59 | 66 | январь 2026 |
+| 15 | Исправляем деформации капюшона: перераспределение весов Skinning одежды для #MetaHuman #unrealengine | 36:58 | 264 | декабрь 2025 |
+| 16 | Перенос весов MetaHuman на одежду и скиннинг (Edit Weights\|Skinning) в Unreal Engine 5.7 | 18:11 | 597 | декабрь 2025 |
+| 17 | Как сделать универсальный предмет одежды для гардероба MetaHuman \| Unreal Engine 5.7 (Часть 1) | 16:45 | 804 | декабрь 2025 |
+| 18 | Как подогнать одежду из T-позы в A-позу для Metahuman в Blender (Часть 2) | 4:42 | 262 | декабрь 2025 |
+| 19 | 360° презентация интерьера современного дома в Казахстане \| Twinmotion Render | 32:43 | 289 | декабрь 2025 |
+| 20 | Как подогнать одежду из T-позы в A-позу для Metahuman в Blender (Часть 1) | 4:42 | 378 | декабрь 2025 |
+| 21 | Альтернативный способ конвертации Mixamo-анимаций для MetaHuman в Unreal Engine 5.5 | 23:09 | 594 | ноябрь 2025 |
+| 22 | Custom Metahuman: как надеть и зафиксировать маску и шляпу на голове персонажа в Unreal Engine 5.7 | 42:27 | 270 | ноябрь 2025 |
+| 23 | MetaHuman стал ещё круче! Unreal Engine 5.7 + Mixamo retarget \| MetaHuman Got Even Better! | 56:52 | 3,3 тыс. | ноябрь 2025 |
+| 24 | 3D Modeling in Blender full process\|Custom high-heeled shoes for Metahuman\|Part 1 | 37:28 | 142 | июль 2025 |
+| 25 | How to wear high-heeled custom shoes for Metahuman in Unreal Engine\|Blender | 34:46 | 1,2 тыс. | июль 2025 |
+| 26 | How to customize Metahuman's body and face without plugins\|for Unreal Engine versions up to 5.6 | 48:50 | 926 | июнь 2025 |
+| 27 | How to Create Custom Hair for MetaHuman in Blender \| Unreal Engine + MetaHuman Creator | 29:29 | 1,9 тыс. | май 2025 |
+| 28 | How to Convert Free Mixamo Animations for MetaHuman in Unreal Engine \| Mixamo Converter Guide | 3:42 | 469 | май 2025 |
+| 29 | How to Edit Mixamo Animations in Unreal Engine for Metahuman | 37:03 | 809 | май 2025 |
+| 30 | 🔹 Как создать кастомную одежду для Metahuman в Style3D Atelier с нуля 🔹 Часть 2 | 50:43 | 250 | 2025 |
+| 31 | 🔹 Как создать кастомную одежду для Metahuman в Style3D Atelier с нуля 🔹 Часть 1 | 34:46 | 600 | 2025 |
+| 32 | 🔥 Как кастомизировать лицо и тело Metahuman без плагинов! 🔥 | 41:57 | 715 | 2025 |
+| 33 | Как надеть кастомную обувь на каблуках на Metahuman в Unreal Engine и Blender | 16:59 | 268 | 2025 |
+| 34 | Создание антропоморфного 3d персонажа для анимационного ролика. Часть 2: Mesh Morpher Unreal Engine | 36:35 | 310 | 2025 |
+| 35 | Импорт и анимация кастомной одежды для MetaHuman в Unreal Engine\|Style3D Atelier+Style3D Simulator | 5:43 | 797 | 2025 |
+| 36 | Создание антропоморфного 3d персонажа для анимационного ролика. Часть 1: Блокинг с помощью ИИ | 3:42 | 100 | 2025 |
+| 37 | Как редактировать анимацию Mixamo в Unreal Engine для Metahuman | 29:29 | 228 | 2025 |
+| 38 | Как конвертировать бесплатные анимации Mixamo для MetaHuman в Unreal Engine\|Гайд по Mixamo Converter | 48:50 | 462 | 2025 |
+| 39 | Как создать кастомные волосы для MetaHuman в Blender \| Unreal Engine + Metahuman Creator | 14:12 | 989 | 2025 |
+| 40 | Customizing my 3d character in Metahuman creator | 2:40 | 52 | 2025 |
+| 41 | The headdress of a bride, called a Saukele | 2:01 | 33 | 2025 |
+| 42 | Quick Process of Creating Digital Clothing | 1:01 | 63 | 2025 |
+| 43 | 3d video présentation of the house in TWINMOTION | 7:41 | 96 | 2025 |
+| 44 | How to make Patterns on surfaces in zbrush | 8:52 | 121 | 2023 |
+| 45 | Marvelous Designer Pressure, Layer Clone - куртка стеганая | 3:35 | 550 | 2022 |
+| 46 | Marvelous Designer Particle Distance - Размер полигонов (меша) | 4:30 | 1,7 тыс. | 2022 |
+| 47 | Marvelous Designer Piping - окантовки | 0:40 | 325 | 2022 |
+| 48 | marvelous designer back of fabrics - изнаночная сторона ткани | 11:06 | 129 | 2021 |
+| 49 | coreldraw import bezier curve - рисование кривой Безье | 0:48 | 1,1 тыс. | 2021 |
+| 50 | Визуализация Площадь республики, г. Алматы |  | 233 | 2015 |
  
  
 --- 
@@ -20040,9 +20266,12 @@ I wish you all the best of luck in your game dev careers, dreams, and projects! 
 | 62 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
 | 63 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
 | 64 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 65 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 66 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 67 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 68 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 69 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 70 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 65 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
+| 66 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 67 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 68 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
+| 69 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 70 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 71 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 72 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 73 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
