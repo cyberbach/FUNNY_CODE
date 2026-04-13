@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ren *)",
+      "Bash(r *)",
+      "Bash(@findstr *)",
+      "Bash(findstr *)",
+      "Bash(echo *)"
+    ]
+  },
+  "$version": 3
+}

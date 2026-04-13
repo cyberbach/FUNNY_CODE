@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"VibeVoskBlueprint": "UnrealEditor-VibeVoskBlueprint-Win64-DebugGame.dll",
+		"VibeVoskCore": "UnrealEditor-VibeVoskCore-Win64-DebugGame.dll"
+	}
+}

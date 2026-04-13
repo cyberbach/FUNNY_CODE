@@ -1,0 +1,28 @@
+# Unreal Engine generated files
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# VOSK SDK - users must download separately
+ThirdParty/vosk/bin/
+ThirdParty/vosk/lib/
+# Keep the include directory (header files are small and useful for reference)
+# ThirdParty/vosk/include/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Built content (keep source .uasset files)
+Built/

@@ -1,0 +1,33 @@
+# Unreal Engine
+Intermediate/
+DerivedDataCache/
+Build/
+Saved/
+*.uproject
+!PluginProjectSettings.uplugin
+
+# Project binaries
+Binaries/
+*.exe
+*.pdb
+
+# ThirdParty libraries (use Plugins/Binaries instead)
+Plugins/VibeVoskPlugin57/ThirdParty/
+
+# IDE
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Keep plugin binaries with models and third-party libs
+!**/Plugins/VibeVoskPlugin57/Binaries/
+!**/Plugins/VibeVoskPlugin57/Binaries/**

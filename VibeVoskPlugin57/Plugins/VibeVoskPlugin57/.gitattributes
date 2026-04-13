@@ -1,0 +1,12 @@
+# UE5 binary assets
+*.uasset binary
+*.umap binary
+
+# DLL and lib files
+*.dll binary
+*.lib binary
+*.pdb binary
+*.exe binary
+
+# Compressed archives
+*.zip binary
