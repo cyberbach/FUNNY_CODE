@@ -7367,6 +7367,77 @@ Jonathan Winbush is a multi–award-winning motion graphics artist who has worke
  
 --- 
  
+# PopulusArt
+
+Hello everyone, I am Lazar, more recognizably Populus.
+I enjoy everything stylized and 3D related especially cool environments!
+I have gone from a lots of ups and downs at my journey to become good at this whole 3D thing and I wanted to share with you all my experience and knowledge available so you can traverse the same path with better vehicles and tools to help you grow faster and with less trouble.
+If this sounds interesting to you, hop on our train and join by pressing the Subscribe button!
+P.S. Have a wonderful day and stay creative!
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Дата регистрации: 16 мая 2019 г.
+**Подписчиков:** 1600
+**Видео:** 49
+**Всего просмотров:** 114356
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Level Instancing - Unreal Engine 5 Tutorial | 16:50 | 28 тыс. | 2024 |
+| 2 | Rock Creation Guide - Part 4 - Texturing Rocks (its actually easy) | 15:36 | 557 | 2024 |
+| 3 | Rock Creation Guide - Part 3 - Retopology and UVs | 14:36 | 2,2 тыс. | 2024 |
+| 4 | Rock Creation Guide - Part 2 - Sculpting a Simple Rock | 14:03 | 290 | 2024 |
+| 5 | Rock Creation Guide - Part 1 - Warmup Sculpt | 6:58 | 425 | 2024 |
+| 6 | HOW TO - Texture Stylized Wood Trimsheet In Substance Painter - Part 2 | 17:21 | 1,4 тыс. | 2024 |
+| 7 | HOW TO - Texture Stylized Wood Trimsheet In Substance Painter - Part 1 | 1:08 | 1,5 тыс. | 2024 |
+| 8 | PopulusArt Channel Trailer | 15:18 | 620 | 2024 |
+| 9 | BONUS PART - Stylized 3D Asset Creation - Sculpting Destruction | 17:43 | 189 | 2024 |
+| 10 | Modular PBR Shader Setup for TILABLES in Unreal Engine 5 (Bonus Video) | 16:53 | 604 | 2024 |
+| 11 | Modular PBR Shader Setup in Unreal Engine 5 | 11:53 | 1,2 тыс. | 2024 |
+| 12 | VDB Stylized Fluffy Clouds Shader Setup in Unreal Engine 5 |  | 12 тыс. | 2024 |
+| 13 | FULL GUIDE - Stylized 3D Asset Creation - in-depth sculpting and texturing principles | 13:09 | 733 | 2024 |
+| 14 | Using Height Maps to displace a mesh properly | 3:42 | 2,6 тыс. | 2024 |
+| 15 | Why this software is the GAME CHANGER for Retopology | 3:08 | 377 | 2023 |
+| 16 | I spent 30+ hours learning ZBrush (here is what I've learned) | 5:02 | 2,9 тыс. | 2023 |
+| 17 | So you want to learn 3D Art? - Beginners Start HERE | 10:46 | 1,3 тыс. | 2023 |
+| 18 | Rock Speed Sculpt in Zbrush with Texturing | 27:30 | 556 | 2023 |
+| 19 | Rock Speed Sculpt in Zbrush and Texturing in Substance Painter | 20:23 | 615 | 2023 |
+| 20 | Stylized Scene Creation - Part 1 | 0:31 | 194 | 2023 |
+| 21 | Stylized Grasslands Environment UE4 | 7:24 | 94 | 2023 |
+| 22 | Fluffy Trees in Unreal Engine 4 | 40:49 | 787 | 2023 |
+| 23 | Easy Stylized Cliff Material Tutorial - Substance 3D Designer | 22:04 | 6,5 тыс. | 2023 |
+| 24 | Easy Stylized Cliff Material Shape in Substance 3D Designer - 40% Course Sale | 1:19 | 869 | 2023 |
+| 25 | New Substance Designer Course for Stylized Materials | 4:57 | 346 | 2023 |
+| 26 | Substance Designer to UE4 Workflow | 13:18 | 1,8 тыс. | 2023 |
+| 27 | Blending Materials In UE4 - Unreal Engine 4 Tutorial | 8:10 | 641 | 2023 |
+| 28 | Tile Sampler 101 - Substance Designer Tutorial - #1 | 4:32 | 4,2 тыс. | 2023 |
+| 29 | Histogram Scan - Must-Know Node in Substance Designer | 5:01 | 1,7 тыс. | 2023 |
+| 30 | Quickly Improve your Materials with Floodfill - Substance Designer Tutorial | 2:46 | 1,6 тыс. | 2023 |
+| 31 | Edge Detect Node Tip for better Edges in Substance Designer | 6:33 | 4,8 тыс. | 2023 |
+| 32 | Easy Height Blend Tutorials in Substance Designer | 13:48 | 3,2 тыс. | 2023 |
+| 33 | Easy Stylized Rock Material in Substance Designer #1 | 12:05 | 1,2 тыс. | 2023 |
+| 34 | Stylized Grass Material Inside Substance Designer 4/4 Final Part | 12:54 | 630 | 2023 |
+| 35 | Stylized Grass Material Inside Substance Designer 3/4 | 16:34 | 791 | 2023 |
+| 36 | Stylized Grass Material Inside Substance Designer 2/4 | 15:33 | 661 | 2023 |
+| 37 | Stylized Grass Material Inside Substance Designer 1/4 | 25:08 | 1,5 тыс. | 2023 |
+| 38 | Easy Stylized Cliff Material In Substance Designer! | 0:27 | 8,2 тыс. | 2023 |
+| 39 | Making Materials In Substance Designer Is Easy | 26:31 | 1,7 тыс. | 2022 |
+| 40 | Cobblestone Cliff Material Tutorial in Substance Designer #5 Free SBS file in description | 5:33 | 338 | 2022 |
+| 41 | Sand Material Tutorial in Substance Designer #1 Free SBS File | 12:59 | 1,2 тыс. | 2022 |
+| 42 | Mars Cliff Material Tutorial in Substance Designer #4 Free SBS file in description | 12:03 | 577 | 2022 |
+| 43 | Metal Material Tutorial in Substance Designer #1 - Free SBS file in the Description | 11:05 | 321 | 2022 |
+| 44 | Sandy Cliff Material Tutorial in Substance Designer #3 - Free SBS file in the Description | 13:36 | 563 | 2022 |
+| 45 | Substance Designer Cliff Material Tutorial #2 Free SBS file in description! | 13:39 | 1,8 тыс. | 2022 |
+| 46 | Substance Designer Cliff Material Tutorial with a Free SBS file! |  | 1,7 тыс. | 2022 |
+ 
+ 
+--- 
+ 
 # Gorka Games
 
 Soy un Game Developer con más de 7 años de experiencia en Unity y Unreal Engine, y tengo un proyecto comercial en Steam (Bromeliad). Hago tutoriales fáciles de seguir y avanzados en Unreal Engine 5, para ayudarte a crear tus juegos y convertirte en un desarrollador de juegos exitoso.
@@ -8986,6 +9057,181 @@ https://vk.com/mineevph
  
 --- 
  
+# Proj Prod
+
+This channel is Unreeaal!
+ProjProd is your ultimate channel for all the little subtleties on Unreal Engine.
+I'm Stéphane, a Solution Architect in Animation for Epic Games & an Authorized Unreal Instructor, and I'm here to share my knowledge and expertise with you every Tuesday :)!
+On this channel, you'll find a wide range of content tailored to help you master the art of Unreal Engine development. Whether you're a beginner looking to get started or an experienced developer seeking advanced techniques, this is the place for you.
+I'll also provide insights and tips based on my professional experience, sharing best practices and industry secrets that can take you to the next level.
+Don't forget to hit that subscribe button and enable notifications, so you never miss out on any exciting Unreal Engine content. Join our community of passionate developers, artists, and creators, and let's embark on this incredible journey together.
+Дополнительная информация
+
+**Страна:** Франция
+**Дата регистрации:** 6 авг. 2022 г.
+**Подписчиков:** 19100
+**Видео:** 252
+**Всего просмотров:** 1533431
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Лучший способ добавить НОВЫЙ Material Slot к вашему Mesh \| Unreal Engine 5.7 | 28:44 | 1 тыс. | март 2026 |
+| 2 | Proj Prod и On Mars 3D | 15:12 | 2,1 тыс. | март 2026 |
+| 3 | Создайте РЕАЛИСТИЧНУЮ атмосферу ужаса в Unreal Engine 5.7 (Простая настройка) | 24:09 | 957 | март 2026 |
+| 4 | RBF Interpolation VS Spherical Pose Reader \| Unreal Engine 5.7 | 10:45 | 2,5 тыс. | март 2026 |
+| 5 | Мастер-класс по Rigging от Epic ОГРОМНЫЙ! Полный разбор \| Unreal Engine 5.7 | 25:06 | 6,7 тыс. | март 2026 |
+| 6 | Полный РИГ АВТОМОБИЛЯ в Unreal Engine 5.7 \| С нуля до профи! | 14:59 | 2,4 тыс. | март 2026 |
+| 7 | Morph Targets на 100% внутри Unreal Engine 5.7 \| DCC больше не требуется! | 21:20 | 3,5 тыс. | январь 2026 |
+| 8 | Почему ваши ВРАЩЕНИЯ ломаются в Unreal Engine 5.7 (Gimbal Lock объяснён) | 18:49 | 1,7 тыс. | январь 2026 |
+| 9 | Post Process Volume \| Полное руководство \| Unreal Engine 5.7 | 12:01 | 4 тыс. | январь 2026 |
+| 10 | Unreal в Blender \| Экспорт DEFORMER Animations \| Unreal Engine 5.7 | 34:45 | 1,8 тыс. | январь 2026 |
+| 11 | Полный урок по Skeletal Mesh Editor \| Unreal Engine 5.7 | 59:02 | 9 тыс. | январь 2026 |
+| 12 | Полный 3D Character Workflow \| Unreal Engine 5.7, Blender & ZBrush | 10:13 | 5,3 тыс. | январь 2026 |
+| 13 | Полный рабочий процесс анимации в Unreal Engine 5 \| Лучшие практики | 10:13 | 13 тыс. | январь 2026 |
+| 14 | Снег FX с использованием Niagara System \| Unreal Engine 5.7 | 6:19 | 1 тыс. | декабрь 2025 |
+| 15 | CONTROL RIG Physics и Animation в Unreal Engine 5.7 | 6:47 | 6,9 тыс. | декабрь 2025 |
+| 16 | Reverse Foot Rig в Unreal Engine 5.7 \| RIG IT! | 6:05 | 2,3 тыс. | декабрь 2025 |
+| 17 | Профессиональный проект АНИМАЦИИ в Unreal Engine 5.7 \| Agora Studio | 4:09 | 9,5 тыс. | декабрь 2025 |
+| 18 | Stepped Animation как у Dollman в Death Stranding \| Unreal Engine 5.7 | 5:01 | 4,9 тыс. | ноябрь 2025 |
+| 19 | Selection Sets для АНИМАЦИИ \| Unreal Engine 5.7 | 7:22 | 3,9 тыс. | ноябрь 2025 |
+| 20 | Урок о НОВОМ Procedural Vegetation/Foliage Editor \| Unreal Engine 5.7 | 6:51 | 12 тыс. | ноябрь 2025 |
+| 21 | Unreal Engine 5.7 CONTROL RIG Учебник \| Новые функции объяснены | 7:09 | 9 тыс. | октябрь 2025 |
+| 22 | Что нового?! Unreal Engine 5.7 PREVIEW | 5:30 | 27 тыс. | октябрь 2025 |
+| 23 | Backwards Solve в Unreal Engine 5.6 | 6:59 | 3,3 тыс. | октябрь 2025 |
+| 24 | PROCEDURAL анимация в Unreal Engine 5 | 6:09 | 23 тыс. | сентябрь 2025 |
+| 25 | Умная настройка POLE VECTORS в Control Rig \| Unreal Engine 5 | 12:34 | 3,3 тыс. | сентябрь 2025 |
+| 26 | Стилизация METAHUMAN с помощью плагина MAYA \| Unreal Engine 5 | 13:16 | 10 тыс. | сентябрь 2025 |
+| 27 | Настройка освещения \| Осветить сцену с нуля в Unreal Engine 5 | 12:09 | 9,2 тыс. | сентябрь 2025 |
+| 28 | Как RIG ГЛАЗА с помощью Control Rig в Unreal Engine 5 \| RIG IT! | 6:56 | 5,7 тыс. | сентябрь 2025 |
+| 29 | Правильно НАСТРОЙТЕ рабочее пространство для анимации \| Unreal Engine 5 | 8:42 | 5,5 тыс. | август 2025 |
+| 30 | Из Blender в Unreal 5 \| Освойте экспорт и импорт RIG | 16:28 | 16 тыс. | август 2025 |
+| 31 | Освойте излучающие материалы в Unreal Engine 5 (правильный способ!) | 7:18 | 4 тыс. | август 2025 |
+| 32 | К бесконечности и Space Switch! \| Unreal Engine 5 Animation Tips | 10:22 | 5,6 тыс. | август 2025 |
+| 33 | FK IK Switch в Control Rig \| Unreal Engine 5 | 9:13 | 9,9 тыс. | июль 2025 |
+| 34 | Умное RIGGING в Unreal Engine 5 \| Procedural Controls и IK с Functions | 3:11 | 10 тыс. | июль 2025 |
+| 35 | Настройте свои CONTROL RIG Shapes в Unreal Engine 5 | 12:19 | 3,6 тыс. | июль 2025 |
+| 36 | НОВЫЙ Control Rig PHYSICS в Unreal Engine 5.6 | 4:23 | 35 тыс. | июль 2025 |
+| 37 | Unreal Engine 5.6 \| Советы по презентации, которые должен знать каждый инструктор | 15:07 | 2,1 тыс. | июнь 2025 |
+| 38 | Учебник по Anim PICKER в Unreal Engine 5.6 | 1:33 | 6,5 тыс. | июнь 2025 |
+| 39 | STATE OF UNREAL 5.6 Quick Highlights | 3:42 | 2,2 тыс. | июнь 2025 |
+| 40 | Новые Motion Trails в Unreal Engine 5.6 | 6:38 | 9 тыс. | июнь 2025 |
+| 41 | Библиотека анимаций поз в Unreal Engine 5.6 | 9:18 | 10 тыс. | июнь 2025 |
+| 42 | Почему стоит полностью анимировать в Unreal Engine 5.6! | 7:33 | 36 тыс. | июнь 2025 |
+| 43 | Unreal Engine 5.6 почти здесь! Революция анимации продолжается! | 4:46 | 33 тыс. | май 2025 |
+| 44 | Лёгкая починка рига в Unreal Engine \| Редактирование скелетной сетки (Root Bone) | 10:35 | 14 тыс. | май 2025 |
+| 45 | Лучший способ использовать Motion Design для анимации в Unreal Engine 5 | 4:56 | 4,3 тыс. | май 2025 |
+| 46 | (Пещера, Среда Плотника, Убийца) Бесплатные ассеты \| Апрель 2025 🎁 \| FAB \| Unreal Engine | 7:38 | 993 | 2025 |
+| 47 | Импорт и настройка Morph Target \| Unreal Engine 5.5 | 9:30 | 11 тыс. | 2025 |
+| 48 | Множественные анимации с CONTROL RIG \| Динамическая цепь \| Unreal Engine 5 | 2:48 | 16 тыс. | 2025 |
+| 49 | (Запад, Танк, Крепость) Бесплатные Ассеты \| Март 2025 🎁 \| FAB Free Content \| Unreal Engine | 7:53 | 664 | 2025 |
+| 50 | Создайте стилизованную анимацию в Unreal Engine 5 с материалом OUTLINE | 2:55 | 4,4 тыс. | 2025 |
+| 51 | Лучший совет для ОТРАЖЕНИЙ с использованием SKYLIGHT в Unreal Engine 5 | 2:55 | 3,5 тыс. | 2025 |
+| 52 | CONTROL RIG & FUR Groom \| Премиум-урок \| Unreal Engine 5.7 | 11:15 | 27 тыс. | 2025 |
+| 53 | NANITE Landscape Displacement Material in Unreal Engine 5 | 4:49 | 9,8 тыс. | 2025 |
+| 54 | Кривые Анимации (Tweens Tool) в Unreal Engine 5 | 16:55 | 4,5 тыс. | 2025 |
+| 55 | Лучшие Решения FIRE \| Unreal Engine 5 | 5:52 | 6,2 тыс. | 2025 |
+| 56 | Кинематографический DEPTH OF FIELD в Unreal Engine 5 | 7:32 | 14 тыс. | 2025 |
+| 57 | Ограничение Анимации в Unreal Engine 5 | 9:51 | 6,8 тыс. | 2025 |
+| 58 | Запись Анимации \| Take Recorder в Unreal Engine 5 | 11:49 | 10 тыс. | 2025 |
+| 59 | Мастерство АНИМАЦИОННОГО WORKFLOW в Unreal Engine 5 | 4:54 | 65 тыс. | 2025 |
+| 60 | НОВАЯ Система Слоёв Анимации \| Unreal Engine 5 | 12:06 | 18 тыс. | 2025 |
+| 61 | НОВЫЙ Анимационный Деформер \| Unreal Engine 5 | 2:17 | 20 тыс. | 2025 |
+| 62 | Unreal Engine Short Film by our Students \| Gobelins Paris 2024 | 14:51 | 737 | 2025 |
+| 63 | Полный учебник по NANITE \| Unreal Engine 5 | 3:27 | 26 тыс. | 2025 |
+| 64 | Ноябрь 2024 🎁 \| Бесплатный Контент \| Unreal Engine FAB | 8:39 | 1,1 тыс. | 2025 |
+| 65 | Лучшие решения по воде \| Unreal Engine 5 (FAB, плагины, бесплатно, премиум) | 2:42 | 67 тыс. | 2025 |
+| 66 | Мех и анимация в реальном времени с Unreal Engine 5.5 | 15:51 | 6,8 тыс. | 2025 |
+| 67 | Реалистичный Эффект Разрушения \| Unreal Engine 5 | 4:07 | 35 тыс. | 2025 |
+| 68 | October 2024 🎁 \| Free for the Month \| Unreal Engine | 10:57 | 558 | 2025 |
+| 69 | Unreal Engine 5.5 — это БУДУЩЕЕ 🚨! Nanite Skeletal Mesh и многое другое! | 2:20 | 7,8 тыс. | 2025 |
+| 70 | CactoPistola \| Unreal Engine 5 \| Western Animation \| Short Film | 26:04 | 1,7 тыс. | 2025 |
+| 71 | Full CONTROL RIG Tutorial \| Unreal Engine 5 | 16:06 | 16 тыс. | 2025 |
+| 72 | Влияние Unreal Engine на рабочие процессы анимации игр | 6:07 | 911 | 2025 |
+| 73 | Black Myth Wukong и Unreal Engine 5 побили все рекорды! | 0:24 | 2,2 тыс. | 2025 |
+| 74 | Animation \| Cat CONTROL Rig / FUR Setup \| Unreal Engine 5 | 5:12 | 9,9 тыс. | 2025 |
+| 75 | August 2024 🎁 \| Free for the Month \| Unreal Engine | 1:47 | 2,2 тыс. | 2025 |
+| 76 | Unreal Engine Short Film by our Students \| Gobelins Paris 2024 | 8:50 | 697 | 2025 |
+| 77 | Вода из Blender в Unreal Engine 5 💦 \| Экспорт Alembic | 0:36 | 10 тыс. | 2025 |
+| 78 | Mr Drop that flows 💧 \| Unreal Engine 5 \| Water Fluids Animation \| Short Film | 3:17 | 1,3 тыс. | 2025 |
+| 79 | How to MIGRATE ASSETS in Unreal Engine 5 💥 | 4:10 | 3,2 тыс. | 2025 |
+| 80 | July 2024 🎁 \| Free for the Month \| Unreal Engine | 6:15 | 668 | 2025 |
+| 81 | Линейный контент \| Как управлять вашими ПРОЕКТАМИ \| Unreal Engine 5 🌟 | 9:09 | 1,8 тыс. | 2025 |
+| 82 | Unreal Engine 5 War Film by our Student Samy \| Proj Production | 2:26 | 951 | 2025 |
+| 83 | СУМАСШЕДШИЙ! 💥 Получите +500 бесплатных образцов AAA анимации \| Совпадение движения Unreal Engine 5 | 10:02 | 1,3 тыс. | 2025 |
+| 84 | УСТАНОВКА и Начальная НАСТРОЙКА ⚠️ Перед началом работы с Unreal Engine 5 🚀 | 5:57 | 759 | 2025 |
+| 85 | Создание ГАЛАКТИК / Космической среды 🌟 \| Unreal Engine 5 \| HDRI Skybox | 3:16 | 6,3 тыс. | 2025 |
+| 86 | Make a realistic LIGHT Animation \| Unreal Engine 5 | 0:50 | 1,2 тыс. | 2025 |
+| 87 | I Remade SUPER MARIO GALAXIE in Unreal Engine 5 💥 | 10:03 | 7,5 тыс. | 2025 |
+| 88 | Revolutionize your ANIMATION workflow in Unreal Engine 5 | 0:22 | 2,4 тыс. | 2025 |
+| 89 | FALLOUT \| Vault Boy Animation 💥\| Unreal Engine 5 | 3:10 | 1,5 тыс. | 2025 |
+| 90 | May 2024 🎁 \| Free for the Month \| Unreal Engine | 12:23 | 755 | 2025 |
+| 91 | Well… CUSTOM GRAVITY in Unreal Engine 5 is 🤯 | 0:45 | 12 тыс. | 2025 |
+| 92 | WOODY Upside Down ??? 🙃\| Unreal Engine 🌟 | 5:09 | 3,1 тыс. | 2025 |
+| 93 | Unreal Engine Short Film by our Students \| Gobelins Paris 2024 | 4:21 | 1,7 тыс. | 2025 |
+| 94 | The most REALISTIC GAME of all time? 🚨\| Empire of the Ants \| Unreal Engine 5 | 4:55 | 1,9 тыс. | 2025 |
+| 95 | НОВЫЙ Многослойный Контрольный Риг 💥 \| Unreal Engine 5.4 | 4:23 | 11 тыс. | 2025 |
+| 96 | MIXAMO \| Модульный Контрольный Риг 💥 \| Unreal Engine 5.4 | 6:10 | 14 тыс. | 2024 |
+| 97 | The FUTURE of Animation \| MODULAR Control Rig \| Unreal Engine 5 | 3:54 | 6,7 тыс. | 2024 |
+| 98 | April 2024 🎁 \| Free for the Month \| Unreal Engine | 3:12 | 518 | 2024 |
+| 99 | Создание Божьих Лучей \| Unreal Engine 5 | 3:03 | 33 тыс. | 2024 |
+| 100 | VERTEX Painting with NANITE Displacement \| Unreal Engine 5 | 4:13 | 3,9 тыс. | 2024 |
+| 101 | NANITE Dynamic Tessellation / Displacement \| Unreal Engine 5 | 5:49 | 3,6 тыс. | 2024 |
+| 102 | Это будет безумие! Новый Unreal 5.4 — это революция! 💥 | 4:29 | 635 | 2024 |
+| 103 | Как изменить Точку Вращения в Unreal Engine 5 | 6:52 | 13 тыс. | 2024 |
+| 104 | GDC is coming.. Unreal Engine 5.4 \| AVALANCHE and more! | 5:59 | 21 тыс. | 2024 |
+| 105 | TOP 10 Ultra-Realistic Games on Unreal Engine 💥 | 3:52 | 763 | 2024 |
+| 106 | March 2024 \| Free for the Month \| Unreal Engine | 8:43 | 884 | 2024 |
+| 107 | I Made a Video Game in 2 HOURS! \| UEFN \| Unreal Engine 5 | 8:29 | 2,5 тыс. | 2024 |
+| 108 | Blueprint Tool for Dynamic Material Instance \| Unreal Engine 5 | 8:48 | 5,2 тыс. | 2024 |
+| 109 | Opening Doors using Blueprints \| Unreal Engine 5 | 7:21 | 1,1 тыс. | 2024 |
+| 110 | Пользовательские Рендер-Пассы \| AOV \| Unreal Engine 5 | 9:16 | 27 тыс. | 2024 |
+| 111 | Blueprints Lights Trigger for Video Games \| Unreal Engine 5 | 0:24 | 1,2 тыс. | 2024 |
+| 112 | Chic Chick \| Unreal Engine 5 \| Chicken Animation \| Short Film | 0:49 | 729 | 2024 |
+| 113 | CREATE your OWN GAME here in Unreal Engine 5 | 0:15 | 630 | 2024 |
+| 114 | Oscar is on fire \| Unreal Engine 5 \| Cat Animation \| Short Film | 2:32 | 3 тыс. | 2024 |
+| 115 | LOCAL FOG in Unreal Engine 5 | 2:48 | 2,1 тыс. | 2024 |
+| 116 | Unreal Engine Short Film by our Students \| The animation workshop 2024 | 9:04 | 425 | 2024 |
+| 117 | Шейдер Воды \| Уровень с Blueprint \| Ассет Megascans в Unreal Engine 5 | 4:32 | 1,4 тыс. | 2024 |
+| 118 | Custom TEMPLATE in Unreal Engine 5 | 5:36 | 984 | 2024 |
+| 119 | Unreal Engine Short Film by our Students \| EPIC Bootcamp 2023 | 4:55 | 483 | 2024 |
+| 120 | Unreal Engine 6 \| ВЫ ГОТОВЫ??? | 4:50 | 10 тыс. | 2024 |
+| 121 | Details panel SECRETS in Unreal Engine 5! | 3:12 | 1,3 тыс. | 2024 |
+| 122 | January 2024 \| Free for the Month \| Unreal Engine | 8:04 | 245 | 2024 |
+| 123 | Best CINEMATIC workflow with SEQUENCER \| Unreal Engine 5 | 5:29 | 8 тыс. | 2024 |
+| 124 | RIG and ANIMATE in Unreal Engine 5 | 3:53 | 3,9 тыс. | 2024 |
+| 125 | RealityCapture x Unreal Engine 5 The Photogrammetry Result Will Blow Your Mind! | 9:00 | 492 | 2024 |
+| 126 | LUMEN Full Tutorial \| Unreal Engine 5 | 5:29 | 13 тыс. | 2024 |
+| 127 | Unreal Engine 5.4 is PROMISING! | 1:43 | 7,7 тыс. | 2024 |
+| 128 | Find Blueprint Node Names Fast in Unreal Engine 5 | 2:28 | 830 | 2024 |
+| 129 | Post Process Volume in 140 seconds! \| Unreal Engine 5 | 2:16 | 26 тыс. | 2024 |
+| 130 | Dynamic Viewpoints Without Cameras \| Unreal Engine 5 Smart Setup | 15:57 | 835 | 2024 |
+| 131 | CONTROL RIG Tutorial \| IK Controls \| Unreal Engine 5 | 2:49 | 6,7 тыс. | 2024 |
+| 132 | October 2023 \| Free for the Month \| Unreal Engine | 21:27 | 757 | 2024 |
+| 133 | CONTROL RIG Tutorial \| FK Controls \| Unreal Engine 5 | 11:47 | 12 тыс. | 2024 |
+| 134 | Тесселяция Ландшафта с NANITE \| Unreal Engine 5 | 24:17 | 20 тыс. | 2024 |
+| 135 | How to Master METAHUMAN like a Boss 💥 \| Unreal Engine 5 | 3:17 | 3,9 тыс. | 2024 |
+| 136 | September 2023 \| Free for the Month \| Unreal Engine | 6:15 | 313 | 2024 |
+| 137 | Unreal Engine 5.3 is the FUTURE 🚨 ! Skeletal Editor Tutorial | 0:34 | 29 тыс. | 2024 |
+| 138 | Barbie House Tour in Unreal Engine 5 | 5:22 | 1 тыс. | 2024 |
+| 139 | Displacement Map \| Unreal Engine 5 | 5:34 | 2,3 тыс. | 2024 |
+| 140 | 5 лучших советов для ускорения и экономии времени в Unreal Engine | 2:46 | 614 | 2024 |
+| 141 | August 2023 \| Free for the Month \| Unreal Engine | 3:04 | 318 | 2024 |
+| 142 | Unreal Engine 5.3 is.. OUT! | 1:12 | 3,1 тыс. | 2024 |
+| 143 | Castle Ruins Pack Photogrammetry - Unreal Engine 5 | 15:28 | 1 тыс. | 2024 |
+| 144 | Cinematic Camera movement - Unreal Engine 5 | 2:54 | 5,4 тыс. | 2024 |
+| 145 | Nanite Shadows using Raytracing - Unreal Engine 5 | 10:51 | 5,4 тыс. | 2024 |
+| 146 | Simplest way to use Fracture / Chaos in Sequencer - Unreal Engine 5 | 8:09 | 11 тыс. | 2024 |
+| 147 | Scatter with Physics - Unreal Engine 5 | 10:18 | 1,2 тыс. | 2023 |
+| 148 | The keys for using Alembic Cache from Blender to Unreal Engine 5 | 5:53 | 12 тыс. | 2023 |
+| 149 | Creepy Camera Shake in Unreal Engine 5! |  | 1,3 тыс. | 2023 |
+ 
+ 
+--- 
+ 
 # Tom Looman
 
 Unreal Engine Tutorials & GameDev Videos
@@ -9645,6 +9891,103 @@ Let’s build it right.
 | 96 | 03. Упаковка Blueprint проекта в один клик в Jenkins. Автоматизация UE. | 36:27 | 4,8 тыс. | 2021 |
 | 97 | 02. Собираем UE4 из исходников в один клик. Автоматизация UE. | 6:26 | 10 тыс. | 2021 |
 | 98 | 01. Автоматизация Unreal Engine. Введение. |  | 14 тыс. | 2021 |
+ 
+ 
+--- 
+ 
+# Rambod Dev
+
+Unreal Engine 5 (UE5) Game Development Tutorials for Modular, Plug-and-Play Systems.
+Welcome to the ultimate resource for Unreal Engine 5 developers. This channel provides surgical, self-contained system tutorials built with clean C++ and Blueprints.
+We focus on mastering high-demand systems, including:
+- Gameplay: Weapon Systems, Aiming Setup, Enhanced Input, RTS Camera, and reusable components.
+- AI & Animation: Enemy AI (Behavior Trees & Blackboard), Animation Blueprint, and Retargeting.
+- Performance & Visuals: Performance Optimization (Custom LODs), VR Performance, and Lighting Tutorials.
+- UI & UX: Modular UI Widgets and UMG solutions.
+Why this channel saves you time: Every video teaches a complete building block you can drop into your UE5 game. All project files and code are available on GitHub.
+Join the Community on Discord for help and sharing your builds.
+Unreal Engine 5 | UE5 Tutorial | Game Development | Blueprint | C++ | Performance Optimization
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Турция
+**Дата регистрации:** 25 мая 2024 г.
+**Подписчиков:** 2420
+**Видео:** 126
+**Всего просмотров:** 277224
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Make AI Damageable in Unreal Engine 5 Using a Modular Health Component | 22:14 | 814 | март 2026 |
+| 2 | How to Make Destructible Objects in Unreal Engine 5 Chaos Destruction | 20:37 | 957 | март 2026 |
+| 3 | Modular Health System in Unreal Engine 5 Reusable Actor Component Blueprint | 10:54 | 524 | март 2026 |
+| 4 | Add Real Impact to Every Shot in UE5 (Physics Impulse) | 9:06 | 828 | январь 2026 |
+| 5 | Create High Quality Decals in Unreal Engine Using AI Textures | 8:55 | 222 | январь 2026 |
+| 6 | The Easiest Way to Create Bullet Hole Impacts in Unreal Engine With AI Generated Textures | 6:15 | 924 | январь 2026 |
+| 7 | Mac mini M4 Game Dev Benchmark Unity HDRP FPS vs Unreal Engine | 6:22 | 2,8 тыс. | январь 2026 |
+| 8 | UE5 Weapon System – Spawning Niagara Muzzle Flash on Fire | 11:08 | 1,7 тыс. | январь 2026 |
+| 9 | How to Make Clean Switchable Tabs in Unreal Engine 5.7 (Widget Switcher Guide) | 13:36 | 4,9 тыс. | декабрь 2025 |
+| 10 | UE5 Weapon System – Line Trace Shooting, FirePoint and Fire Montage | 20:08 | 1,5 тыс. | декабрь 2025 |
+| 11 | UE5 Weapon System – Aiming, Retarget, Blend Upper Body, and Switch Cameras | 5:19 | 1,9 тыс. | декабрь 2025 |
+| 12 | Fix Unreal Engine Lag: Create Custom LODs (No Blender Needed!) |  | 595 | ноябрь 2025 |
+| 13 | UE5 Weapon System – from SCRATCH: Pickup & Equip (UE5) | 23:08 | 4,1 тыс. | ноябрь 2025 |
+| 14 | Unreal Engine 5 Lighting Explained – Point, Spot, Rect & Directional Lights Full Guide |  | 1,2 тыс. | октябрь 2025 |
+| 15 | Unreal Engine 5 Create Stunning Glass Blur UI Widgets in Minutes |  | 4 тыс. | октябрь 2025 |
+| 16 | Part 7 – RTS Camera Edge Scrolling – Smooth Mouse Movement |  | 1,8 тыс. | октябрь 2025 |
+| 17 | Mac Mini M4 Takes on Unreal Engine 5 in a Performance Battle \| Minisopuru MINI4PRO Hub |  | 4 тыс. | октябрь 2025 |
+| 18 | Make Actors Face the Player (Find Look at Rotation) in Under 3 Minutes | 4:53 | 1,2 тыс. | сентябрь 2025 |
+| 19 | Part 6 – RTS Camera Boundaries – Master Your Map's Limits! | 2:25 | 1,7 тыс. | август 2025 |
+| 20 | Can The Mac Mini M4 REALLY Run Unreal Engine 5.6 Smoothly For $599? | 17:11 | 8 тыс. | август 2025 |
+| 21 | Unreal Engine 5 Enemy AI #4 – Build a Distraction System Throwable Objects, Noise, and AI Hearing | 12:54 | 5,2 тыс. | август 2025 |
+| 22 | Unreal Engine 5 Enemy AI #3 – Chasing the Player & Forgetting System | 8:24 | 7 тыс. | август 2025 |
+| 23 | Unreal Engine 5 Enemy AI #2 – Patrol Paths, NavMesh & Animation Fix Blueprint Only | 4:43 | 7,2 тыс. | август 2025 |
+| 24 | Unreal Engine 5 Enemy AI Series #1 – Setting Up Enemy Blueprint & AI Sight Blueprint Only | 5:48 | 12 тыс. | август 2025 |
+| 25 | Part 5 – How To Make Your RTS Camera Follow Terrain in Unreal Engine 5! | 1:21 | 1,8 тыс. | август 2025 |
+| 26 | How To Make an RTS Camera in Unreal Engine 5 So Easy! | 6:51 | 6,9 тыс. | август 2025 |
+| 27 | Part 4 – How To Create Smooth Camera Rotation Controls For RTS In Unreal Engine 5 | 2:22 | 2,9 тыс. | август 2025 |
+| 28 | Part 3 – Add Smooth Camera Zoom In & Out To Your RTS Game In Unreal Engine 5 | 4:41 | 2,6 тыс. | август 2025 |
+| 29 | Part 2 – Smooth WASD Camera Movement For Your RTS Game In Unreal Engine 5 | 4:59 | 3,3 тыс. | август 2025 |
+| 30 | Part 1 – How To Start Your RTS Game In Unreal Engine 5.6 (Project Setup + Enhanced Input) | 9:30 | 4,7 тыс. | август 2025 |
+| 31 | Easiest Way To Use APIs In Unreal Engine For Beginners | 2:29 | 1,6 тыс. | июль 2025 |
+| 32 | How to Make Unreal Engine Coding Way Easier With Rider! | 7:24 | 2,3 тыс. | июль 2025 |
+| 33 | CLion Just Made Raylib Setup Too Easy | 6:10 | 5,2 тыс. | июль 2025 |
+| 34 | Add Global Functions To Blueprints In Seconds! | 4:59 | 322 | июль 2025 |
+| 35 | How to Set Up Git & GitHub Desktop for Unreal Engine 5 LFS Guide | 9:30 | 5,6 тыс. | июнь 2025 |
+| 36 | TileView Unreal Engine 5 – Dynamic UI with Blueprints & Structs | 2:14 | 4,1 тыс. | июнь 2025 |
+| 37 | Border – Wrap and Style UI Blocks | 2:58 | 3,9 тыс. | июнь 2025 |
+| 38 | Scroll Box in Unreal Engine UI – Effortless Scrollable Menus and Lists | 2:50 | 6,5 тыс. | июнь 2025 |
+| 39 | Wrap Box in Unreal Engine UI | 4:27 | 1,3 тыс. | июнь 2025 |
+| 40 | Uniform Grid Panel in Unreal Engine UI | 5:56 | 3,2 тыс. | июнь 2025 |
+| 41 | Easy Grid Panel Tricks for Unreal Engine Beginners! | 2:43 | 3,7 тыс. | июнь 2025 |
+| 42 | Overlay in Unreal Engine UI – Build Layered Widget Cards | 4:30 | 3,2 тыс. | июнь 2025 |
+| 43 | Make Your Game Look Awesome With This Simple Fade Trick! | 2:36 | 823 | май 2025 |
+| 44 | Vertical Box in Unreal Engine UI – Clean Rows with Centered Layouts | 2:57 | 1,2 тыс. | май 2025 |
+| 45 | Horizontal Box in Unreal Engine UI – Build Clean Row Layouts | 3:30 | 1,4 тыс. | май 2025 |
+| 46 | Learn Unreal Engine Canvas Panel in 3 Minutes! | 27:29 | 2,8 тыс. | май 2025 |
+| 47 | Unreal Engine Blueprint Inventory Systems in Under 30 Minutes! | 7:04 | 4,2 тыс. | май 2025 |
+| 48 | Smooth Fade UI Animation in Unreal Engine (Beginner Friendly Tutorial) | 1:47 | 2,7 тыс. | май 2025 |
+| 49 | The Fastest Way to Get High-Res Screenshots in Unreal Engine 5 | 4:50 | 973 | май 2025 |
+| 50 | How to Make a Save System in Unreal Engine 5 – Blueprint Tutorial (4 Minutes) | 7:11 | 1,2 тыс. | май 2025 |
+| 51 | Speed Up Unreal Engine Development With Better Shader Settings | 11:24 | 749 | 2025 |
+| 52 | Unreal Engine Sprint & Stamina System Without Event Tick – Optimized Performance | 9:10 | 1,9 тыс. | 2025 |
+| 53 | Unreal Engine 5 Drop Waypoints & Measure Distance in Meters | 3:58 | 925 | 2025 |
+| 54 | ChatGPT vs DeepSeek - AI Battle: Who Wrote the Better C++ Game? | 2:20 | 327 | 2025 |
+| 55 | Unreal Engine 5 High Quality Image Rendering with Path Tracing | 3:10 | 15 тыс. | 2025 |
+| 56 | Export Your Navisworks Model to Unreal Engine in Minutes! | 18:48 | 1,6 тыс. | 2025 |
+| 57 | Unreal Engine RTS Camera Setup: Smooth Movement & Controls #UnrealEngine #RTSCamera | 6:46 | 3,9 тыс. | 2025 |
+| 58 | How CMake, vcpkg, and JSON Work Together: Explained for C++ Developers | 4:35 | 2,8 тыс. | 2025 |
+| 59 | Unreal Engine 5.5: Simple Door Animation Tutorial | 1:58 | 3,3 тыс. | 2025 |
+| 60 | Unreal Engine 5 Moving Platform Tutorial | 2:20 | 265 | 2025 |
+| 61 | Unreal Engine 5.5: Display Real-Time Clock in Your Game \| Easy Tutorial #unrealengine5 #clock | 7:58 | 2,5 тыс. | 2025 |
+| 62 | C++ Project Setup Made Simple: Raylib, CMake, and VSCode Guide | 5:32 | 7,4 тыс. | 2025 |
+| 63 | Get a Health Bar in Just 5 Minutes with Unreal Engine 5.5! | 2:03 | 791 | 2025 |
+| 64 | Unreal Engine 5.5: Display FPS Using Widget Blueprint \| Quick Tutorial |  | 395 | 2025 |
+| 65 | Unreal Engine 5.5 MegaLights Tutorial \| Boost FPS with One Setting! | 2:09 | 258 | 2025 |
+| 66 | Create Dynamic Day Night Cycles in Unreal Engine 5.5 with Day Sequence |  | 589 | 2025 |
  
  
 --- 
@@ -10446,6 +10789,82 @@ I cover basic and advanced stuff, always spiced with some extra stuff that usual
  
 --- 
  
+# Mootzart
+
+I am Mootzart, (Jake). I am a video game environment artist and 3D modeller + generalist. I work for Microprose and Im also working on my own ambitious game project.
+This channel will be any educational content that I produce. When I can, I will be delving into my learning experiences and all that I learn ranging from 3D modelling, game development to sound design and music. As well as showcasing some personal projects and work related stuff when im able to show.
+
+**Страна:** Великобритания
+**Дата регистрации:** 5 окт. 2014 г.
+**Подписчиков:** 2790
+**Видео:** 63
+**Всего просмотров:** 211478
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Unreal Engine 5.6 : Landscape Mesh Culling | 12:58 | 995 | ноябрь 2025 |
+| 2 | Unreal Engine 5.6 - Landscape Material - Layer Issue Fix and View Modes | 12:28 | 1,6 тыс. | сентябрь 2025 |
+| 3 | Heightmap Start Pack Variety Demo: Unreal Engine 5.5 FAB product | 12:44 | 642 | 2025 |
+| 4 | Unreal Engine 5.5 : UCX Collision | 1:24 | 1,9 тыс. | 2025 |
+| 5 | Mootzart и Tecastus | 1:02 | 606 | 2025 |
+| 6 | Mootzart и Tecastus | 2:01 | 758 | 2025 |
+| 7 | Mootzart и Tecastus | 16:44 | 464 | 2025 |
+| 8 | Unreal Engine 5: Beginner : Basic Material For Static Mesh | 27:23 | 380 | 2025 |
+| 9 | Unreal Engine 5.5 - 100km x 100km Tutorial - Open World Landscape Tutorial | 2:54 | 20 тыс. | 2025 |
+| 10 | Unreal Engine 5.5 - Batch Rename Assets | 10:17 | 1,9 тыс. | 2025 |
+| 11 | Unreal Engine 5 - Modelling Tools - Cube Grid (Part 2) | 28:45 | 515 | 2025 |
+| 12 | Unreal Engine 5 - Modelling Tools - Create (Part 1) | 9:27 | 1 тыс. | 2025 |
+| 13 | Unreal Engine 5 - Import 8k Heightmaps Tutorial Part 5 (Free Heightmaps) | 10:39 | 2,7 тыс. | 2025 |
+| 14 | Unreal Engine 5 - Import 4k Heightmaps Tutorial Part 4 (Free Heightmaps) | 6:29 | 1,4 тыс. | 2025 |
+| 15 | Unreal Engine 5 - Import 2k Heightmaps Tutorial Part 3 (Free Heightmaps) | 5:42 | 1,1 тыс. | 2025 |
+| 16 | Unreal Engine 5 - Import 1k Heightmaps Tutorial Part 2 (Free Heightmaps) | 13:54 | 1,2 тыс. | 2025 |
+| 17 | Unreal Engine 5 - Import 1k Heightmaps Tutorial Part 1 (Free Heightmaps) | 13:04 | 4,8 тыс. | 2025 |
+| 18 | Unreal Engine 5.4 - HLOD intro - Optimise Landscape #3 - | 9:02 | 12 тыс. | 2025 |
+| 19 | Unreal Engine 5.4 - Optimise Landscape #2 - LODs and Visualiser | 7:04 | 12 тыс. | 2025 |
+| 20 | Unreal Engine 5.4 - Optimise Landscape #1 - World Partition Runtime Settings | 7:47 | 16 тыс. | 2025 |
+| 21 | Unreal Engine 5 - Console Variables | 14:17 | 4 тыс. | 2024 |
+| 22 | Unreal Engine 5.4 - Landscape Regions Explained (Location Volumes) | 9:40 | 6,1 тыс. | 2024 |
+| 23 | Unreal Engine 5: Fog Issue Fix | 34:05 | 2,7 тыс. | 2024 |
+| 24 | Unreal Engine 5.3 - 30kmx30km Tutorial - Open World Landscape Tutorial | 14:23 | 41 тыс. | 2024 |
+| 25 | Unreal Engine 5.3 : Importing Landscapes & Solving Region Bug | 20:09 | 3,5 тыс. | 2024 |
+| 26 | Unreal Engine 5.3 : Landscape Regions for World Partition (Updated) | 14:21 | 4,4 тыс. | 2024 |
+| 27 | Unreal Engine 5.3 : Landscapes and Understanding Settings (Getting Started) | 33:15 | 6,9 тыс. | 2024 |
+| 28 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 6 | 0:24 | 3,3 тыс. | 2024 |
+| 29 | Unreal Engine 5.2 - 20kmx20km Map Test | 6:56 | 3,3 тыс. | 2024 |
+| 30 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 5 | 16:00 | 1,3 тыс. | 2024 |
+| 31 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 4 | 23:54 | 1,4 тыс. | 2024 |
+| 32 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 3 | 28:22 | 2,2 тыс. | 2024 |
+| 33 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 2 | 14:20 | 3,7 тыс. | 2024 |
+| 34 | Unreal Engine 5.3 : Snappy Roads Tutorial : Part 1 | 16:06 | 11 тыс. | 2024 |
+| 35 | Unreal Engine 5.3: Landscape Regions for World Partition Setup | 6:51 | 10 тыс. | 2024 |
+| 36 | Unreal Engine 5: Texture Pool Size: Optimising, Statistics Menu, Bulk Edit Via Property Matrix. | 35:40 | 9,6 тыс. | 2023 |
+| 37 | OneGrass Engine Grass Optimisations - UE5 (5.0.3) Virtual Shadow Maps Beta | 2:58 | 2,5 тыс. | 2023 |
+| 38 | Unity Engine: First Game Level I Ever Made in Unity (Ambitown Prototype 2018) | 2:33 | 49 | 2023 |
+| 39 | Unity Engine: Warbox: Cyberia: Environment Progress (Unity Engine) Dev Log #1 | 1:37 | 178 | 2023 |
+| 40 | Guitar Scales: Lydian (Fourth Mode) E and A Root #guitar | 1:36 | 61 | 2021 |
+| 41 | Guitar Scales: Mixolydian (Fifth Mode) E and A Root | 2:00 | 20 | 2021 |
+| 42 | Guitar Scales: Ionian Scale - Major E and A Root | 1:57 | 52 | 2021 |
+| 43 | Guitar Scales: Dorian Scale (Second Mode) E and A Root | 1:55 | 16 | 2021 |
+| 44 | Guitar Scales: Phrygian (Third Mode) E and A Root | 1:46 | 23 | 2021 |
+| 45 | Guitar Scales: Locrian (Seventh Mode) E and A Root | 1:39 | 20 | 2021 |
+| 46 | Guitar Scales: Aeolian (Sixth Mode) E and A Root | 12:31 | 40 | 2021 |
+| 47 | iZotope Ozone 9 Elements Comparison to Manual Master/Mix (Plugin Plays) | 33:43 | 876 | 2021 |
+| 48 | LogicProMixing 03: EQ (Frequency, MultiMeter, Transparency) | 20:18 | 7 | 2021 |
+| 49 | Logic Pro X Music Mixing 02: Automation (Volume, EQ, FX) | 23:24 | 38 | 2021 |
+| 50 | Logic Pro X Music Mixing 01: Bouncing, Stems, Alternatives, Buffer Size, Freeze Tracks, Meters | 31:41 | 51 | 2021 |
+| 51 | D16 Groups Sigmund Delay - Plugin Play (Unboxing) | 9:16 | 210 | 2020 |
+| 52 | House Of Logic X | 3:59 | 7 | 2020 |
+| 53 | Ark:Survival - PS4 Solum RP - Opening Tour (No Longer Active) | 4:04 | 867 | 2018 |
+| 54 | Ark:Survival - PS4 -Zarthia RP - First Tour (No longer active) | 3:28 | 3,3 тыс. | 2018 |
+| 55 | Blind Gumbo Hopkins Vs Boney Legs Lee - Mootz |  | 73 | 2015 |
+ 
+ 
+--- 
+ 
 # KarltyDEV
 
 I make easy to follow videos on Unreal Engine. Click the Subscribe Button (its free!)
@@ -10637,6 +11056,66 @@ Video tutorial series by Oskar Świerad. https://techartaid.com/
 | 47 | UE4: Stealth Invisibility Effect (With Distortion) | 12:03 | 58 тыс. | 2017 |
 | 48 | UE4: Stylized colors using gradient mapping | 5:29 | 22 тыс. | 2017 |
 | 49 | UE4: How to fix translucent materials (dithered opacity) |  | 123 тыс. | 2017 |
+ 
+ 
+--- 
+ 
+# Virtual Production Insider
+
+Welcome to Virtual Production Insider! This is a dedicated channel to learning the ins and outs of virtual production. Our goal is to create the FREE educational resource that we wish we had when we were getting started in Virtual Production. We've also launched a Discord server in an effort to create a supportive and collaborative community!
+Follow Us:
+Virtual Production Insider - @vpinsider (Instagram & Tiktok)
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Соединенные Штаты
+**Дата регистрации:** 17 апр. 2024 г.
+**Подписчиков:** 29900
+**Видео:** 99
+**Всего просмотров:** 9015636
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Virtual Production Insider и METATAILOR | 16:40 | 271 тыс. | март 2026 |
+| 2 | Virtual Production Insider и Rokoko | 29:57 | 49 тыс. | март 2026 |
+| 3 | Unreal Engine 5 Pushed to Its Limits \| Battlefield Fan Film Behind the Scenes | 41:14 | 6,7 тыс. | январь 2026 |
+| 4 | We Spent 2 months making this Battlefield Bad Company Fan Film in Unreal Engine 5 | 13:34 | 182 тыс. | декабрь 2025 |
+| 5 | EASILY Attach Weapons to Metahumans (Unreal Engine 5.6 Tutorial) | 22:40 | 10 тыс. | ноябрь 2025 |
+| 6 | Virtual Production Insider и WINBUSH | 12:40 | 5,8 тыс. | октябрь 2025 |
+| 7 | Is this the END of Metahumans? (Character Creator 5 Review) | 7:19 | 46 тыс. | октябрь 2025 |
+| 8 | MetaHuman Hair in UE5 Doesn't Have to Look Bad | 11:47 | 16 тыс. | сентябрь 2025 |
+| 9 | This UE5 trick makes vehicle cinematics TOO EASY | 9:31 | 8,6 тыс. | август 2025 |
+| 10 | The Best Tools for Animating Metahumans in Unreal Engine 5.6! | 9:36 | 51 тыс. | август 2025 |
+| 11 | The Prizes for this Short Film Contest are INSANE 🤯 | 10:15 | 15 тыс. | июль 2025 |
+| 12 | Why Your Unreal Renders Don't Look Cinematic (Yet) | 8:02 | 6,9 тыс. | июль 2025 |
+| 13 | Metahumans just got a MASSIVE Upgrade (Unreal Engine 5.6) | 11:05 | 17 тыс. | июнь 2025 |
+| 14 | Virtual Production Insider и REMEDY | 0:46 | 73 тыс. | июнь 2025 |
+| 15 | From 3D to Cinema: The Unreal Engine Film Course Everyone's Talking About | 10:12 | 11 тыс. | май 2025 |
+| 16 | Blur Studio Reveals How They Pushed Unreal Engine to Its Limit | 11:09 | 41 тыс. | май 2025 |
+| 17 | Medieval Combat in UE5 \| How I Created This Cinematic | 21:55 | 10 тыс. | 2025 |
+| 18 | UE5 Movie Render Queue Setup \| From Basics to Pro Settings | 24:11 | 25 тыс. | 2025 |
+| 19 | How to setup VDBs in Unreal Engine 5.5 (VDB and Chaos Fracture Tutorial) | 17:10 | 9,7 тыс. | 2025 |
+| 20 | Custom Metahuman Clothing MADE EASY (UE 5.5) | 18:17 | 46 тыс. | 2025 |
+| 21 | How I Created an Unreal Engine Short Film BY MYSELF | 6:44 | 101 тыс. | 2025 |
+| 22 | Banished (Unreal Engine Short Film) | 14:15 | 41 тыс. | 2025 |
+| 23 | Fixing 5 Common Metahuman Issues (Unreal Engine Tutorial) | 17:34 | 29 тыс. | 2025 |
+| 24 | Recreating BLACK OPS 6 in Unreal Engine | 11:55 | 67 тыс. | 2025 |
+| 25 | How I Created my Kinetic Rush Submission in Unreal Engine (Top 100 Finalist) | 8:46 | 5,1 тыс. | 2025 |
+| 26 | Virtual Production Breakdown: Fallout | 7:37 | 2,4 тыс. | 2025 |
+| 27 | Render Nodes Explained: Build Your Own Setup | 21:02 | 1,2 тыс. | 2025 |
+| 28 | How To Previz in Unreal Engine 5 | 8:25 | 27 тыс. | 2025 |
+| 29 | Recreating Alien Romulus in Unreal Engine 5 | 4:16 | 11 тыс. | 2025 |
+| 30 | Unreal Engine's GAMECHANGING Feature for Building Environments \| (Unreal Engine Tutorial) | 8:46 | 3,5 тыс. | 2025 |
+| 31 | Prelight Days Aren't Optional—Here's Why | 7:20 | 860 | 2025 |
+| 32 | Tips for Optimizing Your Lighting in Unreal Engine | 8:17 | 30 тыс. | 2025 |
+| 33 | Virtual Production Breakdown: The Batman | 5:31 | 7,9 тыс. | 2025 |
+| 34 | 7 Things I Wish I Knew When Getting Started in Virtual Production | 5:06 | 1,1 тыс. | 2025 |
+| 35 | 4 Ways to Add Life to your Unreal Engine Scenes (Unreal Engine Tutorial) | 1:41 | 4,3 тыс. | 2025 |
+| 36 | Welcome to Virtual Production Insider |  | 4,4 тыс. | 2025 |
  
  
 --- 
@@ -12212,6 +12691,289 @@ Copyright information: All content posted to this channel is my own, and is free
  
 --- 
  
+# Quixel
+
+Quixel is a technology leader in 3D asset creation, powering Megascans, the world's largest photogrammetry asset library, now exclusively available on @Fab.
+Makers of Megascans | Part of the Epic Games family.
+Specializing in games, archviz, and VFX industries, Quixel’s meticulously detailed Megascans assets simplify world creation, empowering leading teams and artists in cinematic VFX, AAA game development, and architectural visualization in their most ambitious projects.
+See links below for more details.
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Швеция
+**Дата регистрации:** 24 февр. 2011 г.
+**Подписчиков:** 369000
+**Видео:** 330
+**Всего просмотров:** 49041760
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | и Fab | 0:35 | 3,4 тыс. | март 2026 |
+| 2 | Nordic Rauk Coast \| Quixel Megascans \| Now on @Fab | 0:23 | 3,1 тыс. | март 2026 |
+| 3 | и Fab | 0:34 | 2,3 тыс. | январь 2026 |
+| 4 | Medieval Farm \| Quixel Megascans \| Now on Fab | 1:44 | 3,2 тыс. | январь 2026 |
+| 5 | Quixel Megascans Sizzle Reel 2025 | 34:37 | 7,7 тыс. | январь 2026 |
+| 6 | Megascans Tutorial: Build a Realistic Military Trench Environment from Scratch | 0:53 | 16 тыс. | январь 2026 |
+| 7 | Military Trench \| Free Sample Project \| Now on Fab | 5:47 | 4,7 тыс. | январь 2026 |
+| 8 | Quixel Megaplants in UE 5.7 - Full Workflow Tutorial for PVE (Procedural Vegetation Editor) | 0:29 | 17 тыс. | декабрь 2025 |
+| 9 | Introducing Quixel Megaplants | 0:24 | 8,8 тыс. | ноябрь 2025 |
+| 10 | Animal Bones \| Quixel Megascans \| Now on @Fab | 0:37 | 1,7 тыс. | ноябрь 2025 |
+| 11 | Interior Construction \| Quixel Megascans \| Now on @Fab | 0:35 | 3,5 тыс. | ноябрь 2025 |
+| 12 | Junkyard Vol.2 \| Quixel Megascans \| Now on @Fab | 0:19 | 3,3 тыс. | ноябрь 2025 |
+| 13 | Corroded Metals \| Quixel Megascans \| Now on @Fab | 22:45 | 2,2 тыс. | октябрь 2025 |
+| 14 | Create a Realistic Construction Site Environment in Unreal Engine 5 \| Megascans Tutorial | 0:30 | 10 тыс. | октябрь 2025 |
+| 15 | Construction Site Vol. 2 \| Quixel Megascans \| Now on @Fab | 0:31 | 1,3 тыс. | октябрь 2025 |
+| 16 | Construction Site \| Quixel Megascans \| Now on @Fab | 0:24 | 2,1 тыс. | октябрь 2025 |
+| 17 | Mega release has landed! | 0:30 | 5,4 тыс. | сентябрь 2025 |
+| 18 | Ritual Masks \| Quixel Megascans \| Now on @Fab | 0:26 | 1,4 тыс. | сентябрь 2025 |
+| 19 | Old Bunker Tunnel \| Quixel Megascans \| Now on @Fab | 0:30 | 3,4 тыс. | август 2025 |
+| 20 | Urban Trash \| Quixel Megascans \| Now on @Fab | 0:31 | 2,6 тыс. | август 2025 |
+| 21 | Medieval Weapons \| Quixel Megascans \| Now on Fab | 0:27 | 3,4 тыс. | июль 2025 |
+| 22 | Brick Factory Ruins \| Quixel Megascans \| Now on @Fab | 0:50 | 6,4 тыс. | июль 2025 |
+| 23 | Derelict Corridor \| New Megascans Sample Project \| Now on Fab | 1:09 | 18 тыс. | май 2025 |
+| 24 | Build Immersive Worlds with Megascans \| Available on @Fab | 0:27 | 8 тыс. | 2025 |
+| 25 | Quixel Content Roadmap | 0:24 | 4,1 тыс. | 2025 |
+| 26 | Urban Trash Pack \| Get it on @Fab | 0:28 | 3,7 тыс. | 2025 |
+| 27 | Warehouse Pack \| Get it on @Fab | 0:24 | 4,4 тыс. | 2025 |
+| 28 | Unfinished Building Pack \| Get it on @Fab | 0:21 | 7,9 тыс. | 2025 |
+| 29 | Saloon Interior Pack \| Get it on @Fab | 1:30 | 4,9 тыс. | 2025 |
+| 30 | Dark Ruins Sample Project | 0:28 | 51 тыс. | 2025 |
+| 31 | African Slate Quarry Pack \| Get it on @Fab | 0:26 | 6,5 тыс. | 2025 |
+| 32 | Junkyard Asset Pack \| Get it on @Fab | 0:25 | 3,8 тыс. | 2025 |
+| 33 | Bazaar Asset Pack \| Get it on @Fab | 0:23 | 5,3 тыс. | 2025 |
+| 34 | Roadside Construction Asset Pack | 0:24 | 3,5 тыс. | 2025 |
+| 35 | Old Mine Asset Pack | 0:21 | 7,1 тыс. | 2025 |
+| 36 | Medieval Banquet Asset Pack | 1:24 | 4,2 тыс. | 2025 |
+| 37 | Megascans are now on Fab! | 3:44 | 15 тыс. | 2025 |
+| 38 | What's new in Megascans? Ep. 11 \| Trees Special | 3:23 | 56 тыс. | 2024 |
+| 39 | What's new in Megascans? Ep. 10 | 1:56 | 45 тыс. | 2023 |
+| 40 | 2022 End of Year Community Highlights | 1:15 | 34 тыс. | 2023 |
+| 41 | Experience Megascans Trees: European Hornbeam in Unreal Engine 5 | 3:08 | 45 тыс. | 2023 |
+| 42 | Megascans Trees: European Hornbeam | 4:13 | 88 тыс. | 2023 |
+| 43 | What's new in Megascans and Bridge? Ep. 9 | 4:57 | 67 тыс. | 2023 |
+| 44 | What's new in Megascans and Bridge? Ep. 8 | 10:03 | 54 тыс. | 2023 |
+| 45 | Animating in Sequencer: Creating ‘Ninety Days’ in Unreal Engine 5 | 13:25 | 63 тыс. | 2023 |
+| 46 | Constructing Destroyed Assets: Creating ‘Ninety Days’ in Unreal Engine 5 | 3:57 | 320 тыс. | 2023 |
+| 47 | Displacing Geometry: Creating ‘Ninety Days’ in Unreal Engine 5 | 5:33 | 67 тыс. | 2023 |
+| 48 | Overview: Creating ‘Ninety Days’ in Unreal Engine 5 | 3:24 | 50 тыс. | 2023 |
+| 49 | Ninety Days in Unreal Engine 5 | 7:18 | 1,6 млн | 2023 |
+| 50 | Getting started with Bridge in UE5 | 3:09 | 220 тыс. | 2022 |
+| 51 | What's new in Megascans and Bridge? Ep. 7 | 14:42 | 45 тыс. | 2022 |
+| 52 | Get started with Megascans Trees | 4:22 | 337 тыс. | 2022 |
+| 53 | Introducing: Megascans Trees | 1:21 | 233 тыс. | 2022 |
+| 54 | Behind the Scans: Moab, Utah | 7:44 | 28 тыс. | 2022 |
+| 55 | Runtime Virtual Textures: Medieval Game Environment extended tutorial | 12:25 | 43 тыс. | 2022 |
+| 56 | Landscape Basics: Medieval Game Environment extended tutorial | 12:01 | 25 тыс. | 2022 |
+| 57 | HLODs: Medieval Game Environment extended tutorial | 12:21 | 31 тыс. | 2022 |
+| 58 | Lights & Shadows: Medieval Game Environment extended tutorial | 12:37 | 20 тыс. | 2022 |
+| 59 | Performance Optimization: Medieval Game Environment extended tutorial | 4:18 | 36 тыс. | 2022 |
+| 60 | What's new in Megascans and Bridge? Ep. 6 | 1:21 | 19 тыс. | 2022 |
+| 61 | Behind the Scans: Xeric Shrublands | 14:51 | 19 тыс. | 2022 |
+| 62 | Megascans workflows for environment creation in UE5 Early Access | 5:00 | 187 тыс. | 2022 |
+| 63 | What's new in Megascans and Bridge? Ep. 5 | 1:21 | 24 тыс. | 2022 |
+| 64 | Behind the Scans: The Isles of Japan | 3:10 | 34 тыс. | 2022 |
+| 65 | Bridge is now a part of Unreal Engine 5 Early Access | 4:04 | 348 тыс. | 2022 |
+| 66 | What's new in Megascans and Bridge? Ep. 4 | 19:44 | 30 тыс. | 2022 |
+| 67 | Mixer 2021 Deep Dive: Multiple Texture Sets | 1:20 | 113 тыс. | 2022 |
+| 68 | Mixer 2021: Feature Snapshot | 0:31 | 32 тыс. | 2022 |
+| 69 | Mixer 2021 Teaser | 1:21 | 29 тыс. | 2022 |
+| 70 | Behind the Scans: Åre, Sweden | 4:53 | 20 тыс. | 2021 |
+| 71 | What's new in Megascans and Bridge? Ep. 3 | 2:02 | 63 тыс. | 2021 |
+| 72 | Capturing Reality is now part of Epic Games | 1:21 | 96 тыс. | 2021 |
+| 73 | Behind the Scans: Lahore Fort, Pakistan | 8:59 | 16 тыс. | 2021 |
+| 74 | Part 6. Lighting: Medieval Game Environment in UE4 | 15:22 | 62 тыс. | 2021 |
+| 75 | Part 5. Set Dressing: Medieval Game Environment in UE4 | 7:51 | 60 тыс. | 2021 |
+| 76 | Part 4. Foliage: Medieval Game Environment in UE4 | 8:29 | 61 тыс. | 2021 |
+| 77 | Part 3. Thatched Roofs: Medieval Game Environment in UE4 | 9:55 | 79 тыс. | 2021 |
+| 78 | Part 2. House Creation: Medieval Game Environment in UE4 | 8:12 | 130 тыс. | 2021 |
+| 79 | Part 1. Blockout: Medieval Game Environment in UE4 | 1:42 | 250 тыс. | 2021 |
+| 80 | Overview: Medieval Game Environment in UE4 | 6:11 | 71 тыс. | 2021 |
+| 81 | Walkthrough: Medieval Game Environment in UE4 | 0:46 | 280 тыс. | 2021 |
+| 82 | Coming soon: Medieval Game Environment in UE4 | 5:11 | 29 тыс. | 2021 |
+| 83 | What's new in Megascans and Bridge? Ep. 2 | 0:59 | 34 тыс. | 2021 |
+| 84 | Behind the Scans: Bożków Palace, Poland | 5:48 | 20 тыс. | 2021 |
+| 85 | What's new in Megascans and Bridge? Ep. 1 | 7:27 | 36 тыс. | 2021 |
+| 86 | Tutorial: Export Masks from Quixel Mixer | 9:38 | 70 тыс. | 2021 |
+| 87 | Retexturing Megascans surfaces in Mixer | 11:40 | 51 тыс. | 2021 |
+| 88 | Megascans Plugin for Unreal Engine: Vertex Blend Material | 20:00 | 247 тыс. | 2021 |
+| 89 | Baking and Exporting Custom Assets in Blender | 10:18 | 95 тыс. | 2021 |
+| 90 | Mixer Fundamentals: Smart Materials | 10:19 | 158 тыс. | 2021 |
+| 91 | Baking and Importing Custom Assets in Marmoset Toolbag | 18:02 | 40 тыс. | 2021 |
+| 92 | Stylized Environment Texturing in Mixer | 11:47 | 288 тыс. | 2021 |
+| 93 | Mixer Fundamentals: Painting | 8:28 | 93 тыс. | 2021 |
+| 94 | Goddess Temple in UE4: Lighting & Blending | 9:40 | 113 тыс. | 2021 |
+| 95 | Goddess Temple in UE4: Remixing Assets | 6:58 | 79 тыс. | 2021 |
+| 96 | Goddess Temple in UE4: Iterating on an idea | 10:05 | 156 тыс. | 2021 |
+| 97 | Mixer Tips & Tricks: Vol. 1 | 6:06 | 73 тыс. | 2021 |
+| 98 | Mixer Fundamentals 11: Circular Transform Modifier | 7:58 | 12 тыс. | 2021 |
+| 99 | Mixer Fundamentals 10: Scatter Modifier | 5:46 | 15 тыс. | 2021 |
+| 100 | Mixer Fundamentals 9: Noise Component | 10:56 | 12 тыс. | 2021 |
+| 101 | Mixer Fundamentals 8: Pattern Component | 7:20 | 15 тыс. | 2021 |
+| 102 | Mixer Fundamentals 7: Projection Modifier | 20:24 | 20 тыс. | 2021 |
+| 103 | Megascans & Blender Fundamentals | 8:20 | 42 тыс. | 2021 |
+| 104 | Mixer Fundamentals 6: Map | 4:10 | 22 тыс. | 2021 |
+| 105 | Mixer Fundamentals 5: Posterize | 3:50 | 13 тыс. | 2021 |
+| 106 | Mixer Fundamentals 4: Gradient Remap | 7:52 | 15 тыс. | 2021 |
+| 107 | Mixer Fundamentals 3: Normal | 8:06 | 26 тыс. | 2021 |
+| 108 | Mixer Fundamentals 2: Curvature | 7:02 | 35 тыс. | 2021 |
+| 109 | Mixer Fundamentals 1: Position Gradient | 2:05 | 38 тыс. | 2021 |
+| 110 | Mixer Fundamentals: Mask Stack Introduction | 8:01 | 42 тыс. | 2021 |
+| 111 | Create an abandoned apartment in UE4: Lighting | 7:36 | 81 тыс. | 2021 |
+| 112 | Create an abandoned apartment in UE4: Set dressing | 5:52 | 78 тыс. | 2021 |
+| 113 | Create an abandoned apartment in UE4: Design process | 0:54 | 107 тыс. | 2021 |
+| 114 | Experience the 2020 Megascans Ecosystem | 17:29 | 3,9 млн | 2021 |
+| 115 | Texturing Megascans Assets in Mixer | 4:29 | 94 тыс. | 2020 |
+| 116 | The Megascans Ecosystem | 7:02 | 70 тыс. | 2020 |
+| 117 | Create Stylized Wood in Mixer | 18:18 | 96 тыс. | 2020 |
+| 118 | Mixer 2020: Introducing 3D Texturing | 30:43 | 237 тыс. | 2020 |
+| 119 | Bridge 2020 - Fundamentals | 3:54 | 82 тыс. | 2020 |
+| 120 | Getting Started with the UE4 Integration | 13:55 | 61 тыс. | 2020 |
+| 121 | Create Halo's Blood Gulch Bunker in UE4 | 13:12 | 35 тыс. | 2020 |
+| 122 | Create Halo's Blood Gulch in UE4 | 5:15 | 329 тыс. | 2020 |
+| 123 | An EPIC Quixel Announcement | 11:15 | 251 тыс. | 2020 |
+| 124 | Creating World of Warcraft in UE4 | 9:00 | 983 тыс. | 2020 |
+| 125 | Using Blender's Eevee and Megascans | 13:14 | 102 тыс. | 2020 |
+| 126 | Create a Museum in Corona Render | 6:31 | 127 тыс. | 2020 |
+| 127 | Megascans Ecosystem: Giving More Power to Artists | 12:06 | 252 тыс. | 2020 |
+| 128 | Create Silent Hill in UE4 | 7:37 | 550 тыс. | 2020 |
+| 129 | Create an Urban Alley in UE4 | 6:44 | 324 тыс. | 2020 |
+| 130 | Create a Cyberpunk Street in UE4 | 9:16 | 259 тыс. | 2020 |
+| 131 | Create a Post-Apocalyptic Road in UE4 | 5:59 | 297 тыс. | 2020 |
+| 132 | Mixer 2019.2 Overview and New Contest! | 12:51 | 34 тыс. | 2020 |
+| 133 | Quixel Mixer: Material Rendering with Toolbag 3 | 44:57 | 21 тыс. | 2020 |
+| 134 | Create photoreal cinematics in UE4: Rebirth tutorial | 7:53 | 1,3 млн | 2020 |
+| 135 | Create Counter-Strike in UE4 | 19:44 | 7,8 млн | 2020 |
+| 136 | Introduction to ArchViz with Megascans | 1:08 | 111 тыс. | 2020 |
+| 137 | Installing the Cinema 4D Live Link \| Quixel Bridge 2019 | 2:11 | 43 тыс. | 2020 |
+| 138 | Installing the Blender 2.8 Live Link \| Quixel Bridge 2019 | 3:37 | 66 тыс. | 2020 |
+| 139 | Installing the Maya Live Link \| Quixel Bridge 2019 | 3:01 | 47 тыс. | 2020 |
+| 140 | Installing the 3ds Max Live Link \| Quixel Bridge 2019 | 9:41 | 64 тыс. | 2020 |
+| 141 | Introduction to Quixel Bridge 2019 | 10:19 | 46 тыс. | 2020 |
+| 142 | Quixel Mixer: Creating Corrugated Metal in Mixer | 17:27 | 47 тыс. | 2019 |
+| 143 | Quixel Mixer: Procedural Texturing | 13:17 | 110 тыс. | 2019 |
+| 144 | Quixel Mixer: Material Blending Workflow | 2:34 | 67 тыс. | 2019 |
+| 145 | Behind Rebirth: 60 FPS photoreal gameplay in UE4 | 2:24 | 423 тыс. | 2019 |
+| 146 | Rebirth: Introducing photorealism in UE4 | 9:46 | 2,7 млн | 2019 |
+| 147 | Introduction to Quixel Mixer 2019: Tutorial | 0:48 | 258 тыс. | 2019 |
+| 148 | Mixer 2019: Introducing procedural workflows | 0:57 | 38 тыс. | 2019 |
+| 149 | Thank you for being part of our journey | 16:29 | 18 тыс. | 2019 |
+| 150 | Creating a cushion material in Mixer | 10:39 | 58 тыс. | 2019 |
+| 151 | Creating an obsidian material in Mixer | 8:00 | 41 тыс. | 2019 |
+| 152 | Stylized Planks with Mixer: Procedural Preview | 5:56 | 45 тыс. | 2019 |
+| 153 | Create Grungy Tiles in Mixer: 5 minute tutorial | 1:25 | 98 тыс. | 2019 |
+| 154 | This is Megascans, Bridge & Mixer | 34:00 | 83 тыс. | 2019 |
+| 155 | Megascans + Bridge + Houdini: an in-depth look | 1:17 | 39 тыс. | 2019 |
+| 156 | Next Level Creativity with Mixer 2018.2.2 | 1:23 | 47 тыс. | 2019 |
+| 157 | FIRST LOOK: Megascans + Houdini Live Link Trailer | 0:50 | 19 тыс. | 2019 |
+| 158 | Fantasy Town - Quixel Mixer | 8:09 | 38 тыс. | 2019 |
+| 159 | Leveraging Decals with Mixer | 15:21 | 86 тыс. | 2019 |
+| 160 | Sculpt a City Material in Mixer | 18:59 | 175 тыс. | 2019 |
+| 161 | Unreal vs Unity: Clash of Titans | 1:43 | 1,2 млн | 2019 |
+| 162 | Quixel - We Capture The World | 3:20 | 72 тыс. | 2019 |
+| 163 | Scan Cleanup and Tiling with Quixel Mixer | 4:00 | 56 тыс. | 2019 |
+| 164 | Handpainted Masking in Quixel Mixer | 5:57 | 47 тыс. | 2019 |
+| 165 | Realistic Snow in UE4 with Quixel Mixer | 0:31 | 330 тыс. | 2019 |
+| 166 | Quixel Mixer - A Cold Stop (Stålenhag Fan-Art) | 1:50 | 17 тыс. | 2019 |
+| 167 | Enter the Quixel Mixer contest | 5:55 | 11 тыс. | 2019 |
+| 168 | Mixer for Beginners: Sculpting and Basic Texturing | 19:49 | 223 тыс. | 2019 |
+| 169 | Quixel Livestream - Launch Highlights | 18:18 | 12 тыс. | 2019 |
+| 170 | Quixel Mixer Workflow Primer | 3:07 | 83 тыс. | 2019 |
+| 171 | Megascans & Unity - Live Link [Deprecated Workflow] | 8:34 | 26 тыс. | 2019 |
+| 172 | Megascans & UE4 - Live Link | 12:44 | 101 тыс. | 2019 |
+| 173 | Megascans Bridge Workflow Primer | 18:32 | 44 тыс. | 2019 |
+| 174 | REVEAL: Megascans + Unity [Deprecated Workflow] | 9:09 | 133 тыс. | 2019 |
+| 175 | Quixel Road to 2018 | 9:44 | 32 тыс. | 2019 |
+| 176 | REVEAL: Megascans + UE4 Live Link | 3:23 | 52 тыс. | 2019 |
+| 177 | REVEAL: Creating Textures in 1 Minute | 4:17 | 189 тыс. | 2018 |
+| 178 | A message from Quixel CEO Teddy Bergsman | 12:48 | 14 тыс. | 2018 |
+| 179 | INTRODUCING: Vlog, Quixel Mixer & More | 11:28 | 9,9 тыс. | 2018 |
+| 180 | Creating Grass with Color Variation in UE4 | 21:17 | 124 тыс. | 2018 |
+| 181 | Create a City Street in UE4 | 4:14 | 517 тыс. | 2018 |
+| 182 | Making of American Gods with Megascans | 33:31 | 37 тыс. | 2018 |
+| 183 | Expert Techniques for Creating Renders with Megascans | 17:42 | 40 тыс. | 2018 |
+| 184 | Scattering Megascans Atlases with Forest Pack | 18:44 | 45 тыс. | 2018 |
+| 185 | Creating a Quarry using Megascans in Redshift | 8:15 | 17 тыс. | 2018 |
+| 186 | Using Photogrammetry for Indie Game Development (The Land of Pain) | 39:20 | 20 тыс. | 2018 |
+| 187 | Quick Texturing of 3D Concepts | 40:00 | 87 тыс. | 2018 |
+| 188 | Create an Epic Sci-Fi Landscape in CryEngine |  | 29 тыс. | 2018 |
+| 189 | Create a Forest Scene in CRYENGINE | 16:55 | 115 тыс. | 2018 |
+| 190 | Create Realistic Moss with Megascans in Redshift | 51:24 | 82 тыс. | 2018 |
+| 191 | Create a Photorealistic World in UE4 | 1:29 | 1,4 млн | 2018 |
+| 192 | Swedish Mechs - A Simon Stålenhag Tribute | 53:29 | 48 тыс. | 2018 |
+| 193 | Создание леса в UE4 за 1 час | 13:37 | 6,1 млн | 2018 |
+| 194 | Simple Animated Vegetation with Megascans and UE4 | 54:56 | 244 тыс. | 2018 |
+| 195 | Quixel Megascans to Unreal Engine 4 - Part 2 | 16:30 | 17 тыс. | 2018 |
+| 196 | Quixel Megascans to Unreal Engine 4 - Part 1 |  | 31 тыс. | 2018 |
+| 197 | Megascans to UE4 - Workshop with Wiktor Öhman | 25:41 | 29 тыс. | 2018 |
+| 198 | Megascans for Real-time and UE4 with David Lesperance | 0:58 | 35 тыс. | 2018 |
+| 199 | Megascans Lava Field Flythrough | 11:51 | 20 тыс. | 2018 |
+| 200 | Megascans for VFX with Redshift and 3dsmax | 39:53 | 61 тыс. | 2018 |
+| 201 | How to create scenes using Megascans with Octane and Cinema 4D | 8:57 | 172 тыс. | 2018 |
+| 202 | World Creation Basics in UE4 with Megascans | 33:07 | 134 тыс. | 2018 |
+| 203 | DDO Painter: Advanced Stylized Materials with Olly Skillman-Wilson |  | 21 тыс. | 2017 |
+| 204 | DDO Painter for Characters with Georgian Avasilcutei | 10:22 | 106 тыс. | 2017 |
+| 205 | Megascans Studio + UE4: Creating Ice and Snow | 3:47 | 109 тыс. | 2017 |
+| 206 | Megascans Bridge Tutorial | 8:31 | 86 тыс. | 2017 |
+| 207 | Megascans Studio Tutorial | 2:55 | 273 тыс. | 2017 |
+| 208 | Megascans Mountain Slope Flythrough | 1:14 | 87 тыс. | 2017 |
+| 209 | Megascans Release Trailer |  | 156 тыс. | 2017 |
+| 210 | NDO Painter: Advanced Detailing with Orlando Jones | 19:42 | 71 тыс. | 2017 |
+| 211 | NDO Painter: Detailing Basics | 1:44 | 48 тыс. | 2016 |
+| 212 | Quixel SUITE: SpaceX Inspired Environment Breakdown | 2:06 | 9,7 тыс. | 2016 |
+| 213 | Quixel SUITE 2.1.4 - SpaceX Inspired Environment | 31:06 | 30 тыс. | 2016 |
+| 214 | DDO Painter: Hard surface texturing with Neil McKnight | 4:38 | 59 тыс. | 2016 |
+| 215 | DDO Painter: Color ID Primer pt.2 | 2:30 | 17 тыс. | 2016 |
+| 216 | DDO Painter: Color ID Primer pt.1 |  | 25 тыс. | 2016 |
+| 217 | DDO Painter for Characters with Blair Armitage |  | 63 тыс. | 2016 |
+| 218 | DDO Painter for Unity 5: The Blacksmith | 2:16 | 108 тыс. | 2016 |
+| 219 | DDO Painter for Blender with Matt Heimlich (Beginner level, pt. 3) | 25:26 | 7 тыс. | 2016 |
+| 220 | DDO Painter Material Primer | 20:41 | 33 тыс. | 2016 |
+| 221 | DDO Painter for UE4: Master Materials | 57:27 | 89 тыс. | 2016 |
+| 222 | DDO Painter for Beginners: Azog Breakdown | 17:46 | 93 тыс. | 2016 |
+| 223 | DDO Painter for Beginners: Creating a Stone Surface | 13:31 | 56 тыс. | 2016 |
+| 224 | Quixel 3DO: Rendering Primer | 13:29 | 18 тыс. | 2016 |
+| 225 | DDO Painter for Blender with Matt Heimlich (Beginner level, pt. 2) | 2:42 | 13 тыс. | 2016 |
+| 226 | Quixel SUITE 2.0 Mesh Preparation (Maya and 3ds Max) | 7:52 | 37 тыс. | 2016 |
+| 227 | DDO Painter for Blender with Matt Heimlich (Beginner level, pt. 1) | 12:17 | 13 тыс. | 2016 |
+| 228 | Quixel SUITE 2.0 Painting Primer | 18:48 | 73 тыс. | 2016 |
+| 229 | DDO Painter for Arnold with Hugo Jackson | 21:13 | 25 тыс. | 2016 |
+| 230 | DDO Painter for Arnold with Romain Chauliac | 6:43 | 21 тыс. | 2016 |
+| 231 | DDO Painter Weapon texturing with Paul Bannon | 15:01 | 60 тыс. | 2016 |
+| 232 | DDO Painter for UE4 with Tor Frick | 14:39 | 53 тыс. | 2016 |
+| 233 | Quixel SUITE 2.0 Workflow Primer | 1:11 | 337 тыс. | 2016 |
+| 234 | Quixel SUITE 2.0 - OUT NOW | 1:00 | 59 тыс. | 2016 |
+| 235 | Quixel SUITE 2.0 Revealed | 2:16 | 160 тыс. | 2016 |
+| 236 | Quixel Reel 2015 | 1:22 | 50 тыс. | 2015 |
+| 237 | Megascans Jungle | 3:09 | 235 тыс. | 2015 |
+| 238 | This is Megascans |  | 76 тыс. | 2015 |
+| 239 | DDO Basics with Leslie van den Broeck | 1:55 | 119 тыс. | 2015 |
+| 240 | Quixel Suite - Deus Ex Environment | 1:51 | 189 тыс. | 2015 |
+| 241 | The making of the Megascanner | 1:20 | 39 тыс. | 2014 |
+| 242 | Quixel Megascans Environment | 10:58 | 193 тыс. | 2014 |
+| 243 | DDO & 3DO Workflow Primer | 1:10 | 284 тыс. | 2014 |
+| 244 | Quixel SUITE Revealed | 2:18 | 158 тыс. | 2014 |
+| 245 | Wrecked Apartment (NDO & DDO) |  | 45 тыс. | 2014 |
+| 246 | Complete dDo Legacy Breakdown - The AK |  | 113 тыс. | 2014 |
+| 247 | Complete nDo2 Breakdown - The AK |  | 81 тыс. | 2014 |
+| 248 | Complete dDo Legacy Breakdown - The Chainsaw | 3:24 | 175 тыс. | 2013 |
+| 249 | dDo Legacy Quickie - Batch Rendering | 8:18 | 10 тыс. | 2013 |
+| 250 | dDo Legacy Quickie - Color Baking & Materials | 8:22 | 31 тыс. | 2013 |
+| 251 | dDo Legacy Quickie - Basic workflow | 4:31 | 86 тыс. | 2013 |
+| 252 | dDo Legacy Beta is OUT! | 15:45 | 69 тыс. | 2013 |
+| 253 | nDo2 workflows #1: Creating hard-surface designs | 0:54 | 80 тыс. | 2013 |
+| 254 | dDo Legacy Teaser | 1:31 | 35 тыс. | 2013 |
+| 255 | nDo2 Quickie - Custom Presets (+UDK) | 2:15 | 38 тыс. | 2012 |
+| 256 | nDo2: Release Trailer | 1:13 | 60 тыс. | 2012 |
+| 257 | nDo2 Quickie - Map Generation | 2:13 | 71 тыс. | 2012 |
+| 258 | nDo2 Quickie - Photo-normals |  | 131 тыс. | 2012 |
+ 
+ 
+--- 
+ 
 # reubs
 
 Remaker of games
@@ -12481,6 +13243,387 @@ Empowering developers to build massive virtual worlds since 2019. Specializing i
 | 121 | The Last Stop - Unreal Engine 4 Fly-through #GameDev #UE4 | 2:32 | 13 тыс. | 2017 |
 | 122 | Zero Gravity - Unity 5 Scene | 0:59 | 50 тыс. | 2016 |
 | 123 | Zero Gravity - Real-Time Environment |  | 9,7 тыс. | 2014 |
+ 
+ 
+--- 
+ 
+# Call of the Mountain
+
+Gamedev, CG, Houdini, Blender, Tech art
+Дополнительная информация
+
+**Страна:** Дата регистрации: 11 нояб. 2020 г.
+**Подписчиков:** 406
+**Видео:** 16
+**Всего просмотров:** 30734
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Unreal engine World partition & Landscapes Technical overview, Setup, Optimization, LODs, Streaming | 1:04 | 11 тыс. | 2024 |
+| 2 | Michael van den Berg Tech Art Reel | 4:30 | 191 | 2023 |
+| 3 | EPC - Improving procedural workflows in Unreal | 1:04 | 318 | 2023 |
+| 4 | Showcase Y3 Work Reel | 6:15 | 35 | 2023 |
+| 5 | Road spline tool UE4 Zephyr | 0:44 | 63 | 2023 |
+| 6 | Broken bonds - Pillars & destruction | 0:07 | 40 | 2022 |
+| 7 | Broken bonds - UI interact | 24:12 | 17 | 2022 |
+| 8 | semi procedural animation system version 0.1 instructional | 0:18 | 316 | 2022 |
+| 9 | Pillar system showcase | 1:00 | 66 | 2022 |
+| 10 | semiProceduralAnimShort | 0:15 | 42 | 2022 |
+| 11 | OwenSemiProcAnim | 0:25 | 25 | 2022 |
+| 12 | Climbing ledge generation | 0:38 | 33 | 2021 |
+| 13 | Unreal engine procedural terrain 2 | 0:38 | 445 | 2021 |
+| 14 | Unreal engine procedural terrain 1 | 5:05 | 557 | 2021 |
+| 15 | Unreal engine procedural terrain HDA overview |  | 344 | 2021 |
+ 
+ 
+--- 
+ 
+# Surin
+
+Solo developer of Full scale destruction game called Edge of Destruction
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Турция
+**Дата регистрации:** 25 авг. 2020 г.
+**Подписчиков:** 4150
+**Видео:** 622
+**Всего просмотров:** 2027940
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Does DLSS 5 Help My Indie Game? | 0:32 | 43 | март 2026 |
+| 2 | Even i9-13900k can't process this destruction | 7:49 | 331 | март 2026 |
+| 3 | Unreal Engine 5 Was A Mistake For My Indie Game? | 0:46 | 142 | март 2026 |
+| 4 | Edge of destruction Rocket launcher gameplay | 6:04 | 35 | март 2026 |
+| 5 | Edge of Destruction Survival Mode Gameplay | 8:29 | 60 | март 2026 |
+| 6 | Destroy all buildings in my Indie game | 0:43 | 45 | март 2026 |
+| 7 | You can destroy everything in this game | 3:54 | 230 | март 2026 |
+| 8 | My UE5 game runs smoothly on GTX 1050m | 0:51 | 499 | январь 2026 |
+| 9 | Edge Of Destruction Gameplay Trailer | 1:05 | 1,2 тыс. | январь 2026 |
+| 10 | Edge of destruction Story Trailer | 0:40 | 347 | январь 2026 |
+| 11 | Is physics In Unreal Engine 5 Broken ? | 6:26 | 308 | декабрь 2025 |
+| 12 | Edge of Destruction Exclusive gameplay | 3:43 | 344 | декабрь 2025 |
+| 13 | Is Destruction Better Than Battlefield In This Game ? | 4:41 | 213 | октябрь 2025 |
+| 14 | Unreal Engine Made My Monster an Idiot… Until I Fixed It | 3:59 | 119 | октябрь 2025 |
+| 15 | Next-Level Destruction in Unreal Engine 5 | 4:04 | 383 | октябрь 2025 |
+| 16 | Unreal Engine 5 Messed Up My Game… Or Did It? | 2:40 | 179 | сентябрь 2025 |
+| 17 | The Fire Has No Reflection On The Ground.. Why ? | 10:20 | 224 | сентябрь 2025 |
+| 18 | Think Unreal Engine Made Games Stutter? Think Again. | 4:43 | 627 | сентябрь 2025 |
+| 19 | I added CHINESE to my indie game! | 0:59 | 82 | сентябрь 2025 |
+| 20 | Custom Destruction System In My Indie Game | 7:17 | 58 | сентябрь 2025 |
+| 21 | How I Stop Players From Escaping My Game’s World | 0:19 | 381 | сентябрь 2025 |
+| 22 | Destruction At Its Peak In Games | 5:37 | 5 тыс. | сентябрь 2025 |
+| 23 | Stop Blaming Unreal Engine for Bad Optimization | 8:24 | 752 | сентябрь 2025 |
+| 24 | The Most Unrealistic Destruction In Games Part 2 | 12:08 | 126 | сентябрь 2025 |
+| 25 | The Most Unrealistic Destruction In Games | 3:37 | 84 | сентябрь 2025 |
+| 26 | Most Realistic Game Character Head Ever Created? | 8:16 | 299 | сентябрь 2025 |
+| 27 | How Much Is Too Much Destruction In A Game ? | 6:59 | 165 | сентябрь 2025 |
+| 28 | Can Too Much Fog Ruin Games? | 2:52 | 307 | сентябрь 2025 |
+| 29 | Is This The Most Realistic Indie Game ? | 6:45 | 193 | сентябрь 2025 |
+| 30 | Is My Indie Game A Battlefield 6 Clone ? | 8:48 | 213 | сентябрь 2025 |
+| 31 | I Broke Unreal Engine 5 With THIS Much Destruction | 7:18 | 271 | сентябрь 2025 |
+| 32 | Games Aren’t Supposed to Look This Good… | 1:54 | 240 | август 2025 |
+| 33 | WARNING: Lens Flare Too Powerful for Most Eyes | 7:45 | 62 | август 2025 |
+| 34 | This Lighting Trick Made My Game Look REAL | 1:17 | 772 | август 2025 |
+| 35 | Empty Space: The Creator – Official PC Trailer | 5:00 | 305 | август 2025 |
+| 36 | I Built a Jungle That Tears Itself Apart \| Devlog | 1:34 | 128 | июль 2025 |
+| 37 | This Boss Fight Took Me Weeks to Perfect – Meet The Wiper | 2:08 | 97 | июль 2025 |
+| 38 | Realistic Rain in Games Isn’t Easy, Here’s How I Did It | 1:04 | 577 | июль 2025 |
+| 39 | How I'm Making My Horror Game SCARIER | 1:53 | 138 | июль 2025 |
+| 40 | New Enemy AI Broke My Game \| Empty Space Devlog3 | 9:40 | 53 | июль 2025 |
+| 41 | I Invented a new destruction system \| Empty Space Devlog 2 | 2:00 | 183 | июль 2025 |
+| 42 | Making My Dream FPS Game \| Empty Space Devlog 1 | 12:46 | 957 | июль 2025 |
+| 43 | Chaos Destruction In UE5 \| Everything you need to know | 1:46 | 316 | июнь 2025 |
+| 44 | Can It Be Destroyed ? Empty Space Destruction System | 10:40 | 119 | июнь 2025 |
+| 45 | Rain Drops On Lens Effect Tutorial In Unreal Engine 5 | 4:10 | 1,1 тыс. | июнь 2025 |
+| 46 | Volumetric Clouds Easy Tutorial In Unreal Engine 5 | 2:41 | 2,2 тыс. | июнь 2025 |
+| 47 | Environment Destruction Prototype In Unreal Engine 5 | 11:38 | 397 | июнь 2025 |
+| 48 | Realistic Grass Bending Away In Unreal Engine 5 | 5:29 | 365 | июнь 2025 |
+| 49 | Custom Lens Flare In Unreal Engine 5 | 17:32 | 1,6 тыс. | июнь 2025 |
+| 50 | Interactive water shader in unreal engine 5 | 3:56 | 1,4 тыс. | июнь 2025 |
+| 51 | My Story Driven First Person Horror Game WIP | 4:58 | 138 | 2025 |
+| 52 | Full Scale Destruction WIP In UE5 | 4:50 | 741 | 2025 |
+| 53 | Dust 2 Full Scale Destruction In Unreal Engine 5 | 4:42 | 285 | 2025 |
+| 54 | Next Gen Dust 2 Is Here Made In UE5 | 8:55 | 524 | 2025 |
+| 55 | I Remastered Dust 2 in Unreal Engine 5 – It Looks Insane! | 7:20 | 776 | 2025 |
+| 56 | Colorful Tokyo Scene in Unreal Engine 5: Cinematic & Stunning! | 5:58 | 1,1 тыс. | 2025 |
+| 57 | I Created a Hyper-Realistic Chinatown Environment in Unreal Engine 5 \| UE5 Showcase | 1:32 | 1,2 тыс. | 2025 |
+| 58 | GTA VI Developers Be Like... | 5:14 | 729 | 2025 |
+| 59 | Why Fix My Game When I Can Make a Useless Effect \| Unreal Engine | 8:26 | 71 | 2025 |
+| 60 | Top Best Selling PC Games Of All Time | 3:25 | 794 | 2025 |
+| 61 | Easiest Bullet Holes Tutorial In UE5 In 3 Minutes | 8:54 | 278 | 2025 |
+| 62 | How I Set Up Lighting In My Android Game | 8:15 | 1,2 тыс. | 2025 |
+| 63 | Character Customization In My Game's New Update | 10:43 | 182 | 2025 |
+| 64 | Mesh Poly Count Guide For Android In UE5 | 0:38 | 540 | 2025 |
+| 65 | Empty Space Teaser For Android | 6:11 | 596 | 2025 |
+| 66 | DO NOT Use Landscapes For Android In UE5 | 46:44 | 936 | 2025 |
+| 67 | Empty Space Original Sound Tracks Album | 8:44 | 63 | 2025 |
+| 68 | Next Generation Graphics For Mobile Gaming | 2:59 | 224 | 2025 |
+| 69 | GPU Scene Is A Scam In Unreal Engine 5 | 19:06 | 731 | 2025 |
+| 70 | Automatic Flying For Android In Unreal Engine 5 | 33:13 | 202 | 2025 |
+| 71 | Empty Space Gameplay Walkthrough \| First 33 Minutes \| Android Game Exclusive | 6:07 | 214 | 2025 |
+| 72 | Widgets that always face the camera in Unreal Engine 5 | 16:47 | 506 | 2025 |
+| 73 | How I Fixed Crashing Problems In My Android Game In UE5 | 5:28 | 1,6 тыс. | 2025 |
+| 74 | Limit Your Android Game FPS In Unreal Engine 5 | 2:48 | 896 | 2025 |
+| 75 | Haptic Feedback In My Android Game In UE5 | 22:52 | 1 тыс. | 2025 |
+| 76 | How I Optimized A Detailed Map For My Android Game | 0:29 | 473 | 2025 |
+| 77 | Jigoku \| Empty Space Mobile | 11:08 | 481 | 2025 |
+| 78 | How To Interact With Grass In Android In UE5 | 0:22 | 346 | 2025 |
+| 79 | Run Fast \| Empty Space Mobile Power Moves | 0:28 | 174 | 2025 |
+| 80 | Laser Eyes \| Empty Space Mobile Power Moves | 0:30 | 120 | 2025 |
+| 81 | Carbine Shots \| Empty Space Mobile Power Moves | 0:30 | 57 | 2025 |
+| 82 | Gun Shots \| Empty Space Mobile Magic Moves | 0:26 | 115 | 2025 |
+| 83 | Fire Balls \| Empty Space Mobile Power Moves | 0:28 | 341 | 2025 |
+| 84 | Magic Pop \| Empty Space Mobile Power Moves | 0:26 | 1,1 тыс. | 2025 |
+| 85 | The Tokyo \| Empty Space Mobile | 0:32 | 370 | 2025 |
+| 86 | The Beach \| Empty Space Mobile | 0:36 | 342 | 2025 |
+| 87 | Rusty Jungle \| Empty Space Mobile | 2:45 | 1,4 тыс. | 2025 |
+| 88 | I Created My First Orchestral Music For My Game | 1:35 | 86 | 2025 |
+| 89 | First Android Game To Have Dynamic Grass ? | 14:20 | 212 | 2025 |
+| 90 | Explaining My Android Horror Game \| Empty Space | 1:47 | 17 тыс. | 2025 |
+| 91 | My Horror Android Game’s New Combat System | 4:04 | 233 | 2025 |
+| 92 | Funny Story Of Flying In My Android Horror Game | 2:22 | 54 | 2025 |
+| 93 | Explaining the Graphics Settings In Empty Space | 1:07 | 70 | 2025 |
+| 94 | How to Fly in Empty Space in Android | 1:42 | 45 | 2025 |
+| 95 | Safe Zone in Empty Space in Android | 2:25 | 40 | 2025 |
+| 96 | Power Moves Tutorial in Empty Space in Android | 1:17 | 31 | 2025 |
+| 97 | How to Use Invisible Mode in Empty Space \| Gameplay Tutorial | 1:48 | 73 | 2025 |
+| 98 | Attack And Dodge Tutorial in Empty Space | 1:53 | 225 | 2025 |
+| 99 | Gears Of War Inspired Me In My Android Game #indiegame | 9:56 | 321 | 2025 |
+| 100 | Time To Test My Unreal Engine 5 Game On Android #indiegame | 0:48 | 346 | 2025 |
+| 101 | BIG Explosions In My Android Game \| Empty Space | 0:57 | 58 | 2025 |
+| 102 | The most amazing Rain effect on mobile \| Empty Space | 11:08 | 189 | 2025 |
+| 103 | Let's Play Empty Space \|\| A Starter Guide | 0:50 | 159 | 2025 |
+| 104 | I added Tokyo streets to my Android game \| Empty Space | 0:51 | 149 | 2025 |
+| 105 | Flying mission looks dope in my Android game... | 0:35 | 67 | 2025 |
+| 106 | Empty space trailer \| Next generation of mobile gaming | 12:23 | 31 тыс. | 2025 |
+| 107 | New High quality Android FREE game \| Empty Space | 0:39 | 95 | 2025 |
+| 108 | Wind simulation on trees in Android... | 4:05 | 175 | 2025 |
+| 109 | Is Assassin's creed shadows graphics really bad ? | 0:44 | 558 | 2025 |
+| 110 | Most realistic water in Android... | 0:38 | 356 | 2025 |
+| 111 | Floating pistol controlled with character head \| Game development new features | 15:30 | 59 | 2025 |
+| 112 | How to create a smoke coming out of character skin in UE5 | 9:55 | 1 тыс. | 2025 |
+| 113 | How to character skin effect with Niagara in UE5 \| Empty space development for Android | 0:18 | 239 | 2025 |
+| 114 | The level of Cinematic is on another level here... | 32:43 | 149 | 2025 |
+| 115 | How to Properly ask players to rate your game in UE5 \| Empty space android development | 18:32 | 98 | 2025 |
+| 116 | How to Create a dialogue system with subtitles in UE5 \| Empty space Android development | 0:35 | 293 | 2025 |
+| 117 | This black hole will NOT suck you in | 0:38 | 70 | 2025 |
+| 118 | This is what max graphics looks like in mobile... | 7:20 | 80 | 2025 |
+| 119 | Upload your Android game to Playstore in UE5 | 24:45 | 1,4 тыс. | 2025 |
+| 120 | The most efficient objective icon in UE5 \| Empty space development |  | 122 | 2025 |
+| 121 | Creating a detailed automated Graphics settings in UE5 \| Empty Space Development |  | 660 | 2025 |
+| 122 | Fireball throw and explosion in UE5 for Android \| Develop Empty Space with me | 31:15 | 318 | 2025 |
+| 123 | Create a new mission in UE5 \| Develop Empty space for Android with me | 6:20 | 113 | 2025 |
+| 124 | This Music system made people love my game | 11:13 | 149 | 2025 |
+| 125 | Empty Space update 1.08 gameplay for Android | 10:36 | 156 | 2025 |
+| 126 | My Android game got 6K downloads in a month | 3:15 | 361 | 2025 |
+| 127 | I added an artificial intelligence to my Android action game \| Empty Space | 12:59 | 102 | 2025 |
+| 128 | Batman arkham knight graphics is the best in 2024 | 1:13 | 2,2 тыс. | 2025 |
+| 129 | Empty Space Trailer for Android \| Best high graphics action game for Android | 7:13 | 2,1 тыс. | 2025 |
+| 130 | Uncharted 4 Graphics On Android?! Check Out The Stunning Visuals In Empty Space Action Game | 10:43 | 5,9 тыс. | 2025 |
+| 131 | Trouble Ahead for HELLBLADE 2: What's Going Wrong? | 1:35 | 314 | 2024 |
+| 132 | My family is stuck in Empty Space | 1:27 | 111 | 2024 |
+| 133 | Making the best Android game for FREE \| New update | 8:32 | 1 тыс. | 2024 |
+| 134 | Explaining my Android game \| Empty Space | 3:05 | 2,6 тыс. | 2024 |
+| 135 | Did the Latest Playstore Update Break My Game? | 1:49 | 153 | 2024 |
+| 136 | Got inspired by Control to make the best game for Android | 1:40 | 262 | 2024 |
+| 137 | Empty Space Trailer for Android - Play now for free | 8:27 | 1,9 тыс. | 2024 |
+| 138 | I created the most optimized Android game EVER! | 1:37 | 772 | 2024 |
+| 139 | The game I created for Android with Unreal Engine | 3:43 | 324 | 2024 |
+| 140 | My Android game looks like a console game ! how ?! | 5:29 | 406 | 2024 |
+| 141 | My Android game's first trailer built with Unreal Engine 5 | 4:34 | 259 | 2024 |
+| 142 | Fog and Volumetric fog for Android in Unreal Engine 5 | 11:44 | 3,4 тыс. | 2024 |
+| 143 | Creating a jungle in seconds for mobile using PCG in UE5 | 6:19 | 1,4 тыс. | 2024 |
+| 144 | Post processing in Mobile in Unreal Engine 5 | 10:27 | 2 тыс. | 2024 |
+| 145 | How to create a Character Burning effect in Unreal Engine 5 | 9:10 | 1,3 тыс. | 2024 |
+| 146 | How to create a Burning ground decal in Unreal engine 5 | 4:15 | 1,5 тыс. | 2024 |
+| 147 | Optimizing Metahumans for Android in UE5 | 5:22 | 1,9 тыс. | 2024 |
+| 148 | Third Person Handheld Camera shake in UE5 | 2:43 | 888 | 2024 |
+| 149 | Day 7 of creating a game with a WEAK Super human ! | 10:57 | 244 | 2024 |
+| 150 | Blood Splatter Niagara effect in Unreal engine 5 | 8:42 | 23 тыс. | 2024 |
+| 151 | Niagara particles from a skeletal mesh in UE5 | 16:42 | 6,2 тыс. | 2024 |
+| 152 | Add sound to physics collision in Unreal engine 5 | 34:06 | 3,3 тыс. | 2024 |
+| 153 | Enemy Zombie from scratch in UE5 | 5:49 | 1 тыс. | 2024 |
+| 154 | Generate landscape grass easily in UE5 | 8:14 | 896 | 2024 |
+| 155 | Distance blend in landscape material in UE5 | 2:50 | 2,1 тыс. | 2024 |
+| 156 | Fix texture tiling in landscape easily in UE5 | 16:03 | 2,5 тыс. | 2024 |
+| 157 | Cloaked / Invisible character in Unreal engine 5 | 2:29 | 572 | 2024 |
+| 158 | Landscape collision mip level in UE5 | 8:38 | 2,3 тыс. | 2024 |
+| 159 | Rotate Character head with the camera in Unreal Engine 5 | 8:23 | 6,1 тыс. | 2024 |
+| 160 | Sign your AAB and APK for Playstore in UE5 | 11:29 | 2,8 тыс. | 2024 |
+| 161 | Package your Android game for Playstore in UE5 | 0:39 | 5,6 тыс. | 2024 |
+| 162 | Archviz mobile Android Trailer | 8:55 | 518 | 2024 |
+| 163 | Was GTA VI trailer full CGI ? | 10:23 | 3,2 тыс. | 2024 |
+| 164 | Different times of day using static lighting in UE5 | 1:20 | 1,6 тыс. | 2024 |
+| 165 | Make your Android game go full screen in UE5 | 12:02 | 1,9 тыс. | 2024 |
+| 166 | Ray Tracing for Android is finally here in UE5 | 7:01 | 3,4 тыс. | 2024 |
+| 167 | The Fire gameplay \| UE5 Android game | 15:34 | 309 | 2024 |
+| 168 | Creating HLODs in Unreal engine 5 without world partition | 13:33 | 9,5 тыс. | 2024 |
+| 169 | Reducing draw calls in mobile in UE5 | 5:42 | 2,3 тыс. | 2024 |
+| 170 | Fix collision issues in your project in UE5 | 6:16 | 1,8 тыс. | 2024 |
+| 171 | Create a playable character for mobile in UE5 | 12:48 | 225 | 2024 |
+| 172 | Rainy glass for mobile in Unreal engine 5 | 5:35 | 2 тыс. | 2024 |
+| 173 | Create a nice sky in mobile in UE5 | 8:23 | 2 тыс. | 2024 |
+| 174 | Optimizing textures for Mobile in Unreal Engine 5 | 5:14 | 3,1 тыс. | 2024 |
+| 175 | Anti Aliasing for Mobile in UE5 | 6:38 | 4 тыс. | 2024 |
+| 176 | Mesh Optimization for Mobile in UE5 | 6:50 | 1,3 тыс. | 2024 |
+| 177 | Realistic reflection for Android in UE5 \| Archviz Project | 22:40 | 2,7 тыс. | 2024 |
+| 178 | Realistic indoor lighting in mobile in UE5 \| Archviz project | 3:57 | 5,2 тыс. | 2024 |
+| 179 | Screen space reflections in Mobile in UE5 | 10:57 | 3,8 тыс. | 2024 |
+| 180 | Create a save system for Android in UE5 | 8:36 | 1,3 тыс. | 2024 |
+| 181 | Create the cheapest glass for Android in UE5 | 14:25 | 3,8 тыс. | 2024 |
+| 182 | Create Graphics settings for Android in UE5 | 11:46 | 1,8 тыс. | 2024 |
+| 183 | Create your first Local volumetric fog in UE5 | 2:04 | 8,3 тыс. | 2024 |
+| 184 | Create a volume texture in Unreal Engine 5 | 3:53 | 7,7 тыс. | 2024 |
+| 185 | Alan Wake 2, your volumetric fog is beautiful sir | 6:34 | 1,3 тыс. | 2024 |
+| 186 | Animated Hell post process in Unreal engine 5 | 21:50 | 1 тыс. | 2024 |
+| 187 | Rain Niagara particle effect for Mobiles in UE5 | 27:33 | 1,7 тыс. | 2024 |
+| 188 | The most advanced WATER for Android in UE5 | 19:56 | 3,2 тыс. | 2024 |
+| 189 | Full explanation of Falling leaves effect in UE5 | 7:14 | 3,5 тыс. | 2024 |
+| 190 | Texture Mip Bias in texture streaming in UE5 | 1:02 | 6 тыс. | 2024 |
+| 191 | The Fire Trailer \| The Android game I made with UE5 | 3:26 | 1,4 тыс. | 2024 |
+| 192 | Enable Virtual textures fast in Unreal engine 5 | 21:26 | 11 тыс. | 2024 |
+| 193 | Animated fire effect in Mobile in UE5 | 5:35 | 454 | 2024 |
+| 194 | Use Nanite and GPU Scene in your mobile game UE5 | 7:13 | 3,8 тыс. | 2024 |
+| 195 | Nanite will save your frame rate in Unreal Engine 5 | 7:56 | 1,4 тыс. | 2024 |
+| 196 | Ambient Occlusion in Mobile finally works in UE5 | 7:25 | 2,5 тыс. | 2024 |
+| 197 | Mobile FSR upsampling in Unreal Engine 5 | 4:01 | 3,5 тыс. | 2024 |
+| 198 | The best yet simplest control scheme for mobile UE5 | 16:36 | 964 | 2024 |
+| 199 | Save your mobile game by Mesh Instancing in UE5 | 14:22 | 1,8 тыс. | 2024 |
+| 200 | Mass reduce texture size with Editor scripting in UE5 | 8:17 | 1,4 тыс. | 2024 |
+| 201 | Don't use LOD in your mobile game in UE4/5 | 3:33 | 1,1 тыс. | 2024 |
+| 202 | Limit the Player Camera rotation in UE5 | 28:26 | 15 тыс. | 2024 |
+| 203 | Footprint on Sand effect in Unreal Engine 5 | 5:07 | 1,9 тыс. | 2024 |
+| 204 | Fixing Foot IK in Metahumans in UE5 | 11:49 | 2,8 тыс. | 2024 |
+| 205 | footsteps in Unreal engine 5 \| The easy and the hard way to do it | 20:37 | 1,6 тыс. | 2024 |
+| 206 | FootPrints in Unreal Engine 5 | 12:19 | 3 тыс. | 2024 |
+| 207 | Optimizing shadows in mobile devices in UE5 | 3:10 | 9 тыс. | 2024 |
+| 208 | Blend two meshes smoothly in UE5 | 32:26 | 8,2 тыс. | 2024 |
+| 209 | Deformable sand in Unreal engine 5 | 10:54 | 3,9 тыс. | 2024 |
+| 210 | Directional Character running animation in UE 5 | 16:08 | 662 | 2024 |
+| 211 | Retarget Mixamo animations to any character in UE5 | 3:32 | 1,2 тыс. | 2024 |
+| 212 | Creating beautiful skies in Unreal engine 5 | 8:37 | 937 | 2024 |
+| 213 | Easy Metahuman integration into your UE5 project | 19:05 | 528 | 2024 |
+| 214 | High Quality Directionally animated FOG in UE5 | 16:45 | 5,9 тыс. | 2024 |
+| 215 | Procedurally generate content on actors in UE5.2 | 16:49 | 3,8 тыс. | 2024 |
+| 216 | True Head or body Camera with Auto Focus in UE5 | 15:00 | 2 тыс. | 2024 |
+| 217 | Learn FAST Procedural content generation in UE5.2 | 12:06 | 246 | 2024 |
+| 218 | Baking Niagara fluids smoke to use in Android in UE5 | 6:51 | 4,7 тыс. | 2024 |
+| 219 | Custom smoke in Niagara fluids in Unreal Engine 5 | 4:35 | 1,2 тыс. | 2023 |
+| 220 | How to : Collision in Niagara fluids smoke in UE5 | 12:13 | 6,4 тыс. | 2023 |
+| 221 | Directional controllable grass wind in Unreal engine 5 | 5:50 | 6,7 тыс. | 2023 |
+| 222 | GPU Lightmass for Android and IOS in Unreal engine 4 | 9:17 | 3 тыс. | 2023 |
+| 223 | volumetric cloud for Android in Unreal engine 5 | 3:05 | 2,5 тыс. | 2023 |
+| 224 | Pixel Rendering in Android in UE5 | 3:20 | 816 | 2023 |
+| 225 | reduce the size fast with this for Android in UE5 | 13:22 | 1 тыс. | 2023 |
+| 226 | Frozen lake Shader in Unreal engine 5 | 26:03 | 7,3 тыс. | 2023 |
+| 227 | Rain drips on glass in Unreal engine 5 | 8:51 | 10 тыс. | 2023 |
+| 228 | The most optimized settings for Android in UE5 | 12:42 | 23 тыс. | 2023 |
+| 229 | PUBG Gyroscope for android inside UE4 | 1:06 | 671 | 2023 |
+| 230 | Fix Attempt to construct staged filesystem reference from absolute path in UE4 | 11:47 | 165 | 2023 |
+| 231 | Sculpting meshes in Unreal engine 5 | 8:16 | 3,5 тыс. | 2023 |
+| 232 | Edit triangles simply inside UE5 | 3:19 | 3,3 тыс. | 2023 |
+| 233 | Circle pattern modeling in UE5 | 8:27 | 982 | 2023 |
+| 234 | Create a fake hole in Unreal engine 5 | 11:24 | 5,6 тыс. | 2023 |
+| 235 | Create and modify shapes in Unreal engine 5 | 7:52 | 13 тыс. | 2023 |
+| 236 | Create a complex Circular mesh in Unreal engine 5 with PathRev & BdryRev | 6:59 | 1 тыс. | 2023 |
+| 237 | Create an interior in Unreal engine 5 in minutes | 4:11 | 10 тыс. | 2023 |
+| 238 | Anisotropy and Tangent in Unreal engine 5 | 10:23 | 3,2 тыс. | 2023 |
+| 239 | Fireball with World position offset in Unreal engine 5 | 7:29 | 5,3 тыс. | 2023 |
+| 240 | Refraction and glass in Unreal engine 5 | 7:23 | 4,7 тыс. | 2023 |
+| 241 | Translucent or masked materials in Unreal engine 5 | 9:09 | 28 тыс. | 2023 |
+| 242 | Death sign using Emissive color in Unreal engine 5 | 4:29 | 1 тыс. | 2023 |
+| 243 | Auto Tiling the texture in Unreal engine 5 | 4:54 | 3,3 тыс. | 2023 |
+| 244 | Normal maps and how to get normal map from a height map in UE5 \| Unreal engine beginner tutorials | 11:55 | 12 тыс. | 2023 |
+| 245 | How to slice a mesh in runtime in Unreal engine 5 | 7:21 | 13 тыс. | 2023 |
+| 246 | Different simple ways to blend textures in Unreal engine 5 \| Unreal engine beginner tutorials | 12:24 | 8,5 тыс. | 2023 |
+| 247 | How to Tile and Shift textures in UE5 \| Unreal engine beginner tutorials | 13:19 | 6,4 тыс. | 2023 |
+| 248 | How Create a material in UE5 \| Unreal engine beginner series | 5:16 | 441 | 2023 |
+| 249 | How to use custom stencils to mask an object in Unreal engine | 13:28 | 16 тыс. | 2023 |
+| 250 | The most realistic smoke in Unreal engine + texture downlaod | 6:24 | 11 тыс. | 2023 |
+| 251 | The most basic and optimized Liquid simulation in UE4/5 | 3:22 | 8,9 тыс. | 2023 |
+| 252 | Fixing Translucency issues with Translucency Sort Priority option in UE4 | 4:34 | 13 тыс. | 2023 |
+| 253 | Optimizing dynamic lights and gain back performance in UE5 | 4:13 | 13 тыс. | 2023 |
+| 254 | Can't save the HLOD assets to perforce when using sublevels in ue4 SOLVED ! | 16:50 | 566 | 2023 |
+| 255 | Retargeting Mixamo animations to Metahumans in Unreal Engine 5 | 16:22 | 1,1 тыс. | 2023 |
+| 256 | PSO Caching in UE4.27 to reduce hitching in Android | 2:50 | 3,6 тыс. | 2023 |
+| 257 | How to reduce texture size in UE4 | 6:58 | 8,3 тыс. | 2023 |
+| 258 | The most optimized way to rotate your actor constantly in UE4 | 17:40 | 3 тыс. | 2023 |
+| 259 | Do not use event tick in mobile ! Alternatives to event tick in UE4 | 14:30 | 2,7 тыс. | 2023 |
+| 260 | Very low cost Volumetric Fog for Android devices in ue4 | 4:52 | 7,2 тыс. | 2023 |
+| 261 | Async Level Streaming in UE4 _ Loading in background | 2:38 | 7,5 тыс. | 2023 |
+| 262 | How to activate auto instancing to gain performance in mobiles in UE4 | 14:41 | 1,4 тыс. | 2023 |
+| 263 | Lighting in Android in Unreal engine 4 \| Mobile development | 2:43 | 11 тыс. | 2023 |
+| 264 | Optimizing the mesh with just some clicks in UE4 ( Great for android development ) | 4:11 | 1,9 тыс. | 2022 |
+| 265 | Explaining folders in UE4 project \| What you can delete to fix packaging errors and some weird bugs | 5:41 | 2,4 тыс. | 2022 |
+| 266 | How to properly attach the metahumans head to any other character in UE4 | 26:01 | 6,8 тыс. | 2022 |
+| 267 | Optimization tips and tricks for Android and IOS in Unreal engine 4 | 4:47 | 14 тыс. | 2022 |
+| 268 | New Lightings for Metahumans in Unreal Engine | 8:45 | 167 | 2022 |
+| 269 | How cool Stack O Bot Project in Unreal Engine 5 actually is ?!!! | 6:48 | 450 | 2022 |
+| 270 | Fixing foliage popping problem in sequencer ( Movie render queue ) Unreal Engine 4 | 9:39 | 17 тыс. | 2022 |
+| 271 | How to optimize grass in Unreal engine 4 | 4:29 | 3,8 тыс. | 2022 |
+| 272 | Ray tracing on HTML in Unreal engine 4 !! It looks incredible ! | 5:53 | 1 тыс. | 2022 |
+| 273 | Ray Tracing on your Web browser ! Unreal engine 4 Tutorial | 4:18 | 5,7 тыс. | 2022 |
+| 274 | Indirect lighting in Real time in Unreal Engine 5 ! | 11:39 | 177 | 2022 |
+| 275 | Amazing destruction in my Unreal Engine 4 Game | 5:40 | 324 | 2022 |
+| 276 | How Metaverse would look like in Unreal Engine 4 & 5 | 8:54 | 418 | 2022 |
+| 277 | REAL Building Destruction in UE4 | 6:30 | 1,3 тыс. | 2022 |
+| 278 | My Shooter game WIP in UE4 | 1:41 | 159 | 2022 |
+| 279 | Volumetric fog \| VS \| no Volumetric fog in Unreal Engine 4 | 12:37 | 230 | 2022 |
+| 280 | Metahuman character customization in Unreal Engine 4 | 3:23 | 1,6 тыс. | 2022 |
+| 281 | Massive open world Jungle in VR with Unreal Engine 4 ! | 1:57 | 212 | 2022 |
+| 282 | Morteza ahmadi Unreal Engine Showreel | 3:09 | 159 | 2022 |
+| 283 | Showing off Unreal Engine 5 power in a Showreel project ( with download link ) | 5:48 | 238 | 2022 |
+| 284 | Most realistic jungle I have ever created in UE4 + Download link for FREE | 5:25 | 216 | 2022 |
+| 285 | The most realistic jungle in Unreal Engine 4 I have ever created | 8:52 | 238 | 2022 |
+| 286 | Interactive Water reacting to character in Unreal engine 4 | 6:03 | 20 тыс. | 2022 |
+| 287 | How to properly light landscape environments in Unreal Engine 4 | 5:32 | 967 | 2022 |
+| 288 | Unreal Engine 5 Lumen power in lighting and reflections showcase ( with downloadable Exe file ) | 2:45 | 946 | 2022 |
+| 289 | Can't package in Unreal Engine 5 ( UE5 ) simple fix ! | 9:03 | 95 тыс. | 2022 |
+| 290 | How to add sound to physics collision in Unreal engine 4 & 5 ( so simple ) | 19:38 | 22 тыс. | 2022 |
+| 291 | Creating a high quality showcase sample from scratch in UE5 | 3:43 | 381 | 2022 |
+| 292 | Fix : no motion blur in highresolution screenshot in UE4 | 0:40 | 1,3 тыс. | 2022 |
+| 293 | Run Parkour Demo Gameplay Trailer for Android | 6:40 | 653 | 2022 |
+| 294 | I made Mirror's Edge for Android with Unreal Engine 4 | 6:18 | 654 | 2022 |
+| 295 | Rebuilding my game for ES2 for Android because ES3.1 doesn't work !! | 4:06 | 394 | 2022 |
+| 296 | Run parkour the game ( For Android devices ) | 6:07 | 75 | 2022 |
+| 297 | Showing my first parkour endless runner game for Android | 6:30 | 109 | 2022 |
+| 298 | Trying to not suck at the game I made for Androids ! | 3:37 | 35 | 2022 |
+| 299 | Testing my game's new gameplay features on Android | 14:01 | 75 | 2022 |
+| 300 | How to massively reduce Android package size in Unreal engine 4 | 10:42 | 8,8 тыс. | 2022 |
+| 301 | How to sign your Android application properly for Play store in Unreal engine 4 | 2:02 | 4,6 тыс. | 2022 |
+| 302 | Shoot the Drones AR Trailer for Android | 1:45 | 53 | 2022 |
+| 303 | I made a parkour endless runner for androids using Unreal engine 4 ! | 2:13 | 181 | 2022 |
+| 304 | My first Android AR game made with Unreal Engine 4 ! | 5:19 | 373 | 2022 |
+| 305 | Endless parkour game that I made with Unreal engine 4 for Android devices ! | 11:30 | 204 | 2022 |
+| 306 | I made this Unreal engine 4 Parkour game for Android ! Now I'm Playing it ... | 7:38 | 309 | 2022 |
+| 307 | Playing and explaining the game I have made myself ! | 1:40 | 80 | 2022 |
+| 308 | Legacy of a Traceur Parkour Android game trailer | 0:13 | 400 | 2022 |
+| 309 | parkour decent with android mobile devices ! | 0:14 | 23 | 2022 |
+| 310 | Height dropping feels amazing with your android device ! | 0:10 | 30 | 2022 |
+| 311 | Feeling flippy ?!! Play this android parkour game on your smart phone | 0:14 | 79 | 2022 |
+| 312 | IK animation in Android parkour game | 0:18 | 57 | 2022 |
+| 313 | How far do you want to swing ? | 0:17 | 40 | 2022 |
+| 314 | Jumping sooooooooo faaar ! | 1:37 | 32 | 2022 |
+| 315 | How I could run on walls on my Android smartphone in a parkour game ! | 1:55 | 37 | 2022 |
+| 316 | Cat 180 in Android parkour game | 1:22 | 92 | 2022 |
+| 317 | How to kick them !! | 1:27 | 36 | 2022 |
+| 318 | How to Flip in your Android devices | 1:12 | 72 | 2022 |
+| 319 | How to vault obstacles in Legacy of a Traceur | 1:57 | 65 | 2021 |
+| 320 | How to climb up walls in Legacy of a Traceur | 0:49 | 107 | 2021 |
+| 321 | Changing character in Legacy of a Traceur | 1:30 | 114 | 2021 |
+| 322 | Learning basic controls in Legacy of a Traceur Part 1 | 1:21 | 155 | 2021 |
+| 323 | Style competition in Legacy of a traceur | 1:13 | 77 | 2021 |
+| 324 | Legacy of a Traceur Launch trailer for android devices |  | 246 | 2021 |
  
  
 --- 
@@ -12994,6 +14137,114 @@ For all inquiries please email thomas@fulltimegamedev.com
 | 489 | The Making Of Pinstripe | 1:34 | 30 тыс. | 2017 |
 | 490 | Pinstripe — Official Trailer | 2:41 | 208 тыс. | 2017 |
 | 491 | Pinstripe Official Trailer — A Game about Heaven & Hell |  | 76 тыс. | 2015 |
+ 
+ 
+--- 
+ 
+# PolySphere 3D
+
+Procedural Generation | 3D Environments | Unreal Engine | Unreal Marketplace
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Дата регистрации: 11 мар. 2013 г.
+**Подписчиков:** 4790
+**Видео:** 95
+**Всего просмотров:** 449967
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | [UE5] Procedural Tools - City Core - Paris - Documentation Tutorial | 5:41 | 11 тыс. | январь 2026 |
+| 2 | [UE5] Master Console Commands - Overview (Update) | 2:01 | 1,3 тыс. | декабрь 2025 |
+| 3 | [UE5] City Core - Paris - Cinematic | 9:34 | 2,9 тыс. | ноябрь 2025 |
+| 4 | [UE5] Procedural Buildings With Interiors - City Core - New York - Documentation Tutorial | 2:50 | 3,7 тыс. | август 2025 |
+| 5 | [Free Asset] Advanced Realistic Glass - Caustic Shadow with VSM | 3:57 | 3 тыс. | 2025 |
+| 6 | [UE5] Translucent Shadow with Lumen - Unreal Engine 5.5 | 5:10 | 17 тыс. | 2025 |
+| 7 | UE5 Upscaling Comparison: TSR vs DLSS 3.7 vs TAA Native | 4:08 | 6,8 тыс. | 2025 |
+| 8 | Optimization UE5 - Transparent Material Meshes in a Nanite Level | 5:36 | 10 тыс. | 2025 |
+| 9 | Optimization UE5 - The Power of Instanced Static Meshes with Efficient Materials | 1:46 | 66 тыс. | 2025 |
+| 10 | Unreal Engine 5.2 VS 5.5 - Performance And Graphics | 13:29 | 2,9 тыс. | 2025 |
+| 11 | [UE5] City Core - New York - Overview and Walkthrough | 1:37 | 6,7 тыс. | 2025 |
+| 12 | [UE5] City Core - New York (Cinematic) | 0:48 | 6,2 тыс. | 2025 |
+| 13 | [UE5] Garage Pack - Cinematic | 1:19 | 1,7 тыс. | 2024 |
+| 14 | [UE5] Cinema - Feature Highlights | 1:08 | 1,6 тыс. | 2024 |
+| 15 | [UE5] Industrial City Pack - Presentation (Update 2023) | 1:13 | 3,3 тыс. | 2024 |
+| 16 | [UE5] Suburbs City Pack - Presentation (Update 2023) | 1:06 | 5 тыс. | 2024 |
+| 17 | [UE5] Downtown City Pack - Presentation (Update 2023) | 1:18 | 21 тыс. | 2024 |
+| 18 | [UE5] Trash Spawner Blueprint | 1:00 | 1,6 тыс. | 2023 |
+| 19 | [UE5] Trash City Pack (Cinematic) | 4:08 | 573 | 2023 |
+| 20 | [UE5] British City Pack ★ Feature Highlights | 1:47 | 3,1 тыс. | 2023 |
+| 21 | [UE5] Cinematic ★ British City Pack ★ | 0:10 | 4,2 тыс. | 2023 |
+| 22 | [UE5] Old Classroom Pack - Lumen Testing | 4:51 | 500 | 2023 |
+| 23 | [UE5] Beach Pack - Breakdown | 1:39 | 3,3 тыс. | 2023 |
+| 24 | [UE5] Beach Pack - Walking Demo | 1:47 | 2,3 тыс. | 2023 |
+| 25 | [UE5] Beach Pack - Cinematic | 2:27 | 4,1 тыс. | 2023 |
+| 26 | [UE5] Pipe System Pack (Breakdown) | 2:32 | 3,5 тыс. | 2023 |
+| 27 | [UE] Roof City Pack - Walking Demonstration | 8:51 | 2,1 тыс. | 2022 |
+| 28 | [UE] Roof City Pack - Showcase | 4:58 | 3,1 тыс. | 2022 |
+| 29 | [UE] Advanced Texture Tool - Showcase | 4:54 | 2,2 тыс. | 2022 |
+| 30 | [UE] Advanced Assets Tool - What's new Update 1.1 | 3:03 | 764 | 2022 |
+| 31 | [UE] Master Console Commands - Showcase | 2:40 | 2,6 тыс. | 2022 |
+| 32 | [UE] Advanced Renamer Tool - Showcase | 10:03 | 841 | 2022 |
+| 33 | [UE] Advanced Assets Tool - Showcase | 1:22 | 2,8 тыс. | 2022 |
+| 34 | [UE4] Presentation ★ Industrial - City Pack ★ | 3:14 | 1,8 тыс. | 2022 |
+| 35 | [UE] Feature Highlights ★ Downtown - City Pack ★ Update 1.5 | 3:13 | 12 тыс. | 2022 |
+| 36 | [UE4] Feature Highlights ★ Suburbs - City Pack 1.2 ★ | 3:12 | 5,8 тыс. | 2022 |
+| 37 | [UE4] Feature Highlights ★ Industrial - City Pack ★ | 1:59 | 3,2 тыс. | 2022 |
+| 38 | [UE4] Generate Procedural Buildings with Interiors ★ City Packs ★ | 0:59 | 20 тыс. | 2021 |
+| 39 | [UE4] Material Customization ★ Suburbs - City Pack ★ | 1:00 | 857 | 2021 |
+| 40 | [UE4] Feature Highlights ★ Suburbs - City Pack ★ | 0:47 | 2,2 тыс. | 2021 |
+| 41 | [UE4] Presentation ★ Suburbs - City Pack ★ | 2:51 | 2,6 тыс. | 2021 |
+| 42 | [UE4] Procedural Modular Buildings ★ Suburbs - City Pack ★ | 1:30 | 2,7 тыс. | 2021 |
+| 43 | [UE4] City Downtown - Presentation (Update 1.3) | 6:11 | 4,3 тыс. | 2021 |
+| 44 | [UE4] Procedural Modular Buildings - City Downtown Pack (1.3 Update) | 7:36 | 3,5 тыс. | 2021 |
+| 45 | [UE4] City Downtown Pack - Demo (1.2 Update) | 6:49 | 4,7 тыс. | 2021 |
+| 46 | [UE4] Procedural Tools for Background City - Demo | 1:08 | 5,2 тыс. | 2021 |
+| 47 | [UE4] Background City - Cinematic | 0:47 | 1,5 тыс. | 2021 |
+| 48 | [UE4] Procedural Background Buildings - Cinematic (Update 1.2) | 4:10 | 2,3 тыс. | 2021 |
+| 49 | [UE4] Procedural Background Buildings - Demo (Update 1.2) | 2:23 | 6,2 тыс. | 2021 |
+| 50 | [UE4] Road and Walkside Blueprints | 1:02 | 854 | 2021 |
+| 51 | [UE4] Procedural Background Buildings - Demo | 1:16 | 1,6 тыс. | 2021 |
+| 52 | [UE4] Procedural Background Buildings - Presentation | 2:15 | 1,9 тыс. | 2021 |
+| 53 | [UE4] City Downtown - Presentation | 5:33 | 4,2 тыс. | 2021 |
+| 54 | [UE4] City Downtown Demo | 0:41 | 8,8 тыс. | 2021 |
+| 55 | [UE4] Procedural Building Tool (WIP) | 0:44 | 2,1 тыс. | 2021 |
+| 56 | [UE4] New York - Building Tool (WIP2) | 1:04 | 1 тыс. | 2020 |
+| 57 | [UE4] Customizable Sedan Car (Demo) | 0:42 | 411 | 2020 |
+| 58 | [UE4] Customizable Sedan Car | 1:28 | 433 | 2020 |
+| 59 | [UE4] Low Poly City | 1:20 | 1,4 тыс. | 2020 |
+| 60 | [UE4] Low Poly Procedural Buildings (Demo) | 0:29 | 1,5 тыс. | 2020 |
+| 61 | [UE4] New York - Building Tool (WIP) | 0:45 | 1 тыс. | 2020 |
+| 62 | [UE4] New York - Downtown (WIP2) | 2:48 | 787 | 2020 |
+| 63 | Asset Store - City Street Props Demo | 6:25 | 399 | 2020 |
+| 64 | [UE4] Marketplace - City Street Props Demo | 0:58 | 671 | 2020 |
+| 65 | [UE4] New York - Downtown (WIP) | 1:01 | 1,2 тыс. | 2020 |
+| 66 | [UE4] Marketplace - Urban Materials Pack Preview | 0:48 | 492 | 2020 |
+| 67 | Old Classroom [UE4] - Making of | 1:44 | 1,6 тыс. | 2020 |
+| 68 | Old Classroom [UE4] - 3D Environment | 0:47 | 9 тыс. | 2020 |
+| 69 | Classroom (WIP) | 0:19 | 163 | 2020 |
+| 70 | Tweak Parameters in Houdini | 0:34 | 1,8 тыс. | 2019 |
+| 71 | City Generator - Houdini Procedural WIP 2 ( Unreal Engine 4 ) | 0:50 | 16 тыс. | 2019 |
+| 72 | City Generator - Houdini Procedural WIP | 0:42 | 4 тыс. | 2019 |
+| 73 | Construction Site - Unreal Engine 4 | 0:10 | 823 | 2019 |
+| 74 | Vintage Scooter 3D model | 1:19 | 199 | 2019 |
+| 75 | LowPoly Desert - Unreal Engine 4 | 0:34 | 4,2 тыс. | 2019 |
+| 76 | City Generator Unity DevLog #2 | 0:50 | 694 | 2019 |
+| 77 | City Generator Unity DevLog #1 | 1:00 | 1 тыс. | 2018 |
+| 78 | Substance Material - Newspaper Box | 25:37 | 98 | 2018 |
+| 79 | 3ds Max - Modular Pipes Tutorial - Part 2 | 30:57 | 703 | 2018 |
+| 80 | 3ds Max - Modular Pipes Tutorial - Part 1 | 0:58 | 4,5 тыс. | 2018 |
+| 81 | Substance Material - Cooblestones | 16:44 | 270 | 2018 |
+| 82 | Wooden Toys - Part 2 \| Substance Painter \| Speed Texturing | 17:07 | 1 тыс. | 2018 |
+| 83 | Wooden Toys - Part 1 \| 3Ds Max \| Speed Modeling | 17:28 | 2,1 тыс. | 2018 |
+| 84 | Pool Table \| Substance Painter \| Time Lapse | 8:01 | 6,8 тыс. | 2018 |
+| 85 | Safe - Part 2\| 3Ds Max \| Speed Modeling | 7:08 | 247 | 2018 |
+| 86 | Safe - Part 1\| 3Ds Max \| Speed Modeling | 0:09 | 692 | 2018 |
+| 87 | Safe - PBR Model |  | 292 | 2018 |
  
  
 --- 
@@ -13659,6 +14910,93 @@ Contact for Business Only
 | 31 | How to HIDE Texture REPETITION in Unreal Engine - UE4 Tutorial | 35:26 | 409 тыс. | 2021 |
 | 32 | Why Artists NEED to use BLUEPRINTS - Unreal Engine Tutorial |  | 33 тыс. | 2021 |
 | 33 | Unreal Engine 4 Beginner Tutorial - UE4 Start Course |  | 984 тыс. | 2021 |
+ 
+ 
+--- 
+ 
+# 문 브러쉬
+
+언리얼 엔진, 게임, 모델링, 레벨디자인 정보를 쉽게 소개하는 채널입니다
+Email : munbrush@gmail.com
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Республика Корея
+**Дата регистрации:** 11 мар. 2019 г.
+**Подписчиков:** 5810
+**Видео:** 67
+**Всего просмотров:** 200918
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | 언리얼 엔진 나나이트 마스터하기 | 2:58 | 3,2 тыс. | август 2025 |
+| 2 | 저는 10년이나 준비했었습니다. | 4:23 | 2,3 тыс. | июль 2025 |
+| 3 | 언리얼엔진 애니메이션 스타일 아파트 만들기 | 3:14 | 4,1 тыс. | 2025 |
+| 4 | 언리얼 엔진 영상 렌더링하기 | 37:12 | 1,5 тыс. | 2025 |
+| 5 | 포켓몬 카드를 언리얼 엔진에서 만들면 어떨까? | 4:52 | 1,5 тыс. | 2025 |
+| 6 | 배경모델러 라면 필수로 알아야 하는 최적화 (아틀라스 👍) | 5:42 | 4,7 тыс. | 2025 |
+| 7 | 언리얼 엔진이라서 할 수 있는 폴리곤 최적화 (실무 꿀팁👍) | 4:20 | 10 тыс. | 2025 |
+| 8 | 마모셋5 베타 신기능 베벨셰이더 사용법 Bevel Shader Bake | 9:21 | 6,1 тыс. | 2025 |
+| 9 | 언리얼 엔진 배경 최적화 마스터하기 | 3:26 | 22 тыс. | 2025 |
+| 10 | 언리얼 엔진 플레이어 캐릭터 안나올 때 | 5:57 | 1 тыс. | 2025 |
+| 11 | 언리얼엔진 깜빡이는 이미시브와 UV 2번채널 사용법 | 1:44 | 1,6 тыс. | 2024 |
+| 12 | 문브러쉬 채널 학습용 언리얼 메터리얼 1탄 | 5:08 | 1,1 тыс. | 2024 |
+| 13 | 언리얼 캐릭터에 반응하는 벽 만들기 | 11:02 | 1,2 тыс. | 2024 |
+| 14 | 언리얼엔진 메터리얼 단축키 총정리 | 5:07 | 2 тыс. | 2024 |
+| 15 | 언리얼엔진 경유노드 | 3:10 | 1,2 тыс. | 2024 |
+| 16 | 서브스탠스 디자이너 에서 언리얼 엔진으로 |  | 2,8 тыс. | 2024 |
+| 17 | 타일맵 하나로 건물 만들기 - Trim Tile Map | 6:19 | 5,8 тыс. | 2024 |
+| 18 | ParralaxOccludedMapping 으로 폴리곤 수백만 개 아끼는 법 | 7:47 | 1,2 тыс. | 2024 |
+| 19 | 언리얼 SSS 메터리얼 만들기 - 빛이 비치는 천 | 4:44 | 2,3 тыс. | 2024 |
+| 20 | WeightedNormal을 이용한 노멀맵 없이 깔끔한 곡선 만들기 | 4:17 | 1 тыс. | 2024 |
+| 21 | 언리얼 엔진 큐브맵을 이용한 원경 만들기 | 6:21 | 1,8 тыс. | 2024 |
+| 22 | 언리얼 엔진 페이크 창문 만들기 | 3:11 | 1,4 тыс. | 2023 |
+| 23 | 언리얼 엔진에서 금속재질이 까맣게 나올때 대처법 | 3:40 | 1,3 тыс. | 2023 |
+| 24 | 언리얼 엔진에서 버텍스 스냅 하는 법 | 6:33 | 1,6 тыс. | 2023 |
+| 25 | Mikktspace Normal를 이용한 버텍스 수 최적화 | 5:31 | 2,1 тыс. | 2023 |
+| 26 | 하나의 머티리얼로, 인스턴스 프랍 베리에이션 - Primitive Data | 8:11 | 907 | 2023 |
+| 27 | 언리얼 엔진 레벨 디자인의 필수 스킬, 버텍스 페인트 | 5:20 | 7,7 тыс. | 2023 |
+| 28 | 두 개의 텍스처를 겹쳐 역동적인 메터리얼 만들기 | 1:56 | 646 | 2023 |
+| 29 | 언리얼 엔진 모델링이 분해돼서 임포트 되는 이유 | 6:40 | 4,6 тыс. | 2023 |
+| 30 | 언리얼 엔진 콜리전 Part 1 - 콜리전 만들기 | 5:02 | 2,3 тыс. | 2023 |
+| 31 | 언리얼 메터리얼 - 메터리얼 애니메이션, Flipbook | 3:12 | 1,2 тыс. | 2023 |
+| 32 | 최적화와 드로우콜 Part 9 - 배경 메터리얼 함부로 저장하면 안 되는 이유 | 4:12 | 1 тыс. | 2023 |
+| 33 | 랜드스케이프 메터리얼 만들기 Part 6 - 하이트맵을 이용한 지형생성 | 5:26 | 893 | 2023 |
+| 34 | 랜드스케이프 메터리얼 만들기 Part 5 - 카메라 거리에 따른 디테일 변화 | 5:31 | 492 | 2023 |
+| 35 | 랜드스케이프 메터리얼 만들기 Part 4 - 랜드스케이프 레이어 경계선 만들기 | 9:13 | 998 | 2023 |
+| 36 | 언리얼 메터리얼 - 태양 광선 만들기, Sun Ray | 7:09 | 1,4 тыс. | 2023 |
+| 37 | 랜드스케이프 메터리얼 만들기 Part 3 - Auto Cliff, 자동 절벽 블렌드 | 6:06 | 1,3 тыс. | 2023 |
+| 38 | 언리얼 엔진 액체 효과 메터리얼 | 4:49 | 2,2 тыс. | 2023 |
+| 39 | 랜드스케이프 메터리얼 만들기 Part 2 - Auto Grass, 랜드스케이프 그래스 타입 | 11:27 | 1,3 тыс. | 2023 |
+| 40 | 랜드스케이프 메터리얼 만들기 Part 1 - 기본 레이어 세팅 | 6:22 | 2,3 тыс. | 2023 |
+| 41 | 언리얼엔진 와이어 프레임 쉐이더 - 홀로그램 만들기 | 2:34 | 2,2 тыс. | 2023 |
+| 42 | 언리얼엔진 움직이는 전광판 만들기 | 9:27 | 1,5 тыс. | 2023 |
+| 43 | 언리얼 메터리얼 - 네온 경계 만들기 | 4:43 | 979 | 2023 |
+| 44 | 언리얼엔진 타일링 팁 3가지 | 6:30 | 1,5 тыс. | 2023 |
+| 45 | 언리얼 무료 배경 추천 - Stylized Egypt | 2:19 | 492 | 2023 |
+| 46 | 언리얼엔진 크로스 플랫폼 - 모바일 PC 메터리얼 분리 | 7:02 | 737 | 2023 |
+| 47 | 언리얼엔진 임포스터 베이커, 모바일 게임 숲 속 구현하기, Impostor Baker | 4:11 | 2,2 тыс. | 2023 |
+| 48 | 언리얼엔진 HLOD 최적화 - Hierarchical Level of Detail | 3:54 | 6,2 тыс. | 2023 |
+| 49 | 언리얼 엔진 LOD - 거리에 따라 메쉬를 최적화하기 | 2:41 | 2,2 тыс. | 2023 |
+| 50 | 언리얼엔진 다수의 어셋 한 번에 관리하기, LOD Bias, 프로퍼티 매트릭스 | 2:19 | 1,7 тыс. | 2023 |
+| 51 | 언리얼엔진 거리에 따라 오브젝트 생략하기, 컬 디스턴스 볼륨 | 2:35 | 2,2 тыс. | 2023 |
+| 52 | 언리얼 엔진 폴리곤이 얼마나 낭비되고 있을까? - 통계 탭 | 4:40 | 2,7 тыс. | 2023 |
+| 53 | 언리얼엔진 드로우콜 확인하기, 렌더링 동결, 오클루전 컬링 | 3:50 | 5,2 тыс. | 2023 |
+| 54 | 언리얼엔진 파라미터 우선순위 정리, 메터리얼 공유와 협업 | 9:31 | 839 | 2023 |
+| 55 | 언리얼 엔진 오브젝트 얼음 만들기 | 6:10 | 926 | 2023 |
+| 56 | 언리얼엔진 흔들리는 오브젝트 메터리얼 | 3:45 | 2,8 тыс. | 2023 |
+| 57 | 언리얼 엔진 오브젝트 회전 메터리얼 | 4:18 | 1,6 тыс. | 2023 |
+| 58 | 언리얼 엔진 눈 쌓인 효과 만들기 | 3:55 | 2 тыс. | 2023 |
+| 59 | 언리얼엔진 메터리얼 타일링, 이미시브,스태틱 스위치 파라미터 | 3:32 | 1,8 тыс. | 2023 |
+| 60 | 언리얼엔진 투명, 불투명 메터리얼 만들기 | 7:20 | 3,6 тыс. | 2023 |
+| 61 | 언리얼엔진 메터리얼 기본 세팅 | 13:30 | 4,1 тыс. | 2023 |
+| 62 | 지브러쉬에서 군용 가방 모델링하기. [Part 2] | 12:59 | 1,1 тыс. | 2019 |
+| 63 | 지브러쉬에서 군용 가방 모델링하기. |  | 1,5 тыс. | 2019 |
+| 64 | Military bag modeling in ZBrush |  | 10 тыс. | 2019 |
  
  
 --- 
@@ -14862,6 +16200,91 @@ Subscribe and start creating — one idea, one render, one world at a time.
 | 213 | Wine Glass shattering effect with Slow Motion Part01 | 15:00 | 5,4 тыс. | 2012 |
 | 214 | Baking a Normal Map in 3ds max.mp4 | 12:12 | 12 тыс. | 2012 |
 | 215 | Baking AO for Games Assets 01.mp4 |  | 121 | 2012 |
+ 
+ 
+--- 
+ 
+# NanceDevDiaries
+
+UE5 tutorials and dev diaries of what I learn as I enjoy crafting my game Portabellows with a mix of blueprints and C++, building up from the Lyra sample project.
+I'm hoping this helps your game development in Unreal Engine 5 and/or to build off Unreal's Lyra Sample game. Lyra is a great learning sample to understand and dive in for best practices, so even if you're not basing your game off of it, it has invaluable examples for UI, game data and much more.
+This channel is a fun adventure! I hope these videos help fellow game devs on their own game dev journey and I'm looking forward to improving my videos over time.
+Thanks for watching and supporting!
+Update: For 2026 I'll be slowing down on videos as I'll be focusing on finalizing Portabellows, looking forward to sharing more!
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Канада
+**Дата регистрации:** 6 дек. 2011 г.
+**Подписчиков:** 7040
+**Видео:** 60
+**Всего просмотров:** 378770
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Stop falling through everything while world partition loads UE5 | 33:26 | 1,6 тыс. | сентябрь 2025 |
+| 2 | Styling my CommonUI \| simplify changing fonts and styles across a project | 21:50 | 1,1 тыс. | август 2025 |
+| 3 | UE5 Game Demo \| How I future proofed my project to easily package a demo & full game \| dev diary | 16:54 | 1,3 тыс. | июль 2025 |
+| 4 | Getting ready for a Steam event and how it went - dev diary | 9:37 | 585 | июнь 2025 |
+| 5 | Shaders loading screen : how I made my build feel good, not broken - Dev diary | 16:59 | 7,5 тыс. | май 2025 |
+| 6 | How I made my World Partition spatially loaded actors remember their states - Dev Diary | 16:23 | 3,7 тыс. | 2025 |
+| 7 | Dev Diary - How is my game dev going, learnings with FMOD, Face rig, Possession and Camera | 17:31 | 2,4 тыс. | 2025 |
+| 8 | Easily toggle your cheats and player specific gameplay with an in-game UI - extending Lyra UE5 | 14:52 | 1 тыс. | 2025 |
+| 9 | CommonUI Modal Dialogs using Blueprints only - Add Yes No dialog to Quit UI option | 12:07 | 1,7 тыс. | 2025 |
+| 10 | Fix your materials on HLODs that use custom primitive data, match your HLODs to its original meshes | 23:16 | 1,8 тыс. | 2025 |
+| 11 | Generate HLODs in a world partition level tutorial tips & tricks : save time and gain performance | 6:30 | 17 тыс. | 2025 |
+| 12 | About my channel, and thanks! | 32:59 | 2,8 тыс. | 2025 |
+| 13 | Rig your characters with modular rig in UE5 without rigging experience step by step tutorial | 39:38 | 18 тыс. | 2025 |
+| 14 | Start editing your animation sequences with Control Rig in Unreal Engine 5 | 11:39 | 21 тыс. | 2025 |
+| 15 | Ease your camera rotation movement while using camera modes, spring arm component inspired UE5 | 42:25 | 3,6 тыс. | 2025 |
+| 16 | UE5 Lyra eye blinks and facial expressions with Epic's Echo or your own character mesh tutorial | 24:20 | 2,7 тыс. | 2025 |
+| 17 | UE5 Minimap from World Partition Tutorial for use in-game and in-editor | 48:59 | 9,5 тыс. | 2025 |
+| 18 | UE5 Lyra Interaction Ability : sitting down on a chair using motion warping tutorial | 23:52 | 5,7 тыс. | 2025 |
+| 19 | Camera Look Around Freely UE5 and Lyra Setup : shoot forward or at crosshair | 16:38 | 3,2 тыс. | 2025 |
+| 20 | CommonUI enable enhanced input support for navigation and action widgets in sample BP UE5 project | 48:28 | 10 тыс. | 2025 |
+| 21 | UE5 zoom ability tutorial : look sensitivity, outline widget and hiding the reticle in Lyra | 28:36 | 1,6 тыс. | 2024 |
+| 22 | CommonUI bottom action bar, make a skip hold button for your credits screen tutorial UE5 | 51:00 | 4,2 тыс. | 2024 |
+| 23 | UE5 Footprint and Impact Effect Setup in Lyra : Add Immersion to Your Game's Surfaces Tutorial | 50:49 | 2,7 тыс. | 2024 |
+| 24 | Sprint Gameplay Ability UE5 Lyra, allow your players to toggle or hold sprint input | 22:05 | 5,2 тыс. | 2024 |
+| 25 | Add your own game settings options using Lyra's framework UE5! Accessibility, game difficulty, etc. | 15:29 | 4,9 тыс. | 2024 |
+| 26 | UE5 add camera lag to Lyra's Camera modes same way as the spring arm component! | 15:49 | 3,9 тыс. | 2024 |
+| 27 | UE5 CommonUI tabbed menu sample project blueprint overview | 8:37 | 5,8 тыс. | 2024 |
+| 28 | UE5 Thumbnail to texture plugin : set a transparent background or a custom background! | 36:20 | 2 тыс. | 2024 |
+| 29 | Bubbles surface pop VFX Tutorial : using UE5 Niagara variables to set water height | 55:14 | 10 тыс. | 2024 |
+| 30 | Creating a UE5 Lyra Gameplay Ability : Glide | 8:13 | 5,3 тыс. | 2024 |
+| 31 | Generate textures from your asset thumbnails! Free UE5 blueprint friendly plugin | 28:26 | 3,9 тыс. | 2024 |
+| 32 | UE5 Game UI Dialogs : create your own yes/no prompts, Lyra's CommonUser and CommonUI tutorial | 26:50 | 5,7 тыс. | 2024 |
+| 33 | NPC Spawner Part 3 : Behavior tree, use pawns without a player state ue5 Lyra | 36:41 | 2,6 тыс. | 2024 |
+| 34 | Create teams for NPC : AI Spawner Part 2. Have a dedicated team for NPC only! | 35:09 | 2,3 тыс. | 2024 |
+| 35 | AI spawner for Lyra : teams, pawn data and how to make them fight in UE5! NPC spawning Part 1 | 44:43 | 8,2 тыс. | 2024 |
+| 36 | Customize Lyra Options Menu : add new tabs with a CommonUI animated widget switcher UE5 | 30:03 | 4,3 тыс. | 2024 |
+| 37 | One material to rule them all : color your instances with Custom Primitive data in UE5 | 55:26 | 2,5 тыс. | 2024 |
+| 38 | Car to Lyra Character and back again UE5 Lyra tutorial : Possess a car part 2 | 18:38 | 4,9 тыс. | 2024 |
+| 39 | Possess a car in a UE5 Lyra sample project : let's download a car! | 6:40 | 5,4 тыс. | 2024 |
+| 40 | Support more or less languages for your Lyra based game : UE5 Lyra menu customization part 1 | 10:05 | 1,5 тыс. | 2024 |
+| 41 | Animation curves: disable foot IK for the roll montage UE5 Lyra | 25:00 | 4,6 тыс. | 2024 |
+| 42 | UE5 simplified lyra music system setup : how I setup some smooth jazz to a game experience | 29:23 | 3,1 тыс. | 2024 |
+| 43 | Common UI pause menu : an empty Unreal Engine 5.2 blueprint only project overview | 17:27 | 15 тыс. | 2024 |
+| 44 | [UE5 Lyra] allow your players to place actors in-game - actor placement targeting | 23:14 | 3,5 тыс. | 2024 |
+| 45 | [UE5 Lyra] nerf AI - setup AI accuracy |  | 5,5 тыс. | 2024 |
+| 46 | [UE5 Lyra] swimming animation setup using linked animation layers | 23:34 | 10 тыс. | 2023 |
+| 47 | [UE5 Lyra] Unequip Guns : Allow your mannequin to parkour hands-free! | 37:33 | 6,6 тыс. | 2023 |
+| 48 | [UE5 Lyra] Custom banana weapon tutorial : data and animation setup | 48:40 | 8,1 тыс. | 2023 |
+| 49 | [UE5 Lyra] Targeting Ability - How to setup user cancel or confirm | 31:14 | 12 тыс. | 2023 |
+| 50 | UE5 Lyra explosive barrels using only blueprints | 17:36 | 4,7 тыс. | 2023 |
+| 51 | Create and setup a UI flipbook animation using free tools for UE5 | 12:58 | 16 тыс. | 2023 |
+| 52 | Developer Settings with Lyra tutorial and overview: Accelerate your development testing (UE5) | 10:31 | 3 тыс. | 2023 |
+| 53 | Creating an Unreal editor asset button: export thumbnails to Texture assets | 37:55 | 4,8 тыс. | 2023 |
+| 54 | Implement Mana GAS Attribute in UE5 Lyra Tutorial | 34:06 | 7,8 тыс. | 2023 |
+| 55 | Creating Camera Mode Volumes in UE5 Lyra tutorial : includes a static camera mode | 40:16 | 5,8 тыс. | 2023 |
+| 56 | Creating a UE5 Lyra Gameplay Ability : Rolling | 27:18 | 20 тыс. | 2023 |
+| 57 | Lyra UE5 Modular Gameplay Feature : Currency UI and Gameplay example tutorial | 12:40 | 6,3 тыс. | 2023 |
+| 58 | Use UE5 Lyra inventory UI and collectables out of the box | 11:10 | 12 тыс. | 2023 |
+| 59 | UE5 Lyra How To Setup Your Own Main Menu Background |  | 16 тыс. | 2023 |
  
  
 --- 
@@ -17010,6 +18433,83 @@ Ben Cloward has been a game dev for over 20 years and has been creating shaders 
 | 178 | Уроки Unreal Engine 4 - Навигация во Viewport (Часть 2) (Урок неактуален) | 11:49 | 20 тыс. | 2015 |
 | 179 | Урок Unreal Engine 4 - Интерфейс (Урок неактуален) | 9:58 | 47 тыс. | 2015 |
 | 180 | Уроки Unreal Engine 4 - Запуск редактора (Урок неактуален) |  | 79 тыс. | 2015 |
+ 
+ 
+--- 
+ 
+# Ryan Brucks
+
+Sharing content made in Unreal Engine 4 through prototype examples, tutorials, and shader snippets.
+Дополнительная информация
+
+**Страна:** Соединенные Штаты
+**Дата регистрации:** 4 нояб. 2014 г.
+**Подписчиков:** 8109
+**Видео:** 57
+**Всего просмотров:** 871026
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Caustics Generator Unreal Engine 4.26 | 3:11 | 20 тыс. | 2021 |
+| 2 | Paintable Cloud Flowmaps UE 4.26 | 0:56 | 55 тыс. | 2021 |
+| 3 | Niagara waterglass | 0:44 | 45 тыс. | 2020 |
+| 4 | Niagara Test | 0:39 | 10 тыс. | 2020 |
+| 5 | Testing upcoming 4.25 niagara features | 1:04 | 16 тыс. | 2020 |
+| 6 | GlassDiamondMorph | 1:35 | 4,6 тыс. | 2020 |
+| 7 | Prototyping Simulating Erosion with individual Particles | 0:53 | 9,7 тыс. | 2019 |
+| 8 | Fluid Simulation with Distance Field attractor | 0:25 | 8,2 тыс. | 2019 |
+| 9 | Siren initial lighting and fluid attractor tests | 0:24 | 3,8 тыс. | 2019 |
+| 10 | Fluid internal lighting test | 0:40 | 4,3 тыс. | 2019 |
+| 11 | Fluid Color Test | 1:40 | 1,9 тыс. | 2019 |
+| 12 | Fortnite Battle Royale HLOD Impostor transitions. | 0:23 | 65 тыс. | 2018 |
+| 13 | Impostor Blended 3 nearest views | 0:57 | 19 тыс. | 2018 |
+| 14 | Impostor SingleFrame Correct Projection Parallax | 0:25 | 24 тыс. | 2018 |
+| 15 | Impostor SingleFrame Wrong Projection | 1:03 | 18 тыс. | 2018 |
+| 16 | Impostor Billboard Version | 1:26 | 36 тыс. | 2018 |
+| 17 | 3D JumpFlood of Voxel texture to make Distance Field Gradient | 0:48 | 15 тыс. | 2018 |
+| 18 | Husk Scrub Video | 0:38 | 6,7 тыс. | 2018 |
+| 19 | Volumetric Fog experiment in UE4 | 0:28 | 22 тыс. | 2018 |
+| 20 | Fibonacci Rotation L-system | 0:21 | 2,9 тыс. | 2018 |
+| 21 | Husk Death Test for Fortnite Cine Launch Trailer | 2:41 | 6,9 тыс. | 2018 |
+| 22 | Painting 3D Flowmaps in VR in UE4 | 0:56 | 17 тыс. | 2018 |
+| 23 | Photon Gathering based Caustics | 0:26 | 13 тыс. | 2017 |
+| 24 | Character Damage using Render Targets in UE4 | 1:14 | 43 тыс. | 2017 |
+| 25 | Simple texture paint, then converting to Velocity | 0:50 | 5,2 тыс. | 2017 |
+| 26 | Caustics via Scatter Method | 0:48 | 5,5 тыс. | 2017 |
+| 27 | PointCloud Animation using Curl Noise | 1:01 | 8,8 тыс. | 2017 |
+| 28 | Volumetric Painting in VR | 1:36 | 4,3 тыс. | 2017 |
+| 29 | 3d fluid sim in ue4 using material driven velocity effects | 0:48 | 7,4 тыс. | 2017 |
+| 30 | No particles. Gerstner Wave shader + analytical splashes | 0:45 | 130 тыс. | 2017 |
+| 31 | Playing with incompressible fluid sim in ue4 | 0:58 | 5,1 тыс. | 2017 |
+| 32 | Test of Prebaking Volumetric Ambient IBL in UE4 | 0:23 | 8,1 тыс. | 2017 |
+| 33 | TurkeyHead CT scan from OSU volume rendered in UE4 | 0:40 | 3,9 тыс. | 2017 |
+| 34 | Volumetric Ray Marcher * Distance Field Shadows | 0:29 | 46 тыс. | 2017 |
+| 35 | Temporal Jitter used to smooth Volume Slicing arifacts | 0:28 | 15 тыс. | 2017 |
+| 36 | Ray Marched Volume Depth Sorted | 0:19 | 14 тыс. | 2017 |
+| 37 | Sorting point cloud data via GPU | 0:30 | 2,6 тыс. | 2017 |
+| 38 | Custom Bounce Light using Blueprints | 0:20 | 1,4 тыс. | 2017 |
+| 39 | ContinousSpectralPhotons | 0:41 | 2 тыс. | 2017 |
+| 40 | Volume Smoke | 0:07 | 32 тыс. | 2017 |
+| 41 | Centaur Melt effect from Gears of War 2 | 0:15 | 3,4 тыс. | 2017 |
+| 42 | Quick mandelbox function cross section | 1:30 | 1 тыс. | 2017 |
+| 43 | Shadow Projection Technique for Sprites | 0:56 | 8 тыс. | 2017 |
+| 44 | UE4 Tiling Physics Ground creation tool | 0:41 | 4,2 тыс. | 2017 |
+| 45 | LightFunction Controller for Kite Demo | 0:08 | 3,1 тыс. | 2017 |
+| 46 | Fake Material Based Dynamic Lights for Bullet Train | 0:15 | 3,3 тыс. | 2017 |
+| 47 | Version 2: Ray Traced Metaballs Shader for UE4 Proto Star demo | 0:12 | 4,7 тыс. | 2017 |
+| 48 | Ray Traced Metaballs Shader for UE4 Proto Star demo | 1:12 | 5,9 тыс. | 2017 |
+| 49 | UE4 Carbon Fiber Dual Normal Clear Coat shader changes | 0:18 | 7,6 тыс. | 2017 |
+| 50 | UE4 quick Volumetric Decal material test | 0:49 | 3,9 тыс. | 2017 |
+| 51 | Sphere soft shadowing experiment based on Last of Us method | 0:21 | 2,1 тыс. | 2017 |
+| 52 | UE4 Custom mesh Component test | 0:23 | 5,1 тыс. | 2017 |
+| 53 | Landscape animation test | 0:21 | 5,7 тыс. | 2017 |
+| 54 | Semi Procedural Building Materials | 0:16 | 14 тыс. | 2017 |
+| 55 | Flipbook Motion Vectors | 1:15 | 8 тыс. | 2016 |
+| 56 | 01 SemiProcedural |  | 7,7 тыс. | 2016 |
  
  
 --- 
@@ -20207,71 +21707,83 @@ I wish you all the best of luck in your game dev careers, dreams, and projects! 
 | 3 | 553000 | Unreal Sensei | [YouTube](https://www.youtube.com/@UnrealSensei) |
 | 4 | 435000 | Thomas Brush | [YouTube](https://www.youtube.com/@fulltimegamedev.com) |
 | 5 | 387000 | reubs | [YouTube](https://www.youtube.com/@reubs) |
-| 6 | 268000 | Bad Decisions Studio | [YouTube](https://www.youtube.com/@badxstudio) |
-| 7 | 268000 | William Faucher | [YouTube](https://www.youtube.com/@WilliamFaucher) |
-| 8 | 243000 | Sir Wade Neistadt | [YouTube](https://www.youtube.com/@sirwade.com) |
-| 9 | 170000 | Gorka Games | [YouTube](https://www.youtube.com/@GorkaGames) |
-| 10 | 170000 | Smart Poly | [YouTube](https://www.youtube.com/@SmartPoly) |
-| 11 | 158000 | Cyberstars - Как создать игру | [YouTube](https://www.youtube.com/@cyberstars) |
-| 12 | 156000 | WINBUSH | [YouTube](https://www.youtube.com/@JonathanWinbush) |
-| 13 | 141000 | Magnet VFX | [YouTube](https://www.youtube.com/@magnetvfx) |
-| 14 | 128000 | Awesome Tuts - Anyone Can Learn To Make Games | [YouTube](https://www.youtube.com/@awesometuts.com) |
-| 15 | 125000 | Ryan Laley | [YouTube](https://www.youtube.com/@ryanlaley.com) |
-| 16 | 103000 | CodeLikeMe | [YouTube](https://www.youtube.com/@CodeLikeMe) |
-| 17 | 96200 | Matt Aspland | [YouTube](https://www.youtube.com/@MattAspland) |
-| 18 | 94000 | UNF Games | [YouTube](https://www.youtube.com/@unfgames) |
-| 19 | 91300 | Cobra Code | [YouTube](https://www.youtube.com/@CobraCode) |
-| 20 | 90900 | Unreal University | [YouTube](https://www.youtube.com/@UnrealUniversity) |
-| 21 | 80200 | Unreal Engine Rus | [YouTube](https://www.youtube.com/@Unreal-engine4Ru) |
-| 22 | 80100 | Ben Cloward | [YouTube](https://www.youtube.com/@BenCloward) |
-| 23 | 77800 | PrismaticaDev | [YouTube](https://www.youtube.com/@PrismaticaDev) |
-| 24 | 74600 | Ali Elzoheiry | [YouTube](https://www.youtube.com/@AliElZoheiry) |
-| 25 | 69000 | Mathew Wadstein | [YouTube](https://www.youtube.com/@MathewWadsteinTutorials) |
-| 26 | 36700 | Dean Ashford | [YouTube](https://www.youtube.com/@DeanAshford) |
-| 27 | 32800 | Make Your Game | [YouTube](https://www.youtube.com/@yandex.ru) |
-| 28 | 29200 | Tech Art Aid | [YouTube](https://www.youtube.com/@TechArtAid) |
-| 29 | 26900 | Visual Tech Art | [YouTube](https://www.youtube.com/@VisualTechArt) |
-| 30 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
-| 31 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
-| 32 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
-| 33 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
-| 34 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
-| 35 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
-| 36 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
-| 37 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
-| 38 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
-| 39 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
-| 40 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
-| 41 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
-| 42 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
-| 43 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
-| 44 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
-| 45 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
-| 46 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
-| 47 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
-| 48 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
-| 49 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
-| 50 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
-| 51 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
-| 52 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
-| 53 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
-| 54 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
-| 55 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 56 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 57 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 58 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 59 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 60 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 61 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 62 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
-| 63 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 64 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 65 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
-| 66 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 67 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 68 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
-| 69 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 70 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 71 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 72 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
-| 73 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 6 | 369000 | Quixel | [YouTube](https://www.youtube.com/@Fab.) |
+| 7 | 268000 | Bad Decisions Studio | [YouTube](https://www.youtube.com/@badxstudio) |
+| 8 | 268000 | William Faucher | [YouTube](https://www.youtube.com/@WilliamFaucher) |
+| 9 | 243000 | Sir Wade Neistadt | [YouTube](https://www.youtube.com/@sirwade.com) |
+| 10 | 170000 | Gorka Games | [YouTube](https://www.youtube.com/@GorkaGames) |
+| 11 | 170000 | Smart Poly | [YouTube](https://www.youtube.com/@SmartPoly) |
+| 12 | 158000 | Cyberstars - Как создать игру | [YouTube](https://www.youtube.com/@cyberstars) |
+| 13 | 156000 | WINBUSH | [YouTube](https://www.youtube.com/@JonathanWinbush) |
+| 14 | 141000 | Magnet VFX | [YouTube](https://www.youtube.com/@magnetvfx) |
+| 15 | 128000 | Awesome Tuts - Anyone Can Learn To Make Games | [YouTube](https://www.youtube.com/@awesometuts.com) |
+| 16 | 125000 | Ryan Laley | [YouTube](https://www.youtube.com/@ryanlaley.com) |
+| 17 | 103000 | CodeLikeMe | [YouTube](https://www.youtube.com/@CodeLikeMe) |
+| 18 | 96200 | Matt Aspland | [YouTube](https://www.youtube.com/@MattAspland) |
+| 19 | 94000 | UNF Games | [YouTube](https://www.youtube.com/@unfgames) |
+| 20 | 91300 | Cobra Code | [YouTube](https://www.youtube.com/@CobraCode) |
+| 21 | 90900 | Unreal University | [YouTube](https://www.youtube.com/@UnrealUniversity) |
+| 22 | 80200 | Unreal Engine Rus | [YouTube](https://www.youtube.com/@Unreal-engine4Ru) |
+| 23 | 80100 | Ben Cloward | [YouTube](https://www.youtube.com/@BenCloward) |
+| 24 | 77800 | PrismaticaDev | [YouTube](https://www.youtube.com/@PrismaticaDev) |
+| 25 | 74600 | Ali Elzoheiry | [YouTube](https://www.youtube.com/@AliElZoheiry) |
+| 26 | 69000 | Mathew Wadstein | [YouTube](https://www.youtube.com/@MathewWadsteinTutorials) |
+| 27 | 36700 | Dean Ashford | [YouTube](https://www.youtube.com/@DeanAshford) |
+| 28 | 32800 | Make Your Game | [YouTube](https://www.youtube.com/@yandex.ru) |
+| 29 | 29900 | Virtual Production Insider | [YouTube](https://www.youtube.com/@vpinsider) |
+| 30 | 29200 | Tech Art Aid | [YouTube](https://www.youtube.com/@TechArtAid) |
+| 31 | 26900 | Visual Tech Art | [YouTube](https://www.youtube.com/@VisualTechArt) |
+| 32 | 25800 | Dallas Drapeau | [YouTube](https://www.youtube.com/@DallasDrap) |
+| 33 | 24200 | Kekdot | [YouTube](https://www.youtube.com/@Kekdot) |
+| 34 | 24000 | Life EXE | [YouTube](https://www.youtube.com/@LifeEXECode) |
+| 35 | 22200 | Ghislain Girardot | [YouTube](https://www.youtube.com/@ghislaingirardot) |
+| 36 | 19200 | Tom Looman | [YouTube](https://www.youtube.com/@tom.looman) |
+| 37 | 19100 | Proj Prod | [YouTube](https://www.youtube.com/@ProjProd) |
+| 38 | 15000 | Clydiie | [YouTube](https://www.youtube.com/@Clydiie) |
+| 39 | 13000 | Sneaky Kitty Game Dev | [YouTube](https://www.youtube.com/@SneakyKittyGameDev) |
+| 40 | 12800 | Polygon Hive | [YouTube](https://www.youtube.com/@PolygonHive) |
+| 41 | 11900 | 6_88 Studio | [YouTube](https://www.youtube.com/@yandex.ru) |
+| 42 | 11200 | Oscar Lumiere | [YouTube](https://www.youtube.com/@Oscar_Lumiere) |
+| 43 | 11000 | GameCook | [YouTube](https://www.youtube.com/@GameCookDev) |
+| 44 | 10800 | Lötwig Fusel | [YouTube](https://www.youtube.com/@LötwigFusel) |
+| 45 | 10700 | Dusty Plxels | [YouTube](https://www.youtube.com/@dustypixelsUE5) |
+| 46 | 10500 | Kibibyte | [YouTube](https://www.youtube.com/@kibibytecompany) |
+| 47 | 8780 | The Dev Realm | [YouTube](https://www.youtube.com/@TheDevRealm) |
+| 48 | 8780 | Unreal DevOP | [YouTube](https://www.youtube.com/@unrealdevop) |
+| 49 | 8630 | TechAnim Studios | [YouTube](https://www.youtube.com/@TechAnimStudios) |
+| 50 | 8430 | UNREAL RUSSIA | [YouTube](https://www.youtube.com/@UNREALRUSSIA) |
+| 51 | 8109 | Ryan Brucks | [YouTube](https://www.youtube.com/@ryanbrucks3429) |
+| 52 | 7670 | GGameDev | [YouTube](https://www.youtube.com/@ggamedev) |
+| 53 | 7660 | Zero2GameDev | [YouTube](https://www.youtube.com/@Zero2GameDev0) |
+| 54 | 7040 | NanceDevDiaries | [YouTube](https://www.youtube.com/@nancedevdiaries) |
+| 55 | 6960 | GameDevMan | [YouTube](https://www.youtube.com/@GameDevMan) |
+| 56 | 5810 | Mundbrush | [YouTube](https://www.youtube.com/@gmail.com) |
+| 57 | 5510 | Brian Michael Fuller | [YouTube](https://www.youtube.com/@brianmichaelfuller) |
+| 58 | 5460 | GrAl Unreal Engine | [YouTube](https://www.youtube.com/@GrAlUnrealEngine) |
+| 59 | 4790 | PolySphere 3D | [YouTube](https://www.youtube.com/@PolySphere3D) |
+| 60 | 4150 | Surin | [YouTube](https://www.youtube.com/@surinStudio) |
+| 61 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
+| 62 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
+| 63 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
+| 64 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 65 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 66 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 67 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 68 | 2790 | Mootzart | [YouTube](https://www.youtube.com/@mootzartdev) |
+| 69 | 2420 | Rambod Dev | [YouTube](https://www.youtube.com/@RambodDev) |
+| 70 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 71 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 72 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
+| 73 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 74 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 75 | 1600 | PopulusArt | [YouTube](https://www.youtube.com/@populusart) |
+| 76 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
+| 77 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 78 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 79 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
+| 80 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 81 | 406 | Call of the Mountain | [YouTube](https://www.youtube.com/@callofthemountain) |
+| 82 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 83 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 84 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 85 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
