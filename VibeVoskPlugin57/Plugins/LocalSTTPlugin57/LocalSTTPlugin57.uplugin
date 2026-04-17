@@ -1,0 +1,53 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "LocalSTTPlugin57",
+	"Description": "Локальное распознавание речи с использованием VOSK API. Поддержка потокового распознавания, детекции ключевых слов и Blueprint-интеграции.",
+	"Category": "Audio",
+	"CreatedBy": "Andrey (cb) Mikheev",
+	"EngineAssociation": "5.7",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LocalSTTCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AudioCapture",
+				"AudioCaptureCore"
+			]
+		},
+		{
+			"Name": "LocalSTTBlueprint",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"LocalSTTCore"
+			]
+		}
+		,
+		{
+			"Name": "LocalSTTEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UnrealEd",
+				"Projects",
+				"Settings",
+				"LocalSTTCore"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AudioCapture",
+			"Enabled": true
+		}
+	],
+	"ExternalDependencies": []
+}
