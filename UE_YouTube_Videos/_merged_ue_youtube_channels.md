@@ -2345,6 +2345,42 @@ https://www.patreon.com/codelikeme
  
 --- 
  
+# YedesCodes
+
+Welcome to my channel, where I share expert Unreal Engine tutorials and 3D content! Whether you're a beginner or an experienced developer, you'll find valuable insights and hands-on guides to help you master Unreal Engine. From creating stunning 3D environments to crafting custom plugins and enhancing your game development skills, this channel is your go-to resource for everything Unreal Engine. Subscribe for regular content packed with tips, tricks, and in-depth tutorials designed to inspire your next project
+Дополнительная информация
+Показать адрес электронной почты
+
+**Страна:** Франция
+**Дата регистрации:** 23 янв. 2015 г.
+**Подписчиков:** 1040
+**Видео:** 25
+**Всего просмотров:** 68168
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Chasm's Call 3D Community Challenge - BREAKDOWN | 10:59 | 406 | 2025 |
+| 2 | Create Animated Materials For Any Mesh \| Unreal Engine 5 AnimToTexture Tutorial | 8:31 | 19 тыс. | 2025 |
+| 3 | Create Audio-Driven Facial Animations for MetaHumans – Unreal Engine 5 Tutorial | 5:59 | 1 тыс. | 2025 |
+| 4 | How to make a leafy Tornado using Niagara in under 5 minutes \| Unreal Engine 5 tutorial | 3:40 | 1,2 тыс. | 2025 |
+| 5 | Create Realistic Falling Leaves in Under 5 Minutes \| Unreal Engine 5 Niagara Tutorial | 2:27 | 12 тыс. | 2025 |
+| 6 | Kinetic Rush 3D Community Challenge - BREAKDOWN | 21:02 | 286 | 2025 |
+| 7 | How to move objects along Spline - Unreal Engine 5 tutorial | 49:52 | 7,8 тыс. | 2025 |
+| 8 | How to spawn procedural objects on custom surface using splines - Unreal Engine 5 tutorial | 18:28 | 975 | 2025 |
+| 9 | How to make a Tornado using Niagara - Unreal Engine 5 tutorial | 1:01 | 14 тыс. | 2024 |
+| 10 | You are not welcome - Unreal Engine Challenge: Creep It Real | 2:29 | 135 | 2023 |
+| 11 | Objects Spawner System - OSS - Realtime level editor - V1.2 - Unreal Engine - UE4 - UE5 | 3:00 | 281 | 2023 |
+| 12 | Objects Spawner System - OSS - Realtime level editor - V1.1 - Unreal Engine 4 - UE4 | 1:48 | 336 | 2022 |
+| 13 | Objects Spawner System - OSS - Showcase tutorial 1 - Unreal Engine 4 - UE4 | 3:45 | 527 | 2022 |
+| 14 | Objects Spawner System - OSS - Showcase tutorial 2 - Unreal Engine 4 - UE4 |  | 282 | 2022 |
+ 
+ 
+--- 
+ 
 # Kibibyte
 
 Do you want more such content? Click subscribe!
@@ -8407,6 +8443,42 @@ I'm Amit Signing out ...
  
 --- 
  
+# Burkhardt Design
+
+As technology progresses small teams have the ability to realize big dreams. I want to help equip those individuals and teams with the knowledge and tools needed to create the unique experiences and tell the unique stories that only small passionate teams can create by sharing artistic and technical tools and techniques with the community!
+Дополнительная информация
+
+**Страна:** Соединенные Штаты
+**Дата регистрации:** 14 мар. 2021 г.
+**Подписчиков:** 1460
+**Видео:** 20
+**Всего просмотров:** 22199
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Building the core mechanic of Wild At Hardt | 5:26 | 175 | март 2026 |
+| 2 | Unwrap UVs like a Tech Artist | 29:29 | 1,1 тыс. | январь 2026 |
+| 3 | Technical Art Foundations for Shaders | 3:23 | 3,1 тыс. | январь 2026 |
+| 4 | How to Become a Technical Artist in Unreal Engine 5 | 9:13 | 8,9 тыс. | январь 2026 |
+| 5 | Art or Prototyping First? | 1:04 | 661 | ноябрь 2025 |
+| 6 | Wild At Hardt - Pitch | 2:38 | 231 | ноябрь 2025 |
+| 7 | New Name - Better Game | 14:29 | 894 | ноябрь 2025 |
+| 8 | How to Study Character Design for Games | 2:31 | 335 | ноябрь 2025 |
+| 9 | How I Created this Floating World Style Shader | 17:30 | 882 | август 2025 |
+| 10 | How do these two AAA studios approach Art? | 5:30 | 532 | июль 2025 |
+| 11 | The Importance of Choosing Art Pillars for Your Game | 2:52 | 389 | июнь 2025 |
+| 12 | What can we learn from AI art? | 3:54 | 143 | июнь 2025 |
+| 13 | Can this actually be fun? | 4:40 | 201 | июнь 2025 |
+| 14 | Dev Log 1: The Journey Begins! | 7:35 | 103 | июнь 2025 |
+| 15 | Substance Painter For Photoshop Users |  | 998 | 2021 |
+ 
+ 
+--- 
+ 
 # Clydiie
 
 not a game dev... yet
@@ -13318,6 +13390,203 @@ I cover basic and advanced stuff, always spiced with some extra stuff that usual
  
 --- 
  
+# Inu Games
+
+Дополнительная информация
+
+**Страна:** Дата регистрации: 29 мая 2018 г.
+**Подписчиков:** 2730
+**Видео:** 180
+**Всего просмотров:** 300326
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Motion matching in GASP experimental ABP UE5.7 | 15:22 | 542 | декабрь 2025 |
+| 2 | Exploring GASP experimental ABP setup UE5.7 | 20:35 | 749 | декабрь 2025 |
+| 3 | Making an NPC with Mover in UE5 (replicated, bp-only) | 36:33 | 526 | декабрь 2025 |
+| 4 | Simple Mover Driven Replicated BP Character | 23:13 | 1,2 тыс. | декабрь 2025 |
+| 5 | Chaos Destruction to VAT converter | 1:58 | 577 | июль 2025 |
+| 6 | Japanese Furniture Vol.1 | 14:40 | 116 | июль 2025 |
+| 7 | WIP Chaos fracture to VAT Tool (Easy Vertex Anim) | 7:37 | 395 | май 2025 |
+| 8 | Eeasy Vertex Anim Overview (v1.1) | 37:31 | 778 | 2025 |
+| 9 | Animating a tree in UE5 (EVA v1.1) | 12:20 | 677 | 2025 |
+| 10 | Foliage Shader Settings (EVA v1.1) | 25:27 | 206 | 2025 |
+| 11 | How to control a vertex anim from a blueprint | 9:39 | 341 | 2025 |
+| 12 | UE5 Fracture to Easy Vertex Anim | 24:26 | 1,1 тыс. | 2025 |
+| 13 | Easy Vertex Anim for UEFN | 10:34 | 1,1 тыс. | 2025 |
+| 14 | Easy Vertex Anim UE5 Plugin Released! (plus Vertex Animated Logo Tutorial) | 32:07 | 548 | 2025 |
+| 15 | Easy Vertex Anim plugin: Examples | 19:41 | 1,2 тыс. | 2025 |
+| 16 | Easy Vertex Anim plugin: Creating materials | 27:53 | 358 | 2025 |
+| 17 | Easy Vertex Anim plugin: Getting Started | 28:51 | 866 | 2025 |
+| 18 | Vertex Animation in UE5 but Easy (Part2) | 39:58 | 1,7 тыс. | 2025 |
+| 19 | Vertex Animation in UE5 but Easy | 0:54 | 8,7 тыс. | 2025 |
+| 20 | Planetary Gear Vertex Anim | 23:37 | 509 | 2025 |
+| 21 | Easy Vertex Anim plugin for UE5 (Progress) | 2:39 | 1,1 тыс. | 2025 |
+| 22 | Copy Vertex Color editor tool UE5 plugin (free) | 1:02 | 429 | 2025 |
+| 23 | IGToolsPP example: Japanese Garden | 12:38 | 275 | 2024 |
+| 24 | Easy Vertex Anim plugin for UE5 (WIP) | 0:39 | 843 | 2024 |
+| 25 | Japanese maple with ivy | 0:54 | 189 | 2024 |
+| 26 | Zelkova serrata with ivy example | 8:03 | 145 | 2024 |
+| 27 | IGToolsPP Tutorials: Masked Material (Part 7) | 37:00 | 272 | 2024 |
+| 28 | IGToolsPP Tutorials: Textures (Part 6) | 58:51 | 277 | 2024 |
+| 29 | IGToolsPP Tutorials: Materials (Part 5) | 32:41 | 461 | 2024 |
+| 30 | IGToolsPP Tutorials: Wind Actor and Wind Anim Layer (Part 4) |  | 476 | 2024 |
+| 31 | IGToolsPP Tutorials: Making Off of the Xmas Tree Clip (Holidays Special Edition) | 14:20 | 342 | 2024 |
+| 32 | IGToolsPP Tutorials: Models with Spine Only generators (Part 3) | 13:02 | 532 | 2024 |
+| 33 | IGToolsPP Tutorials: Grass (Part 2) | 22:55 | 626 | 2024 |
+| 34 | IGToolsPP Tutorials: Introduction (Part 1) | 4:04 | 1,1 тыс. | 2024 |
+| 35 | Texture Channel Packer for UE5 | 0:11 | 945 | 2024 |
+| 36 | IGToolsPP example 2 | 0:35 | 657 | 2024 |
+| 37 | Bamboo example | 6:04 | 775 | 2024 |
+| 38 | SpeedTree to Pivot Painter 2 UE5 Plugin | 6:04 | 4 тыс. | 2024 |
+| 39 | SpeedTree to Pivot Painter 2 UE5 Plugin | 1:46 | 4 тыс. | 2024 |
+| 40 | Girl Walk&Run Anims Pack UE5 | 31:52 | 3,9 тыс. | 2023 |
+| 41 | Physics Control Component UE5 (Part 3) | 37:01 | 4,7 тыс. | 2023 |
+| 42 | Physics Control Component UE5 (Part 2) | 23:56 | 7,3 тыс. | 2023 |
+| 43 | Physics Control Component UE5 (Part 1) | 17:06 | 21 тыс. | 2023 |
+| 44 | Multi Threaded AnimBP Update in UE5 | 8:36 | 10 тыс. | 2023 |
+| 45 | "Walk in Fear" UE5 AnimBP | 14:34 | 601 | 2023 |
+| 46 | Animation Mirroring in UE5 | 7:42 | 2,6 тыс. | 2023 |
+| 47 | Exploring UE5 Rewind Debugger | 1:11 | 3,2 тыс. | 2023 |
+| 48 | Animation for Cascadeur competition | 5:10 | 695 | 2023 |
+| 49 | Cascadeur: Transform forward moving anim into in-place anim | 32:12 | 3,1 тыс. | 2022 |
+| 50 | Cascadeur Basic Intro | 0:28 | 864 | 2021 |
+| 51 | metahumans pokerface | 1:09 | 393 | 2021 |
+| 52 | Project Loco demo v0.3 | 0:49 | 3 тыс. | 2021 |
+| 53 | AnimBP for LocomotionAnimset | 31:07 | 846 | 2021 |
+| 54 | Control Rig Plugin for UE4: Quarduped IK | 59:54 | 16 тыс. | 2021 |
+| 55 | Control Rig Plugin for UE4: Getting Started part 2 | 27:37 | 10 тыс. | 2021 |
+| 56 | Control Rig Plugin for UE4: Getting Started part 1 | 1:00 | 15 тыс. | 2021 |
+| 57 | Tips for working with Static Mesh Sockets in UE4 | 0:51 | 3,8 тыс. | 2021 |
+| 58 | Hi res face test | 0:47 | 435 | 2021 |
+| 59 | MSSR Snap to ISM | 3:17 | 224 | 2021 |
+| 60 | AnimBP for UE4 Poly Art Cougars and Panthers WIP | 2:32 | 958 | 2021 |
+| 61 | Advanced AnimBP for PolyArt Wolf Version 1.0 Released! | 1:05 | 4,3 тыс. | 2021 |
+| 62 | Project Wolf Update: Actions | 0:54 | 482 | 2021 |
+| 63 | Project Wolf: Swimming | 1:54 | 721 | 2021 |
+| 64 | Project Wolf: Movement capabilities so far | 0:44 | 1,2 тыс. | 2021 |
+| 65 | Project Wolf: Drop from ledge | 0:32 | 661 | 2021 |
+| 66 | AnimBP for PolyArt Wolf project files release | 0:37 | 1,6 тыс. | 2020 |
+| 67 | Building System (Another MSSR example WIP) | 1:28 | 223 | 2020 |
+| 68 | MSS: Bulk Export and Import sockets tool. | 1:30 | 179 | 2020 |
+| 69 | Basic VR Animated fingers | 0:34 | 930 | 2020 |
+| 70 | BasicVR Collision Audio Component | 0:13 | 168 | 2020 |
+| 71 | BasicVR: Menu | 1:25 | 216 | 2020 |
+| 72 | MSSR on Oculus Quest | 0:40 | 97 | 2020 |
+| 73 | BasicVR: Stabilized Laser Pointer | 1:24 | 1,6 тыс. | 2020 |
+| 74 | Basic UE4 VR interactions (like Oculus Home) | 2:19 | 651 | 2020 |
+| 75 | MJH MS_Machiya_3 in VR | 2:02 | 65 | 2020 |
+| 76 | MJH MS_Machiya_1 in VR | 2:05 | 50 | 2020 |
+| 77 | Modular Procedural Scaffold System in VR - Night scene | 2:15 | 69 | 2020 |
+| 78 | Modular Procedural Scaffold System in VR - Day scene | 32:48 | 72 | 2020 |
+| 79 | Using your own meshes with MSSR plugin for UE4 | 2:20 | 995 | 2020 |
+| 80 | MJH MS_Machiya_8 in VR | 25:10 | 38 | 2020 |
+| 81 | MSSR VR Example Turtorial | 2:13 | 479 | 2020 |
+| 82 | MSSR VR v3 | 4:50 | 98 | 2020 |
+| 83 | MJH new BP_BuilderWidget | 1:19 | 77 | 2020 |
+| 84 | Modular Japanese Town House: MS_Machiya_5 presentation | 0:36 | 178 | 2020 |
+| 85 | Modular Japanese Town House: MS_Butai_01 | 0:22 | 70 | 2020 |
+| 86 | Modular Japanese Town House: MS_Machiya_13 presentation | 0:33 | 88 | 2020 |
+| 87 | Modular Japanese Town House: MS_Machiya_14 presentation | 0:49 | 67 | 2020 |
+| 88 | Modular Japanese Town House: MS_Machiya_15 presentation | 1:34 | 64 | 2020 |
+| 89 | Modular Japanese Town House: MS_Machiya_16 presentation | 3:25 | 43 | 2020 |
+| 90 | Procedural Scaffold UI Widget | 3:52 | 286 | 2020 |
+| 91 | Modular Procedural Scaffold System Demo | 0:32 | 1,8 тыс. | 2020 |
+| 92 | Auto instancing in #UE4 | 1:47 | 957 | 2020 |
+| 93 | Modular Japanese Town House: MS_Machiya_11 presentation | 0:23 | 30 | 2020 |
+| 94 | #UE4 4.23 auto instancing of dynamic actors | 1:25 | 1,4 тыс. | 2020 |
+| 95 | Modular Japanese Town House: MS_Machiya_10 presentation | 0:58 | 24 | 2020 |
+| 96 | Modular Japanese Town House: MS_Machiya_9 presentation | 0:37 | 58 | 2020 |
+| 97 | Gimbal free bone driven controller UE4 | 1:14 | 1 тыс. | 2020 |
+| 98 | Modular Japanese Town House: MS_Machiya_8 presentation | 9:13 | 37 | 2020 |
+| 99 | Fixing automatic DAZ corrective morphs in Marvelous Designer | 2:28 | 3,2 тыс. | 2020 |
+| 100 | Modular Japanese Town House: MS_Machiya_7 presentation | 5:08 | 61 | 2020 |
+| 101 | Fixing automatic DAZ skinning in Maya LT | 2:30 | 738 | 2020 |
+| 102 | Removing translation from animation keys in Maya using Time Editor | 10:30 | 1,1 тыс. | 2020 |
+| 103 | Making loops with Maya Time Editor | 0:56 | 1,5 тыс. | 2020 |
+| 104 | Modular Japanese Town House: MS_Machiya_6 presentation (Sunrise) | 0:38 | 20 | 2020 |
+| 105 | MSSR ver 1.1.0: multithread Snap and No Inside material | 0:31 | 358 | 2020 |
+| 106 | Modular Japanese Town House: MS_Machiya_4 presentation | 0:43 | 38 | 2020 |
+| 107 | MSSR Multithread WIP | 1:31 | 50 | 2020 |
+| 108 | Making an UE4 Builder Pawn in 45s | 1:41 | 3,1 тыс. | 2020 |
+| 109 | Procedural and Modular Scaffolding for UE4 Editor Widget | 1:00 | 240 | 2020 |
+| 110 | Modular Japanese Town House: MS_Machiya_3 presentation | 1:43 | 102 | 2020 |
+| 111 | MSSR Detach | 1:07 | 134 | 2020 |
+| 112 | MSSR Snap with physics constraints | 1:16 | 989 | 2020 |
+| 113 | Modular Japanese Town House: MS_Machiya_2 presentation | 5:04 | 36 | 2020 |
+| 114 | Procedural and Modular Scaffolding System in UE4 | 20:53 | 421 | 2020 |
+| 115 | MSSR Getting Started | 1:14 | 1,8 тыс. | 2020 |
+| 116 | MSSR Multiplayer test 3 | 0:46 | 76 | 2020 |
+| 117 | MSSR Network "VR" Test 2 | 0:48 | 138 | 2020 |
+| 118 | MSSR Network Test | 43:55 | 61 | 2020 |
+| 119 | MSSR Tutorial Extended Walktrough | 0:20 | 3,1 тыс. | 2020 |
+| 120 | MSSR Plugin Tutorial Quick flythrough. | 0:44 | 62 | 2020 |
+| 121 | MSSR Content Examples WIP | 0:32 | 45 | 2020 |
+| 122 | MSSR Demo level Snap to Skeletal | 4:29 | 654 | 2020 |
+| 123 | MSSR Rot Snap Example | 1:10 | 65 | 2020 |
+| 124 | MSSR Editor Pawn and Preview Actor | 1:42 | 97 | 2020 |
+| 125 | Jishin prebuilt structures | 0:30 | 170 | 2020 |
+| 126 | MSSR Smooth Snap to moving physical actors | 54:50 | 541 | 2020 |
+| 127 | "Jishin Construction Inc." game implementation breakdown | 4:05 | 188 | 2020 |
+| 128 | Jishin Construction Ltd. More Gameplay. | 0:52 | 101 | 2020 |
+| 129 | Jishin Construction Ltd. Gameplay. | 3:41 | 392 | 2020 |
+| 130 | Jishin Construction Ltd. Tutorial. | 0:28 | 187 | 2020 |
+| 131 | Modular Japanese Town House Demo. | 0:35 | 1,5 тыс. | 2019 |
+| 132 | Modular Japanese House Demo, Almost Done! | 2:05 | 73 | 2019 |
+| 133 | Speed building with MJH+MSS | 8:36 | 468 | 2019 |
+| 134 | Copy-paste sockets with Modular Snap System UE4 Plugin | 0:20 | 1,6 тыс. | 2019 |
+| 135 | Japanese Modular Town House for UE4, Interiors example |  | 267 | 2019 |
+| 136 | Modular Japanese House Kit : Tutorial - Part 1 - B | 3:06 | 478 | 2019 |
+| 137 | Old Japanese town tour in UE4 | 38:09 | 270 | 2019 |
+| 138 | Modular Japanese House Kit : Tutorial - Part 1 - A | 2:43 | 293 | 2019 |
+| 139 | Building in Space, part 2. MSSR Devlog #6 | 4:47 | 92 | 2019 |
+| 140 | Building Stuff in Space. MSSR ★ Devlog #5 | 1:45 | 203 | 2019 |
+| 141 | Is Connected? MSSR Devlog 4 | 1:07 | 198 | 2019 |
+| 142 | Tracking. MSSR Dev Log 3. | 1:36 | 174 | 2019 |
+| 143 | MSSR Modular Snap System Runtime Plugin for UE4. Dev Log 2. | 4:32 | 661 | 2019 |
+| 144 | MSSR Modular Snap System Runtime Plugin for UE4. Dev Log 1. | 6:06 | 1 тыс. | 2019 |
+| 145 | Snap Open Only. New feature in Modular Snap System 1.4.2 | 5:58 | 595 | 2019 |
+| 146 | Bone Driven Corrective Morphs in UE4 [Daz3D to UE4] | 4:21 | 8,7 тыс. | 2019 |
+| 147 | Getting started with MSS: How to make a snappy cube (with voice) | 3:53 | 759 | 2019 |
+| 148 | "Snap Attached" option in MSS v1.4.1 | 0:23 | 260 | 2019 |
+| 149 | UE4 IBL Test | 56:23 | 803 | 2019 |
+| 150 | Making playable character and NPC using root motion anims in UE4 | 22:44 | 24 тыс. | 2019 |
+| 151 | Lighting in Unreal Engine Tutorial for beginners. Part 3 | 43:33 | 812 | 2019 |
+| 152 | Modular Japanese House : Texturing - Part 1 | 22:50 | 124 | 2019 |
+| 153 | Lighting in Unreal Engine Tutorial for beginners. Part 2 | 22:33 | 600 | 2019 |
+| 154 | Lighting in UE4. Tutorial for beginners. | 7:22 | 2 тыс. | 2019 |
+| 155 | Combining dynamic light and built light scenario and world composition in UE4 (experiment) | 0:57 | 2,4 тыс. | 2019 |
+| 156 | Half-baked light UE4 | 0:52 | 292 | 2019 |
+| 157 | Octahedral impostors UE 4.21 | 1:21 | 2,3 тыс. | 2019 |
+| 158 | Jumping Wolves (UE4 AI) | 1:08 | 1,8 тыс. | 2019 |
+| 159 | Jumping Wolves (UE4 AI Bots) | 1:15 | 310 | 2019 |
+| 160 | Running with the wolves (UE4 AI bots) | 1:15 | 3,7 тыс. | 2019 |
+| 161 | Anim Blueprint and Character for Poly Art Magic Wolf | 7:21 | 4,7 тыс. | 2019 |
+| 162 | Landscape material test | 48:44 | 86 | 2019 |
+| 163 | Using a modular building kit with MSS Plugin | 4:25 | 2,9 тыс. | 2019 |
+| 164 | How to make snappy pipes | 3:13 | 1 тыс. | 2019 |
+| 165 | How to make a snappy cube | 0:52 | 792 | 2019 |
+| 166 | MSS Autocomplete 2: Context sensitive | 2:05 | 92 | 2019 |
+| 167 | MSS Autocomplete | 0:49 | 360 | 2019 |
+| 168 | Modular Snap System v1.4 | 3:20 | 526 | 2019 |
+| 169 | Attach to socket/skeletal mesh socket demo | 1:33 | 6,7 тыс. | 2019 |
+| 170 | Snapping standard UE cylinders | 12:48 | 204 | 2019 |
+| 171 | Modular Snap System UE4 Plugin v1.3 | 1:48 | 9,7 тыс. | 2019 |
+| 172 | Building spline railroad in UE4 with MSS v1.3 | 5:53 | 655 | 2019 |
+| 173 | Building a house with Modular Snap System and PolyPixel Free Pack (Part 2/2) | 2:02 | 1,2 тыс. | 2019 |
+| 174 | MSS: Socket Polarity Tutorial | 2:56 | 619 | 2019 |
+| 175 | Building a house with Modular Snap System and PolyPixel Free Pack (Part 1/2) | 11:17 | 3,3 тыс. | 2019 |
+| 176 | Building with MSS: Luos Free Caves | 17:59 | 627 | 2019 |
+| 177 | Building Japanese Pavilion (Modular Snap System plugin for Unreal 4) | 7:11 | 888 | 2019 |
+| 178 | Modular Snap System for UE4 |  | 14 тыс. | 2019 |
+ 
+ 
+--- 
+ 
 # Mootzart
 
 I am Mootzart, (Jake). I am a video game environment artist and 3D modeller + generalist. I work for Microprose and Im also working on my own ambitious game project.
@@ -13867,31 +14136,6 @@ Come and chat with me on Discord: https://discord.gg/PKrsdsMxjP
 | 153 | Boosting Cooking Level with Wine OSRS | 6:09 | 2,6 тыс. | 2020 |
 | 154 | Voopoo Drag - Coil Auto Setup + Manual Mode Example | 0:11 | 90 тыс. | 2019 |
 | 155 | Testing out Costco's sofa beds |  | 33 тыс. | 2018 |
- 
- 
---- 
- 
-# Андрей Михеев
-
-Делаю игры. Играю в игры.
-
-**Страна:** Россия
-**Дата регистрации:** 11 дек. 2014 г.
-**Подписчиков:** 322
-**Видео:** 6
-**Всего просмотров:** 336
-
----
-
-## Видео
-
-| # | Название | Длительность | Просмотры | Дата |
-|---|----------|-----------|------|-------------|
-| 1 | ReactionQuest Video Demonstation | 8:11 | 2,8 тыс. | 2023 |
-| 2 | Unreal Engine 📢 Диспатчеры | 20:07 | 570 | 2023 |
-| 3 | Unreal Engine 🔒 Кодовый замок с репликацией | 6:56 | 446 | 2023 |
-| 4 | Unreal Engine 📌 Ещё один тутор по двери | 10:33 | 518 | 2023 |
-| 5 | A-Pose to T-Pose in UE4 |  | 11 тыс. | 2020 |
  
  
 --- 
@@ -14520,6 +14764,48 @@ https://steamcommunity.com/profiles/76561198197518828 - Мой Steam (добав
  
 --- 
  
+# Metaxis Games
+
+Дополнительная информация
+
+**Страна:** Дата регистрации: 22 сент. 2011 г.
+**Подписчиков:** 3340
+**Видео:** 25
+**Всего просмотров:** 135218
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Part 9 - Set Heightened Senses and Look At Player Animation | 2:34 | 4 тыс. | август 2025 |
+| 2 | 2,000 Subs: New Discord Server + Channel Updates | 26:12 | 305 | август 2025 |
+| 3 | ***OLD*** Metaxis AI Perception Tools Plugin: Free UE5 Plugin to Enhance NPC Behaviour | 10:50 | 3,5 тыс. | август 2025 |
+| 4 | Part 7: Prediction Sense \| "Alien: Isolation" Smart AI in UE5 | 31:44 | 3,4 тыс. | июль 2025 |
+| 5 | Part 8: Multiple Vision Cones in UE5 \| "Alien: Isolation" Smart AI in UE5 | 44:20 | 3,9 тыс. | июль 2025 |
+| 6 | Part 6 - Code Cleanup and Improving State Tree Performance \| "Alien: Isolation" Smart AI in UE5 |  | 4,2 тыс. | июль 2025 |
+| 7 | Part 5: Sight Perception And Attack Behaviour. \| "Alien: Isolation" Smart AI in UE5 | 30:58 | 10 тыс. | июль 2025 |
+| 8 | Part 4: The AI Controller and Basic NPC Behaviour \| "Alien: Isolation" Smart AI in UE5 |  | 8,1 тыс. | июнь 2025 |
+| 9 | Part 3: Complete Beginner's Guide to State Trees \| "Alien: Isolation" Smart AI in UE5 | 14:30 | 12 тыс. | июнь 2025 |
+| 10 | Part 2: The OpenCage Mod Toolkit \| "Alien: Isolation" Smart AI in UE5 | 7:02 | 9,9 тыс. | июнь 2025 |
+| 11 | Part 1: Introduction \| "Alien: Isolation" Smart AI in UE5 | 12:51 | 22 тыс. | июнь 2025 |
+| 12 | How to make a MODULAR STAMINA SYSTEM in Unreal Engine 5 \| Part 5 (Follow Up) | 37:30 | 1 тыс. | 2025 |
+| 13 | How to Create a Head-Tracking Flashlight in VR \| Unreal Engine 5 VR | 6:24 | 1,5 тыс. | 2025 |
+| 14 | Prototyping my Horror Enemy AI Behaviour (No Commentary) \| Development Update: Unreal Engine 5 | 21:02 | 909 | 2025 |
+| 15 | How to Change AI Movement Speed with BEHAVIOUR TREE in the GAME ANIMATION SAMPLE \| Unreal Engine 5 | 11:17 | 5,2 тыс. | 2025 |
+| 16 | How to add an AI NPC with BEHAVIOUR TREE to the GAME ANIMATION SAMPLE \| Unreal Engine 5 | 36:37 | 10 тыс. | 2025 |
+| 17 | How to Playtest Your VR Game in Flatscreen Mode \| Unreal Engine 5 VR | 1:18 | 6,4 тыс. | 2025 |
+| 18 | Testing Transition from Game Level to Pause Level in VR | 2:32 | 244 | 2025 |
+| 19 | How to make a MODULAR STAMINA SYSTEM in Unreal Engine 5 \| Part 4 (Bug Fix) | 16:45 | 1,1 тыс. | 2025 |
+| 20 | How to make a MODULAR STAMINA SYSTEM in Unreal Engine 5 \| Part 3 | 37:04 | 1,6 тыс. | 2025 |
+| 21 | How to make a MODULAR STAMINA SYSTEM in Unreal Engine 5 \| Part 2 | 25:14 | 2,5 тыс. | 2025 |
+| 22 | How to make a MODULAR STAMINA SYSTEM in Unreal Engine 5 \| Part 1 | 4:34 | 7 тыс. | 2025 |
+| 23 | Install Unreal Engine on External SSD (4x Faster) |  | 8,1 тыс. | 2024 |
+ 
+ 
+--- 
+ 
 # Valkyrie
 
 Мой второй канал для всякой всячины по Unreal Engine 5.
@@ -14579,6 +14865,54 @@ https://steamcommunity.com/profiles/76561198197518828 - Мой Steam (добав
 | 40 | Pro Каналы столкновений | 22:55 | 4 | 2024 |
 | 41 | Decal to Mesh V2 | 5:14 | 10 | 2024 |
 | 42 | Decal to Mesh V1 |  | 8 | 2024 |
+ 
+ 
+--- 
+ 
+# Андрей Михеев
+
+Делаю игры. Играю в игры.
+
+**Страна:** Россия
+**Дата регистрации:** 11 дек. 2014 г.
+**Подписчиков:** 340
+**Видео:** 40
+**Всего просмотров:** 16991
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | Лодки качаются на волнах - Шейдерная анимация Unreal Engine |  | 286 | март 2026 |
+| 2 | Персонажи в игре отвечают через бесплатную нейронку (Runtime Free AI Chatbot) | 1:10 | 429 | март 2026 |
+| 3 | Godlike Arena⚡Prototype CBT | 40:28 | 66 | октябрь 2025 |
+| 4 | Streamers play PandaRollers | 3:02 | 163 | 2024 |
+| 5 | Обзор игры The Last Shot | 38:08 | 398 | 2024 |
+| 6 | Quake 3 🚀 Несите полотенце | 11:55 | 343 | 2024 |
+| 7 | Quake 3 🛸 Маньяки ближнего боя | 1:34 | 399 | 2024 |
+| 8 | ItsRoachTime 🐜 Gameplay Video 🤟 v0.43 | 7:29 | 502 | 2024 |
+| 9 | ReactionQuest Video Demonstation | 1:30 | 2,8 тыс. | 2023 |
+| 10 | PandaRollers (WIP v0.12.31) | 8:11 | 519 | 2023 |
+| 11 | Unreal Engine 📢 Диспатчеры | 20:07 | 572 | 2023 |
+| 12 | Unreal Engine 🔒 Кодовый замок с репликацией | 7:01 | 453 | 2023 |
+| 13 | Unreal Engine ⚡ Архитектура. Что положить в инвентарь? | 25:38 | 860 | 2023 |
+| 14 | Unreal Engine 🌈 Помощник визуализации BoxCollision | 6:56 | 194 | 2023 |
+| 15 | Unreal Engine 📌 Ещё один тутор по двери | 1:13 | 522 | 2023 |
+| 16 | SpaceSeals Gameplay Video | 3:20 | 3,4 тыс. | 2022 |
+| 17 | Квики в поисках Мики (15.04.2018) libgdx | 10:33 | 157 | 2020 |
+| 18 | A-Pose to T-Pose in UE4 | 4:23 | 11 тыс. | 2020 |
+| 19 | Game Design \| Интересные игровые решения 7 | 4:52 | 66 | 2019 |
+| 20 | 2 meters - full gameplay | 6:38 | 35 | 2019 |
+| 21 | Интересные игровые решения 5 | 8:16 | 128 | 2019 |
+| 22 | Интересные игровые решения 4 | 6:18 | 95 | 2019 |
+| 23 | Интересные игровые решения 3 | 7:01 | 66 | 2019 |
+| 24 | Интересные игровые решения 2 | 5:28 | 73 | 2019 |
+| 25 | Интересные игровые решения | 1:14 | 162 | 2019 |
+| 26 | Blade of Light \| Game for the 3rd Discord Libgdx Gamejam | 1:21 | 130 | 2019 |
+| 27 | Зомби веганы (03.01.2016) libgdx | 27:33 | 29 | 2019 |
+| 28 | Экскурсия по коду (Весёлое ведерко) libgdx |  | 152 | 2018 |
  
  
 --- 
@@ -17526,6 +17860,166 @@ Email : munbrush@gmail.com
 | 62 | 지브러쉬에서 군용 가방 모델링하기. [Part 2] | 12:59 | 1,1 тыс. | 2019 |
 | 63 | 지브러쉬에서 군용 가방 모델링하기. |  | 1,5 тыс. | 2019 |
 | 64 | Military bag modeling in ZBrush |  | 10 тыс. | 2019 |
+ 
+ 
+--- 
+ 
+# Thejollygrimreaper
+
+I make unreal engine 5 tutorials , openscad tutorials , will possibly get in to blender
+My goal with this is to cover techniques and ideas in unreal engine not often done or i think isn't covered by anyone else, so be warned there will be some weird stuff.
+I'm trying to get this channel to 1000 subscribers and 4000 watch hours so i can get back to being monestised again ,after that i will look at expanding things a bit more, I'm working on a schedule that ties in with streaming so i can run a stream for unreal engine stuff
+now that i have a decentish mic I'm looking at redoing some of the older videos that didn't have the greatest audio and update things a bit
+i have also started separating content into different channels
+gaming
+and car engine related stuff
+
+**Страна:** Австралия
+**Дата регистрации:** 26 сент. 2011 г.
+**Подписчиков:** 583
+**Видео:** 84
+**Всего просмотров:** 216804
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | How To Tutorial Unreal Engine 5 Physics Handles in depth - audio fixed | 16:33 | 1,9 тыс. | 2025 |
+| 2 | How To Tutorial : Unreal Engine 5 UMG Widget basic communication with blueprints | 7:28 | 1,5 тыс. | 2024 |
+| 3 | Unreal Engine and the mystery of the line trace explained | 20:34 | 170 | 2024 |
+| 4 | How To Tutorial : Unreal Engine 5 Physics Constraints a Door you can push | 16:47 | 1,9 тыс. | 2024 |
+| 5 | How To Tutorial : Unreal Engine 5 Simple point to point build mechanism | 24:42 | 355 | 2024 |
+| 6 | How To Tutorial : Unreal Engine 5 just another Interaction system | 3:53 | 217 | 2024 |
+| 7 | How To Tutorial : unreal engine 5 very simple hover up and down | 31:10 | 2 тыс. | 2024 |
+| 8 | How To Tutorial : unreal engine 5 Simple Flying ship system handles like a Minecraft boat | 17:50 | 1,2 тыс. | 2024 |
+| 9 | How To Tutorial : unreal engine 5 Minecraft block style placement and a bit more with rotation | 18:13 | 1 тыс. | 2024 |
+| 10 | How To Tutorial : Custom data and multiple textures one lazy material | 5:34 | 585 | 2024 |
+| 11 | How To Tutorial : UMG Wrap box ( graphical part of inventory system ) | 7:25 | 1,2 тыс. | 2024 |
+| 12 | How To Tutorial : Pick Up Loot! - coins part2 | 28:09 | 35 | 2024 |
+| 13 | How To Tutorial : Make a destroyable or mineable object in Unreal Engine | 19:16 | 161 | 2024 |
+| 14 | How To Tutorial : Signs Unreal Engine 5.1 part2 | 6:14 | 208 | 2024 |
+| 15 | How to : make a simple coin | 13:44 | 35 | 2024 |
+| 16 | How to : buttons part 4 Doors - unreal engine tutorial | 11:26 | 825 | 2024 |
+| 17 | How To Tutorial : Signs Unreal Engine 5.1 part1 | 7:52 | 1,1 тыс. | 2024 |
+| 18 | How To Tutorial : Make a lever switch in unreal engine 5.1 part3 | 0:22 | 823 | 2024 |
+| 19 | unreal engine 5 : button short | 13:19 | 163 | 2024 |
+| 20 | How To Tutorial : Make a Button in unreal engine 5.1 part2 | 17:18 | 3 тыс. | 2024 |
+| 21 | How To Tutorial : Make a Button in unreal engine 5.1 part1 |  | 2 тыс. | 2024 |
+| 22 | Insane cube spawning causes FPS death | 1:37 | 65 | 2024 |
+| 23 | Spawning cubes take over ! | 4:00 | 20 | 2024 |
+| 24 | Unreal Engine 5 - mouse invert and sensitivity as runtime in blueprints | 11:10 | 6 тыс. | 2024 |
+| 25 | Unreal Engine 5 - Single Line Trace | 5:49 | 320 | 2024 |
+| 26 | Unreal Engine 5 - blueprint function library | 2:55 | 85 | 2023 |
+| 27 | UE5 webserver abstract object streaming testing | 3:57 | 12 | 2023 |
+| 28 | UE5 -runtime object spawn / destroy system test | 3:25 | 176 | 2023 |
+| 29 | UE5 - how to get the size of an Actor | 13:01 | 2,5 тыс. | 2023 |
+| 30 | UE5 - how tags work | 11:06 | 753 | 2023 |
+| 31 | UE5 - buildable cubes pointing with the mouse | 19:50 | 25 | 2023 |
+| 32 | UE5 - buildable cube | 5:42 | 48 | 2023 |
+| 33 | UE5 - simple line trace (single) | 7:28 | 249 | 2023 |
+| 34 | UE5 - how to invert the mouse | 13:24 | 3,1 тыс. | 2023 |
+| 35 | Openscad : Making a keyring with text | 15:36 | 4,3 тыс. | 2016 |
+| 36 | Openscad : How to do text and how it works | 3:23 | 20 тыс. | 2016 |
+| 37 | OpenSCAD : offset command | 7:01 | 2 тыс. | 2016 |
+| 38 | Openscad : Equilateral pointy and rounded triangles | 9:10 | 1,1 тыс. | 2016 |
+| 39 | Openscad : rounded and pointy right angle triangles | 7:27 | 10 тыс. | 2016 |
+| 40 | Openscad : pointy and rounded isosceles triangle | 16:09 | 942 | 2016 |
+| 41 | Openscad : simplistic parametric hook | 5:44 | 856 | 2016 |
+| 42 | Openscad : batch file object generation | 1:49 | 677 | 2016 |
+| 43 | Openscad: Variables #1 | 2:14 | 515 | 2015 |
+| 44 | openscad: how scale works | 7:51 | 1,6 тыс. | 2015 |
+| 45 | Openscad: how to do a linear extrude | 1:27 | 1,6 тыс. | 2015 |
+| 46 | Openscad: how intersection works | 3:37 | 598 | 2015 |
+| 47 | Openscad: how to do an IF statement | 3:37 | 1 тыс. | 2015 |
+| 48 | Openscad: how to use a for loop | 6:33 | 1,6 тыс. | 2015 |
+| 49 | Openscad: how difference and union works | 4:28 | 3,6 тыс. | 2015 |
+| 50 | Openscad : how to do a chamfered hole | 9:02 | 14 тыс. | 2015 |
+| 51 | Openscad : Simple Hexagon shape | 4:49 | 8,7 тыс. | 2015 |
+| 52 | Openscad: how to do a cube with round corners ( Hull ) | 4:43 | 21 тыс. | 2015 |
+| 53 | thermal runaway test#3 wire wound resistor 12v | 0:07 | 1,3 тыс. | 2015 |
+| 54 | Thermal runaway test #2 4k timelapse | 3:18 | 14 тыс. | 2015 |
+| 55 | Thermal Runaway Test #2 | 11:53 | 31 тыс. | 2015 |
+| 56 | Hotend thermal runaway test #1 - Aluhotend | 0:15 | 6,1 тыс. | 2015 |
+| 57 | icecubetimelapse |  | 55 | 2014 |
+ 
+ 
+--- 
+ 
+# Crazedmonkey231
+
+Welcome! I'm Crazedmonkey231, a Python/C#/Java programmer who plays around in Unreal Engine as a hobby.
+
+**Страна:** Дата регистрации: 8 сент. 2022 г.
+**Подписчиков:** 665
+**Видео:** 59
+**Всего просмотров:** 68865
+
+---
+
+## Видео
+
+| # | Название | Длительность | Просмотры | Дата |
+|---|----------|-----------|------|-------------|
+| 1 | How To Make A Simple Data Driven Quest System In UE 5 | 1:38 | 423 | 2025 |
+| 2 | Some Extra Slicing With Inversed Time Dilation In UE 5 | 9:20 | 112 | 2025 |
+| 3 | How To Slice A Procedural Mesh From Static Mesh In UE 5 | 8:09 | 2,6 тыс. | 2025 |
+| 4 | How To Make A Multipoint Grappling System With Time Dilation In UE 5 | 4:47 | 407 | 2025 |
+| 5 | Adding An Inventory To The Dialog System In UE 5 | 5:39 | 222 | 2025 |
+| 6 | How To Make A Simple Railing Using Splines, HISM, and Cables In UE 5 | 3:06 | 265 | 2025 |
+| 7 | How To Populate A Hierarchical Instanced Static Mesh Along A Spline In UE 5 | 4:51 | 1,4 тыс. | 2025 |
+| 8 | How To Make A Simple Cube Using Hierarchical Instanced Static Mesh In UE 5 | 10:08 | 1,7 тыс. | 2025 |
+| 9 | How To Update The Simple To Advanced Dialog System In UE 5 | 9:57 | 290 | 2025 |
+| 10 | How To Make A Simple Data Driven Dialog System In UE 5 | 7:37 | 1,2 тыс. | 2025 |
+| 11 | Mini Jam 153 Fishing \| Robo Reclaimer Gameplay Overview \| UE 5 Prototype | 4:26 | 60 | 2024 |
+| 12 | How To Create Basic Shape Exclusion Zones In PCG Volumes In UE 5 | 5:23 | 6,1 тыс. | 2024 |
+| 13 | Mini Jam 152 Hero's \| Doctor Slime Gameplay Overview \| UE 5 Prototype | 3:03 | 33 | 2024 |
+| 14 | Mini Jam 151 Dragons \| Card Flight Dragon's Duel \| Overview | 8:16 | 45 | 2024 |
+| 15 | How To Make A Simple Data Driven Hud In UE 5 | 12:00 | 446 | 2024 |
+| 16 | How To Move Actors Along A Spline To Make "Bezier Style" Factory Belts In UE 5 | 4:35 | 673 | 2024 |
+| 17 | How To Make Simple Rail Grinding In UE 5 | 2:48 | 3 тыс. | 2024 |
+| 18 | Mini Jam 150 \| Prototype Showcase \| Guardian Of Light | 12:28 | 29 | 2024 |
+| 19 | How To Make A Connectable Power System To Light The Way In UE 5 | 12:10 | 3,2 тыс. | 2024 |
+| 20 | How To Pickup Objects Using A Physics Handle To Go Building In UE 5 | 5:10 | 3,8 тыс. | 2024 |
+| 21 | How To Attach Actors Using Physics Constraint To Do "Bolt Style" Building In UE 5 | 13:25 | 5,5 тыс. | 2024 |
+| 22 | How To Make A Modular Hover Car To Go Driving With In UE 5 | 9:22 | 875 | 2024 |
+| 23 | How To Make A Simple Bow And Arrow In UE 5 | 10:11 | 1,1 тыс. | 2024 |
+| 24 | How To Attach A Cable To A Projectile To Go Fishing In UE 5 | 5:32 | 3,5 тыс. | 2024 |
+| 25 | How To Make Simple Footsteps in UE 5 | 8:07 | 321 | 2024 |
+| 26 | Mini Jam 149 \| Labyrinth Of Legends \| Showcase | 5:48 | 84 | 2024 |
+| 27 | How To Make A Simple Grappling Hook in UE 5 | 7:46 | 6,5 тыс. | 2024 |
+| 28 | How To Examine Actors in UE 5 | 6:40 | 530 | 2024 |
+| 29 | How To Attach a Cable Between Actors in UE 5 | 4:40 | 5,9 тыс. | 2024 |
+| 30 | How To "Typewriter Style" Scrolling Text In UE 5 | 5:01 | 1,5 тыс. | 2024 |
+| 31 | How To Change FOV Based On Forward Speed in UE 5 | 7:20 | 1,7 тыс. | 2024 |
+| 32 | Mini Jam 146 \| Quartz Collector \| Gameplay Demo | 15:18 | 33 | 2024 |
+| 33 | Showcase Video, Simple Event Controller in UE 5 | 7:57 | 183 | 2024 |
+| 34 | Mini Jam 145 \| Ragdoll Hero \| Gameplay Demo | 4:37 | 348 | 2024 |
+| 35 | Taking Data Driven Assets To New Heights Using The Asset Registry in UE 5 | 6:00 | 4,6 тыс. | 2024 |
+| 36 | UE 5 2023 Game Jam Gameplay Demo \| Perthro | 10:34 | 49 | 2024 |
+| 37 | Prototyping A Viewer Suggestion: Saving and Loading in UE 5 | 14:09 | 112 | 2024 |
+| 38 | Prototyping Simple Inventory Pt3. Building and Crafting in UE 5 | 26:08 | 141 | 2024 |
+| 39 | Prototyping Simple Inventory Pt2: Equipment and Consumables in UE 5 | 28:23 | 204 | 2024 |
+| 40 | Prototyping A Data Driven, Simple Inventory System in UE 5 | 31:11 | 599 | 2024 |
+| 41 | Prototyping Pt2, Networked Replicated, Stats Manager Component in UE 5 | 27:07 | 160 | 2024 |
+| 42 | Prototyping A Data Driven, Network Replicated, Stat Manager Component in UE 5 | 32:39 | 199 | 2024 |
+| 43 | Prototyping A Data Driven, Network Replicated, Damage Solution in UE 5 | 16:08 | 208 | 2024 |
+| 44 | Prototyping A Data Driven, Networked Replicated, Montages And Actor Spawning | 18:15 | 87 | 2024 |
+| 45 | Prototyping A Transparent Material For Partially Built Buildings in UE 5 | 19:13 | 122 | 2024 |
+| 46 | Prototyping A Data Driven, Replicated, Procedural World Generation In UE 5 | 29:48 | 347 | 2024 |
+| 47 | Prototyping A Data Driven, Flexible, Stat System In UE 5 | 35:05 | 645 | 2024 |
+| 48 | Prototyping A Data Driven Ability System In UE 5 | 19:13 | 1,1 тыс. | 2024 |
+| 49 | Prototyping A Data Driven Damage System In UE 5 | 32:26 | 394 | 2024 |
+| 50 | Attempting to model and fly a spaceship in UE 5 | 15:41 | 516 | 2024 |
+| 51 | Making our turret component data driven in UE 5 | 38:58 | 146 | 2024 |
+| 52 | Creating a shoulder mounted auto targeting blaster in UE 5 | 29:14 | 212 | 2024 |
+| 53 | Dev Log 2 \| Making an interaction component in UE 5 | 25:17 | 145 | 2024 |
+| 54 | Dev Log 1 \| Creating simple planet gravity in UE 5 | 2:15 | 3,3 тыс. | 2024 |
+| 55 | When 2 Rimworld pawns turn into anime characters. | 2:38 | 23 | 2023 |
+| 56 | Rimworld, Creating a Fractal Pattern | 0:22 | 23 | 2023 |
+| 57 | Rimworld, Giant Spiral | 0:16 | 14 | 2023 |
+| 58 | Rimworld, You Vs. The Guy she told you not to worry about |  | 13 | 2023 |
  
  
 --- 
@@ -24297,27 +24791,33 @@ I wish you all the best of luck in your game dev careers, dreams, and projects! 
 | 64 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
 | 65 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
 | 66 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 67 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 68 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 69 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 70 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 71 | 2790 | Mootzart | [YouTube](https://www.youtube.com/@mootzartdev) |
-| 72 | 2420 | Rambod Dev | [YouTube](https://www.youtube.com/@RambodDev) |
-| 73 | 2350 | Gas City Games | [YouTube](https://www.youtube.com/@GasCityGames) |
-| 74 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 75 | 2300 | Sergey Maryshev | [YouTube](https://www.youtube.com/@SergeyMaryshev) |
-| 76 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 77 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
-| 78 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 79 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 80 | 1600 | PopulusArt | [YouTube](https://www.youtube.com/@populusart) |
-| 81 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
-| 82 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 83 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 84 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
-| 85 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 86 | 406 | Call of the Mountain | [YouTube](https://www.youtube.com/@callofthemountain) |
-| 87 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 88 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 89 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
-| 90 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 67 | 3340 | Metaxis Games | [YouTube](https://www.youtube.com/@metaxisgames) |
+| 68 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 69 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 70 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 71 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 72 | 2790 | Mootzart | [YouTube](https://www.youtube.com/@mootzartdev) |
+| 73 | 2730 | Inu Games | [YouTube](https://www.youtube.com/@games_inu) |
+| 74 | 2420 | Rambod Dev | [YouTube](https://www.youtube.com/@RambodDev) |
+| 75 | 2350 | Gas City Games | [YouTube](https://www.youtube.com/@GasCityGames) |
+| 76 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 77 | 2300 | Sergey Maryshev | [YouTube](https://www.youtube.com/@SergeyMaryshev) |
+| 78 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 79 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
+| 80 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 81 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 82 | 1600 | PopulusArt | [YouTube](https://www.youtube.com/@populusart) |
+| 83 | 1460 | Burkhardt Design | [YouTube](https://www.youtube.com/@burkhardtdesign) |
+| 84 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
+| 85 | 1040 | YedesCodes | [YouTube](https://www.youtube.com/@YedesCodes) |
+| 86 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 87 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 88 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
+| 89 | 665 | Crazedmonkey231 | [YouTube](https://www.youtube.com/@crazedmonkey231) |
+| 90 | 583 | Thejollygrimreaper | [YouTube](https://www.youtube.com/@thejollygrimreaper) |
+| 91 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 92 | 406 | Call of the Mountain | [YouTube](https://www.youtube.com/@callofthemountain) |
+| 93 | 340 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 94 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 95 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 96 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |

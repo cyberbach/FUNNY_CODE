@@ -68,27 +68,33 @@
 | 64 | 3950 | KK Design | [YouTube](https://www.youtube.com/@KimmoKaunela) |
 | 65 | 3610 | Wild Ox Studios | [YouTube](https://www.youtube.com/@WildOxStudios) |
 | 66 | 3570 | Games By Hyper | [YouTube](https://www.youtube.com/@gamesbyhyper.com) |
-| 67 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
-| 68 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
-| 69 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
-| 70 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
-| 71 | 2790 | Mootzart | [YouTube](https://www.youtube.com/@mootzartdev) |
-| 72 | 2420 | Rambod Dev | [YouTube](https://www.youtube.com/@RambodDev) |
-| 73 | 2350 | Gas City Games | [YouTube](https://www.youtube.com/@GasCityGames) |
-| 74 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
-| 75 | 2300 | Sergey Maryshev | [YouTube](https://www.youtube.com/@SergeyMaryshev) |
-| 76 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
-| 77 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
-| 78 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
-| 79 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
-| 80 | 1600 | PopulusArt | [YouTube](https://www.youtube.com/@populusart) |
-| 81 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
-| 82 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
-| 83 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
-| 84 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
-| 85 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
-| 86 | 406 | Call of the Mountain | [YouTube](https://www.youtube.com/@callofthemountain) |
-| 87 | 322 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
-| 88 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
-| 89 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
-| 90 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 67 | 3340 | Metaxis Games | [YouTube](https://www.youtube.com/@metaxisgames) |
+| 68 | 3260 | GMTechArt | [YouTube](https://www.youtube.com/@GMTechArt) |
+| 69 | 3130 | Steven Ormerwood | [YouTube](https://www.youtube.com/@StevenOrmerwood) |
+| 70 | 3040 | Tank Control Games | [YouTube](https://www.youtube.com/@tankcontrolgames) |
+| 71 | 2800 | KarltyDEV | [YouTube](https://www.youtube.com/@KarltyDEV) |
+| 72 | 2790 | Mootzart | [YouTube](https://www.youtube.com/@mootzartdev) |
+| 73 | 2730 | Inu Games | [YouTube](https://www.youtube.com/@games_inu) |
+| 74 | 2420 | Rambod Dev | [YouTube](https://www.youtube.com/@RambodDev) |
+| 75 | 2350 | Gas City Games | [YouTube](https://www.youtube.com/@GasCityGames) |
+| 76 | 2300 | DevGames3085 | [YouTube](https://www.youtube.com/@DevGames3085) |
+| 77 | 2300 | Sergey Maryshev | [YouTube](https://www.youtube.com/@SergeyMaryshev) |
+| 78 | 2110 | Qworco | [YouTube](https://www.youtube.com/@Qworco) |
+| 79 | 1960 | Narrative Tools | [YouTube](https://www.youtube.com/@narrativetools) |
+| 80 | 1850 | Unreal Engine, записки недопрограммиста | [YouTube](https://www.youtube.com/@uegamedev) |
+| 81 | 1850 | Олег Черных | [YouTube](https://www.youtube.com/@Oleg12879) |
+| 82 | 1600 | PopulusArt | [YouTube](https://www.youtube.com/@populusart) |
+| 83 | 1460 | Burkhardt Design | [YouTube](https://www.youtube.com/@burkhardtdesign) |
+| 84 | 1350 | UNiCoRN47vvs | [YouTube](https://www.youtube.com/@UNiCoRN47vvs) |
+| 85 | 1040 | YedesCodes | [YouTube](https://www.youtube.com/@YedesCodes) |
+| 86 | 940 | АБСОЛЮТНЫЙ АНРИЛ | [YouTube](https://www.youtube.com/@Absolute-Unreal) |
+| 87 | 841 | Risensy | [YouTube](https://www.youtube.com/@Risensy) |
+| 88 | 711 | 3d моделирование и ИИ | [YouTube](https://www.youtube.com/@3dmodeling_and_AI) |
+| 89 | 665 | Crazedmonkey231 | [YouTube](https://www.youtube.com/@crazedmonkey231) |
+| 90 | 583 | Thejollygrimreaper | [YouTube](https://www.youtube.com/@thejollygrimreaper) |
+| 91 | 491 | The Hommeyosh | [YouTube](https://www.youtube.com/@thehommeyosh8605) |
+| 92 | 406 | Call of the Mountain | [YouTube](https://www.youtube.com/@callofthemountain) |
+| 93 | 340 | Андрей Михеев | [YouTube](https://www.youtube.com/@UE_AndreyMikheev) |
+| 94 | 285 | Unreal Engine - это просто | [YouTube](https://www.youtube.com/@ueprosto) |
+| 95 | 85 | Ethan | [YouTube](https://www.youtube.com/@EthanHaize) |
+| 96 | 34 | Valkyrie | [YouTube](https://www.youtube.com/@GMTechArt) |
